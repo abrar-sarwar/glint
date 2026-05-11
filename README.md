@@ -52,44 +52,9 @@ Every page reads from `/data`. There is no fetch boundary.
 
 The application is intentionally simple. The value of GLINT is the research it presents, not the platform that serves it.
 
-```mermaid
-flowchart TB
-    subgraph data ["Data layer (/data, typed TypeScript)"]
-        direction LR
-        S[sources.ts]
-        T[techniques.ts]
-        A[adversaries.ts]
-        C[campaigns.ts]
-        D[detections.ts]
-        H[hunts.ts]
-    end
+![GLINT Architecture](./docs/architecture.svg)
 
-    subgraph pages ["App Router pages (/app)"]
-        direction LR
-        OPS["Operations /"]
-        ADV["/adversary"]
-        CMP["/campaigns/[slug]"]
-        DET["/detections"]
-        HNT["/hunting"]
-        COV["/coverage"]
-        BRF["/brief"]
-        ABT["/about"]
-    end
-
-    subgraph visuals ["Interactive client components"]
-        direction LR
-        RF1["Adversary topology"]
-        RF2["Kill chain flow"]
-        HM["Coverage heatmap"]
-        LC["Live countdown"]
-        FEED["Activity feed"]
-    end
-
-    data ==>|imported by server components| pages
-    pages ==>|hydrate| visuals
-```
-
-The data layer is six typed TypeScript files. `sources.ts` is the citation registry referenced by every other file. Server components import what they need, render pages, and hand small slices of state to a handful of client components for the interactive bits. No API layer, no database, no environment variables.
+The data layer is six typed TypeScript files. `sources.ts` is the citation registry referenced by every other file. Server components import what they need and render the eight routes at build time. Three client components hydrate after page load for interactivity: the React Flow graphs (`AdversaryGraph` and `KillChainFlow`), the `LiveCountdown` anchored to the Canvas deadline, and the synthetic `ActivityFeed`. No API layer, no database, no environment variables.
 
 ## The Three Campaigns
 

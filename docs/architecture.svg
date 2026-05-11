@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 600" width="1200" height="600" role="img" aria-label="GLINT architecture diagram">
+  <title>GLINT Architecture</title>
+  <desc>Three horizontal layers: typed data sources on the left, the Next.js 14 App Router with three client components in the middle, and eight rendered routes on the right.</desc>
+
+  <!-- Background -->
+  <rect width="1200" height="600" fill="#0f172a"/>
+
+  <!-- Title -->
+  <text x="24" y="36" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="600" fill="#e2e8f0">GLINT Architecture</text>
+  <text x="24" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#94a3b8">Typed data, server-rendered, no backend.</text>
+
+  <!-- Band labels -->
+  <g font-family="ui-monospace, Menlo, Monaco, monospace" font-weight="600" letter-spacing="1.5">
+    <text x="24" y="100" font-size="10" fill="#64748b">DATA SOURCES</text>
+    <text x="360" y="100" font-size="10" fill="#64748b">APPLICATION LAYER</text>
+    <text x="888" y="100" font-size="10" fill="#64748b">RENDERED SURFACES</text>
+  </g>
+  <g font-family="ui-monospace, Menlo, Monaco, monospace" font-size="10" fill="#475569">
+    <text x="24" y="116">/data, typed TypeScript</text>
+    <text x="360" y="116">/app, React Server Components</text>
+    <text x="888" y="116">8 App Router routes</text>
+  </g>
+
+  <!-- Arrow markers -->
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#94a3b8"/>
+    </marker>
+    <marker id="arrow-amber" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#f59e0b"/>
+    </marker>
+  </defs>
+
+  <!-- DATA SOURCES band: 6 data file boxes with left accent stripe -->
+  <g font-family="ui-monospace, Menlo, Monaco, monospace" font-size="13" fill="#e2e8f0">
+    <rect x="24" y="140" width="272" height="36" rx="4" fill="#334155" stroke="#64748b" stroke-width="1"/>
+    <rect x="24" y="140" width="4" height="36" fill="#94a3b8"/>
+    <text x="44" y="163">sources.ts</text>
+    <text x="252" y="163" font-size="10" fill="#94a3b8" text-anchor="end">citations</text>
+
+    <rect x="24" y="184" width="272" height="36" rx="4" fill="#334155" stroke="#64748b" stroke-width="1"/>
+    <rect x="24" y="184" width="4" height="36" fill="#94a3b8"/>
+    <text x="44" y="207">techniques.ts</text>
+    <text x="252" y="207" font-size="10" fill="#94a3b8" text-anchor="end">ATT&amp;CK</text>
+
+    <rect x="24" y="228" width="272" height="36" rx="4" fill="#334155" stroke="#64748b" stroke-width="1"/>
+    <rect x="24" y="228" width="4" height="36" fill="#94a3b8"/>
+    <text x="44" y="251">adversaries.ts</text>
+    <text x="252" y="251" font-size="10" fill="#94a3b8" text-anchor="end">dossier</text>
+
+    <rect x="24" y="272" width="272" height="36" rx="4" fill="#334155" stroke="#64748b" stroke-width="1"/>
+    <rect x="24" y="272" width="4" height="36" fill="#94a3b8"/>
+    <text x="44" y="295">campaigns.ts</text>
+    <text x="252" y="295" font-size="10" fill="#94a3b8" text-anchor="end">3 campaigns</text>
+
+    <rect x="24" y="316" width="272" height="36" rx="4" fill="#334155" stroke="#64748b" stroke-width="1"/>
+    <rect x="24" y="316" width="4" height="36" fill="#94a3b8"/>
+    <text x="44" y="339">detections.ts</text>
+    <text x="252" y="339" font-size="10" fill="#94a3b8" text-anchor="end">14 rules</text>
+
+    <rect x="24" y="360" width="272" height="36" rx="4" fill="#334155" stroke="#64748b" stroke-width="1"/>
+    <rect x="24" y="360" width="4" height="36" fill="#94a3b8"/>
+    <text x="44" y="383">hunts.ts</text>
+    <text x="252" y="383" font-size="10" fill="#94a3b8" text-anchor="end">6 hypotheses</text>
+  </g>
+
+  <!-- APPLICATION LAYER band -->
+  <g id="app-layer">
+    <rect x="360" y="140" width="464" height="288" rx="8" fill="#312e81" stroke="#6366f1" stroke-width="1.25"/>
+
+    <text x="380" y="170" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#e2e8f0">Next.js 14 App Router</text>
+    <text x="380" y="190" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#c7d2fe">React Server Components render at build time.</text>
+
+    <line x1="380" y1="212" x2="804" y2="212" stroke="#4338ca" stroke-width="1"/>
+
+    <text x="380" y="234" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="10" fill="#a5b4fc" letter-spacing="1.5" font-weight="600">CLIENT COMPONENTS · HYDRATION ISLANDS</text>
+
+    <!-- Client component 1: graphs -->
+    <rect x="380" y="248" width="424" height="44" rx="4" fill="#1e1b4b" stroke="#f59e0b" stroke-width="1.25"/>
+    <text x="396" y="270" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#fde68a">AdversaryGraph + KillChainFlow</text>
+    <text x="396" y="285" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="10" fill="#fcd34d">React Flow, click-to-inspect</text>
+
+    <!-- Client component 2: countdown -->
+    <rect x="380" y="300" width="424" height="44" rx="4" fill="#1e1b4b" stroke="#f59e0b" stroke-width="1.25"/>
+    <text x="396" y="322" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#fde68a">LiveCountdown</text>
+    <text x="396" y="337" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="10" fill="#fcd34d">setInterval, anchored to UTC deadline</text>
+
+    <!-- Client component 3: activity feed -->
+    <rect x="380" y="352" width="424" height="44" rx="4" fill="#1e1b4b" stroke="#f59e0b" stroke-width="1.25"/>
+    <text x="396" y="374" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#fde68a">ActivityFeed</text>
+    <text x="396" y="389" font-family="ui-monospace, Menlo, Monaco, monospace" font-size="10" fill="#fcd34d">synthetic stream, labelled in product</text>
+  </g>
+
+  <!-- RENDERED SURFACES band -->
+  <g font-family="ui-monospace, Menlo, Monaco, monospace" font-size="12" fill="#e2e8f0">
+    <rect x="888" y="140" width="288" height="32" rx="4" fill="#134e4a" stroke="#2dd4bf" stroke-width="1"/>
+    <text x="904" y="161">/</text>
+    <text x="1162" y="161" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#5eead4" text-anchor="end">Operations</text>
+
+    <rect x="888" y="180" width="288" height="32" rx="4" fill="#134e4a" stroke="#2dd4bf" stroke-width="1"/>
+    <text x="904" y="201">/adversary</text>
+    <text x="1162" y="201" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#5eead4" text-anchor="end">Dossier</text>
+
+    <rect x="888" y="220" width="288" height="32" rx="4" fill="#134e4a" stroke="#2dd4bf" stroke-width="1"/>
+    <text x="904" y="241">/campaigns/[slug]</text>
+    <text x="1162" y="241" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#5eead4" text-anchor="end">Deep dive</text>
+
+    <rect x="888" y="260" width="288" height="32" rx="4" fill="#134e4a" stroke="#2dd4bf" stroke-width="1"/>
+    <text x="904" y="281">/detections</text>
+    <text x="1162" y="281" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#5eead4" text-anchor="end">Rule library</text>
+
+    <rect x="888" y="300" width="288" height="32" rx="4" fill="#134e4a" stroke="#2dd4bf" stroke-width="1"/>
+    <text x="904" y="321">/hunting</text>
+    <text x="1162" y="321" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#5eead4" text-anchor="end">Hypotheses</text>
+
+    <rect x="888" y="340" width="288" height="32" rx="4" fill="#134e4a" stroke="#2dd4bf" stroke-width="1"/>
+    <text x="904" y="361">/coverage</text>
+    <text x="1162" y="361" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#5eead4" text-anchor="end">ATT&amp;CK heatmap</text>
+
+    <rect x="888" y="380" width="288" height="32" rx="4" fill="#134e4a" stroke="#2dd4bf" stroke-width="1"/>
+    <text x="904" y="401">/brief</text>
+    <text x="1162" y="401" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#5eead4" text-anchor="end">Executive</text>
+
+    <rect x="888" y="420" width="288" height="32" rx="4" fill="#134e4a" stroke="#2dd4bf" stroke-width="1"/>
+    <text x="904" y="441">/about</text>
+    <text x="1162" y="441" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#5eead4" text-anchor="end">Methodology</text>
+  </g>
+
+  <!-- Primary arrows -->
+  <g>
+    <line x1="298" y1="268" x2="356" y2="268" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+    <text x="327" y="260" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1" text-anchor="middle">typed imports</text>
+
+    <line x1="826" y1="268" x2="884" y2="268" stroke="#94a3b8" stroke-width="2" marker-end="url(#arrow)"/>
+    <text x="855" y="260" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1" text-anchor="middle">server-rendered HTML</text>
+  </g>
+
+  <!-- Hydration arrow (dashed amber) -->
+  <g>
+    <path d="M 826 374 L 884 374" stroke="#f59e0b" stroke-width="1.75" stroke-dasharray="5,4" fill="none" marker-end="url(#arrow-amber)"/>
+    <text x="855" y="366" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#fbbf24" text-anchor="middle">hydration</text>
+  </g>
+
+  <!-- Footer caption -->
+  <g font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#64748b" text-anchor="middle">
+    <text x="600" y="498">Six typed TypeScript files. Eight server-rendered routes. Three client components that hydrate after page load.</text>
+    <text x="600" y="516">No API layer, no database, no environment variables.</text>
+  </g>
+
+  <!-- Legend -->
+  <g transform="translate(24, 548)">
+    <rect x="0" y="0" width="12" height="12" rx="2" fill="#334155" stroke="#64748b" stroke-width="1"/>
+    <text x="20" y="10" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#94a3b8">data file</text>
+
+    <rect x="100" y="0" width="12" height="12" rx="2" fill="#312e81" stroke="#6366f1" stroke-width="1"/>
+    <text x="120" y="10" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#94a3b8">server-rendered</text>
+
+    <rect x="240" y="0" width="12" height="12" rx="2" fill="#1e1b4b" stroke="#f59e0b" stroke-width="1.25"/>
+    <text x="260" y="10" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#94a3b8">client component (hydrates)</text>
+
+    <rect x="430" y="0" width="12" height="12" rx="2" fill="#134e4a" stroke="#2dd4bf" stroke-width="1"/>
+    <text x="450" y="10" font-family="system-ui, -apple-system, sans-serif" font-size="10" fill="#94a3b8">rendered route</text>
+  </g>
+</svg>
