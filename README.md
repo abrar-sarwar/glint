@@ -1,28 +1,56 @@
 # GLINT
 
-> Graph-Linked Intel for Network Threats. A focused, single-actor intel product that profiles the ShinyHunters cluster, the three flagship campaigns they have run since 2024, and the 14 detection rules that would catch them in your environment.
+> An OSINT research project profiling the ShinyHunters / Scattered LAPSUS$ Hunters cluster, the three flagship campaigns they have run since 2024, and the detection rules and hunt hypotheses written against their documented tradecraft.
 
 ![Next.js 14](https://img.shields.io/badge/Next.js-14-black) ![TypeScript](https://img.shields.io/badge/TypeScript-strict-3178c6) ![Tailwind](https://img.shields.io/badge/Tailwind-3.4-38bdf8) ![MITRE ATT&CK](https://img.shields.io/badge/MITRE-ATT%26CK-c8262c) ![TLP:CLEAR](https://img.shields.io/badge/TLP-CLEAR-7ce4a8) ![License: MIT](https://img.shields.io/badge/License-MIT-blue)
 
-## The Problem
+## What This Is
 
-Open the average detection engineering Slack and you will find half a dozen vendor blogs, three news articles, two threat intel feeds, and one Mandiant PDF, all describing pieces of the same active campaign. Nobody on the team has a single structured view of what the adversary is doing right now, which of their techniques the team has coverage for, and which detection rules would close the gaps.
+GLINT is an open-source intelligence (OSINT) research project focused on a single active threat actor cluster. The project monitors ShinyHunters / Scattered LAPSUS$ Hunters across primary reporting, structures what they have done into a coherent intel record, and translates their documented tradecraft into detection rules and hunt hypotheses that defenders can use.
 
-Commercial intel platforms like Mandiant Advantage and CrowdStrike Falcon Intelligence solve this. They also cost six figures a year. Small teams, contractors, and individual analysts end up with browser tabs instead of intel.
+The model is the same one used by professional threat intel teams at CrowdStrike Counter Adversary Operations, Mandiant, and Recorded Future: pick an adversary, watch them, write it down, build detections against their techniques. GLINT is the single-actor, single-analyst version of that work, with every claim cited to a primary source.
 
-GLINT is the small, focused version. One cluster. Three campaigns. A real detection library. Every claim cites a primary source. Today is anchored to the actual clock, so the live countdown to the current extortion deadline updates in real time.
+## Why ShinyHunters
 
-## What GLINT Does
+ShinyHunters has been one of the most active financially motivated eCrime clusters of the past three years. Their campaigns demonstrate the modern attacker pattern that CrowdStrike's 2026 Global Threat Report calls "log in, don't break in": valid credentials, OAuth abuse, SaaS-layer exfiltration, and extortion without ransomware. Three campaigns alone, since 2024, account for hundreds of victim organisations and over 1.7 billion compromised records:
 
-- Profiles the ShinyHunters / Scattered LAPSUS$ Hunters cluster across three flagship campaigns: Snowflake C5537 in 2024, Salesloft Drift OAuth supply chain in 2025, and the active Canvas extortion in 2026.
-- Ships 14 detection rules. Three are fully authored in Sigma YAML, CrowdStrike Falcon LogScale CQL, and Splunk SPL. Every rule is mapped to MITRE ATT&CK techniques and the campaigns that exercise them.
-- Renders a MITRE ATT&CK coverage heatmap colored by detection status (production, draft, none).
-- Visualizes the adversary cluster topology and the per-campaign kill chains as interactive React Flow graphs.
-- Anchors every campaign, named victim, and statistic to a cited primary source. Synthetic IOCs are clearly labelled. Source URLs that need manual audit are flagged in the data.
+- 2024: Snowflake credential stuffing (UNC5537). Approximately 165 customer tenants compromised.
+- 2025: Salesloft Drift OAuth supply chain (UNC6395). Approximately 760 Salesforce orgs, around 1.5 billion records.
+- 2026: Active Canvas / Instructure extortion. Approximately 275 million records, 8,809 institutions.
+
+The cluster keeps operating. They are a useful subject for sustained intelligence work because the public reporting is rich enough to learn from, and they continue to evolve their tradecraft in real time. The home page of this application includes a live countdown to the current Canvas ransom deadline (May 12 2026) because the campaign is, as of this writing, ongoing.
+
+## The Research
+
+What the project produced:
+
+- A structured dossier of the ShinyHunters cluster, including UNC aliases (UNC5537, UNC6040, UNC6395), known affiliates (Scattered Spider, Lapsus$), and named victims, all cited to primary reporting.
+- Three campaign deep-dives with timelines, kill chains, and IOCs distinguished as observed vs. synthetic.
+- 14 detection rules authored against documented TTPs, three of which are fully written in Sigma YAML, CrowdStrike Falcon LogScale CQL, and Splunk SPL.
+- Six hunt hypotheses, each tied back to the cited reporting that motivates it.
+- A MITRE ATT&CK coverage heatmap showing which techniques across the cluster's tradecraft have detection coverage.
+- A citation registry of 42 sources spanning Mandiant, CrowdStrike, vendor disclosures (Instructure, Salesloft, Salesforce, Snowflake, AT&T 8-K), investigative journalism (Krebs, CNN, TechCrunch, The Record, Inside Higher Ed), Bitdefender, DataBreaches.net, and Wikipedia.
+
+## The Application
+
+The research is presented through a small static Next.js 14 application with no backend. The app is the delivery mechanism, not the project. Pages are rendered server-side from typed source files in `/data`. Three small client components handle interactive elements: the React Flow graphs, the live countdown to the current extortion deadline, and the synthetic activity feed.
+
+Every page reads from `/data`. There is no fetch boundary.
+
+| Route | Purpose |
+|---|---|
+| `/` | Operations dashboard. Live countdown to the Canvas deadline, three CrowdStrike threat indicators (each cited), three tracked campaigns, detection coverage strip, synthetic activity feed in the right rail. |
+| `/adversary` | ShinyHunters dossier. React Flow topology of the cluster with named UNC aliases, affiliates, and victims. Click any node to inspect. |
+| `/campaigns/[slug]` | Per-campaign deep dive. Six- or seven-stage kill chain rendered horizontally in React Flow, side panel that updates as you click stages, vertical timeline, IOC table with synthetic vs. observed marking, and a source list. |
+| `/detections` | Detection rule library. Searchable, filterable by severity and status. Each rule's detail panel shows Sigma YAML, Falcon LogScale CQL, and Splunk SPL forms when authored, plus a provenance card. |
+| `/hunting` | Six hunt hypotheses. Each has rationale, query pseudocode, expected output, triage steps, MITRE coverage, and the source citations that motivated it. |
+| `/coverage` | MITRE ATT&CK heatmap. Tactics as columns, techniques as cells, colored by the status of the matching detection. |
+| `/brief` | Single-page executive summary. Printable, anchored to today's date. |
+| `/about` | Methodology, data provenance section, and the full citation registry grouped by source type. |
 
 ## Architecture
 
-GLINT is a static Next.js 14 application with no backend. Typed data lives in `/data` and is rendered through React Server Components. Three small client components handle the interactive bits: the React Flow graphs, the live countdown, and the synthetic activity feed.
+The application is intentionally simple. The value of GLINT is the research it presents, not the platform that serves it.
 
 ```mermaid
 flowchart LR
@@ -83,21 +111,6 @@ flowchart LR
 
 Data flows in one direction. Typed source files are imported by server components, which assemble page output and pass slices into a handful of client components for interactive rendering. There is no API layer, no database, and no environment variable to configure.
 
-## The Surfaces
-
-Every page reads from `/data`. There is no fetch boundary.
-
-| Route | Purpose |
-|---|---|
-| `/` | Operations dashboard. Live countdown to the Canvas deadline, three CrowdStrike threat indicators (each cited), three tracked campaigns, detection coverage strip, synthetic activity feed in the right rail. |
-| `/adversary` | ShinyHunters dossier. React Flow topology of the cluster with named UNC aliases, affiliates, and victims. Click any node to inspect. |
-| `/campaigns/[slug]` | Per-campaign deep dive. Six- or seven-stage kill chain rendered horizontally in React Flow, side panel that updates as you click stages, vertical timeline, IOC table with synthetic vs. observed marking, and a source list. |
-| `/detections` | Detection rule library. Searchable, filterable by severity and status. Each rule's detail panel shows Sigma YAML, Falcon LogScale CQL, and Splunk SPL forms when authored, plus a provenance card. |
-| `/hunting` | Six hunt hypotheses. Each has rationale, query pseudocode, expected output, triage steps, MITRE coverage, and the source citations that motivated it. |
-| `/coverage` | MITRE ATT&CK heatmap. Tactics as columns, techniques as cells, colored by the status of the matching detection. |
-| `/brief` | Single-page executive summary. Printable, anchored to today's date. |
-| `/about` | Methodology, data provenance section, and the full citation registry grouped by source type. |
-
 ## The Three Campaigns
 
 ### Snowflake C5537 (2024)
@@ -114,7 +127,7 @@ On April 29 2026, Instructure detected a compromise of its Canvas LMS. The compa
 
 ## The Detections
 
-14 rules across the kill chain. Three are fully authored in all three formats. The remainder are stubbed with metadata sufficient to populate the rule library and the coverage heatmap.
+GLINT ships 14 detection rules authored against the documented tradecraft of the three campaigns. Three are fully written in Sigma YAML, CrowdStrike Falcon LogScale CQL, and Splunk SPL. The remaining eleven carry full metadata (title, severity, ATT&CK mapping, log source, false-positive notes, and references) sufficient to populate the rule library and the coverage heatmap. All 14 are original research written against TTPs in the cited campaigns. The library is structured to accept adaptations from SigmaHQ, Splunk Security Content, and Elastic detection-rules in future iterations.
 
 | ID | Title | Severity | ATT&CK | Status |
 |---|---|---|---|---|
@@ -153,7 +166,7 @@ Every hunt carries a `rationale_sources` array pointing at the cited reporting t
 
 ## Verified, Sourced, and Authored
 
-The hard distinction this product makes.
+The provenance discipline that runs through every claim in GLINT.
 
 **Verified by primary reporting.** The three campaigns, their named victims, and the UNC labels (UNC5537, UNC6040, UNC6395) all cite Mandiant, vendor disclosures, or major news outlets. The 2026 Canvas facts of 8,809 institutions, 275 million records, 3.65 TB, the Free-For-Teacher vector, the deadline extension, and the login page defacement are sourced to CNN, TechCrunch, Inside Higher Ed, Bitdefender, DataBreaches.net, and Wikipedia.
 
@@ -165,7 +178,7 @@ The hard distinction this product makes.
 
 The `/about` page has a Data Provenance section that explains all of this in product, so a reader who finds GLINT outside of GitHub sees the same disclosure.
 
-## Deploy It Yourself
+## Run It Locally
 
 GLINT runs locally with no backend, no env vars, no cloud account.
 
@@ -185,31 +198,25 @@ npm run build
 npm run start
 ```
 
-For a deploy, GLINT works on any static-friendly host. Vercel, Netlify, and Cloudflare Pages all work on their free tiers with zero configuration.
+## What GLINT Is Not
 
-## Cost
+GLINT is research, not a runtime. To be specific, it is not:
 
-Free. The app is a static Next.js application. No managed services, no database, no API keys. The only ongoing cost is whatever your host charges to serve static traffic, and three of the major hosts charge nothing on the free tier.
+- A threat intelligence platform that ingests live IOC feeds
+- A SIEM or detection runtime. The rules are authored but not connected to a log pipeline.
+- A SOAR or case management tool
+- A multi-actor coverage product. The focus is one cluster by design.
+- A vulnerability or compliance reporting tool
 
-## What GLINT Does Not Do
+If GLINT were extended into any of those, it would stop being focused research and become a different kind of project.
 
-By design, GLINT is not:
+## Future Research
 
-- A TIP that ingests live IOC feeds.
-- A SIEM or detection runtime. Rules are written but not connected to any pipeline.
-- A SOAR or case management tool.
-- A multi-actor coverage product. One cluster is the focus.
-- A vulnerability or compliance reporting product.
-
-Those are deliberate scope choices, not gaps. A focused product is the value.
-
-## Future Work
-
-- Wire the "Run hunt" button on `/hunting` to a real Splunk REST or Falcon LogScale API and surface the result inline.
-- Adapt three or four rules from public Sigma repos and label them `authored_by: "adapted_from"` to demonstrate the dual-provenance model end to end.
-- Add the next ShinyHunters campaign as the cluster continues to operate.
-- Complete the audit pass on the 27 URLs and 32 dates currently flagged for verification.
-- Optional: a small persistence layer so a deployer can pin a list of monitored brands and get alerts when those names appear in the live ingest.
+- Track the next ShinyHunters campaign as the cluster continues to operate, and publish a fourth campaign deep-dive.
+- Adapt three or four detection rules from public Sigma repositories and label them `authored_by: "adapted_from"` to demonstrate the dual-provenance model with real adaptations.
+- Complete the audit pass on the 27 URLs and 32 dates currently flagged `needs_url_verification` or `needs_date_verification` in `/data/sources.ts`.
+- Expand the hunt library with hypotheses written against any new TTPs observed in subsequent campaigns.
+- Optionally extend the methodology to a second cluster (Scattered Spider is the natural next subject) as a second research arc.
 
 ## Repository Layout
 
