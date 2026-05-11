@@ -53,8 +53,9 @@ Every page reads from `/data`. There is no fetch boundary.
 The application is intentionally simple. The value of GLINT is the research it presents, not the platform that serves it.
 
 ```mermaid
-flowchart LR
-    subgraph data [Typed data in /data]
+flowchart TB
+    subgraph data ["Data layer (/data, typed TypeScript)"]
+        direction LR
         S[sources.ts]
         T[techniques.ts]
         A[adversaries.ts]
@@ -63,8 +64,9 @@ flowchart LR
         H[hunts.ts]
     end
 
-    subgraph pages [App Router pages]
-        OPS["/"]
+    subgraph pages ["App Router pages (/app)"]
+        direction LR
+        OPS["Operations /"]
         ADV["/adversary"]
         CMP["/campaigns/[slug]"]
         DET["/detections"]
@@ -74,42 +76,20 @@ flowchart LR
         ABT["/about"]
     end
 
-    subgraph visuals [Interactive visuals]
-        RF1["Adversary topology (React Flow)"]
-        RF2["Kill chain flow (React Flow)"]
-        HM["MITRE coverage heatmap"]
+    subgraph visuals ["Interactive client components"]
+        direction LR
+        RF1["Adversary topology"]
+        RF2["Kill chain flow"]
+        HM["Coverage heatmap"]
         LC["Live countdown"]
-        FEED["Synthetic activity feed"]
+        FEED["Activity feed"]
     end
 
-    S --> A
-    S --> C
-    S --> D
-    S --> H
-    T --> C
-    T --> D
-    T --> H
-
-    A --> ADV
-    C --> CMP
-    D --> DET
-    D --> COV
-    H --> HNT
-    A --> OPS
-    C --> OPS
-    D --> OPS
-
-    ADV --> RF1
-    CMP --> RF2
-    COV --> HM
-    OPS --> LC
-    OPS --> FEED
-
-    OPS --> BRF
-    S --> ABT
+    data ==>|imported by server components| pages
+    pages ==>|hydrate| visuals
 ```
 
-Data flows in one direction. Typed source files are imported by server components, which assemble page output and pass slices into a handful of client components for interactive rendering. There is no API layer, no database, and no environment variable to configure.
+The data layer is six typed TypeScript files. `sources.ts` is the citation registry referenced by every other file. Server components import what they need, render pages, and hand small slices of state to a handful of client components for the interactive bits. No API layer, no database, no environment variables.
 
 ## The Three Campaigns
 
