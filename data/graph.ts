@@ -1,0 +1,202 @@
+/**
+ * Campaign graph for the command view.
+ *
+ * Nodes open an event, claim, or hypothesis record. Edges say only what the
+ * sources support: "precedes" is chronology, "produces" and "triggers" are
+ * used only where the record is explicit (a DMCA petition names the
+ * infringing content it answers), and the first edge is an "unknown-link"
+ * because the record does not explain how access was obtained.
+ */
+import type { GraphEdge, GraphNode } from "./types";
+
+export const graphNodes: GraphNode[] = [
+  {
+    id: "N-unknown-access",
+    label: "Unknown initial access",
+    kind: "unknown",
+    intelId: "LEEK-CLM-035",
+    confidence: "unknown",
+    status: "unknown",
+    competingExplanations: [
+      "Console development kit or development environment (community and press speculation).",
+      "PC development build, including the unverified pirated-PC reading.",
+      "Outsourcing partner or contractor with legitimate build access (analyst hypothesis).",
+      "Reuse of material from a prior compromise (actor claim of a colleague; no evidence).",
+    ],
+    relatedNodeIds: ["N-build-access"],
+  },
+  {
+    id: "N-build-access",
+    label: "Playable build access",
+    kind: "access",
+    intelId: "LEEK-CLM-001",
+    confidence: "high",
+    status: "supported",
+    competingExplanations: [
+      "Interactive control of a running build (the LEEK wall clip of 2026-08-20).",
+      "A library of pre-recorded captures only (contradicted by the LEEK wall clip).",
+    ],
+    relatedNodeIds: ["N-unknown-access", "N-material"],
+  },
+  {
+    id: "N-material",
+    label: "Captured GTA VI material",
+    kind: "material",
+    intelId: "LEEK-CLM-004",
+    confidence: "high",
+    status: "supported",
+    competingExplanations: [
+      "Authentic development footage from a 2025-era build (music dating, community map match, Rockstar's statement).",
+      "Partly edited or AI-assisted material mixed in by reuploaders (possible for individual clips; not for the set).",
+    ],
+    relatedNodeIds: ["N-build-access", "N-identity"],
+  },
+  {
+    id: "N-identity",
+    label: "CyberLeek persona and infrastructure",
+    kind: "identity",
+    intelId: "LEEK-EVT-001",
+    confidence: "low",
+    status: "community-claim",
+    competingExplanations: [
+      "Infrastructure prepared days before the first public drop (community forensic timeline).",
+      "A persona created on or just before 2026-08-18 with the earlier dates being coincidence or misread registrations.",
+    ],
+    relatedNodeIds: ["N-material", "N-campaign"],
+  },
+  {
+    id: "N-campaign",
+    label: "Public leak campaign begins",
+    kind: "campaign",
+    intelId: "LEEK-EVT-006",
+    confidence: "verified",
+    status: "supported",
+    relatedNodeIds: ["N-identity", "N-drops", "N-manifesto"],
+  },
+  {
+    id: "N-drops",
+    label: "Daily gameplay drops",
+    kind: "drop",
+    intelId: "LEEK-EVT-015",
+    confidence: "verified",
+    status: "supported",
+    relatedNodeIds: ["N-campaign", "N-intel", "N-distribution", "N-legal", "N-response"],
+  },
+  {
+    id: "N-intel",
+    label: "Map and feature intelligence",
+    kind: "intel",
+    intelId: "LEEK-EVT-014",
+    confidence: "high",
+    status: "supported",
+    relatedNodeIds: ["N-drops"],
+  },
+  {
+    id: "N-manifesto",
+    label: "The CYBERLEEK Edict",
+    kind: "manifesto",
+    intelId: "LEEK-EVT-007",
+    confidence: "verified",
+    status: "actor-claim",
+    competingExplanations: [
+      "A sincere consumer-rights protest (the actor's framing).",
+      "Cover for a token promotion (community and analyst suspicion; not established).",
+    ],
+    relatedNodeIds: ["N-campaign", "N-token"],
+  },
+  {
+    id: "N-token",
+    label: "$CYBERLEEK token and votes",
+    kind: "token",
+    intelId: "LEEK-EVT-013",
+    confidence: "high",
+    status: "supported",
+    relatedNodeIds: ["N-manifesto", "N-distribution"],
+  },
+  {
+    id: "N-distribution",
+    label: "Community distribution",
+    kind: "distribution",
+    intelId: "LEEK-EVT-005",
+    confidence: "moderate",
+    status: "community-claim",
+    relatedNodeIds: ["N-drops", "N-media"],
+  },
+  {
+    id: "N-media",
+    label: "Media amplification and correction",
+    kind: "media",
+    intelId: "LEEK-EVT-035",
+    confidence: "verified",
+    status: "supported",
+    competingExplanations: [
+      "The dead man's switch story came from copycat accounts and was retracted by its outlets.",
+      "The story reflected a real actor statement that was later deleted (no evidence; the actor never authenticated it).",
+    ],
+    relatedNodeIds: ["N-distribution", "N-legal"],
+  },
+  {
+    id: "N-legal",
+    label: "Take-Two DMCA subpoenas",
+    kind: "legal",
+    intelId: "LEEK-EVT-019",
+    confidence: "verified",
+    status: "supported",
+    relatedNodeIds: ["N-drops", "N-platform"],
+  },
+  {
+    id: "N-platform",
+    label: "Microsoft, Discord, Google, X discovery",
+    kind: "platform",
+    intelId: "LEEK-EVT-024",
+    confidence: "verified",
+    status: "supported",
+    competingExplanations: [
+      "Platforms comply by the reported 2026-09-04 date and Take-Two learns account identities (not yet in the record).",
+      "Discord had not been served as of 2026-08-25; the Google petition was sent back for more information on 2026-08-24.",
+    ],
+    relatedNodeIds: ["N-legal", "N-frontier"],
+  },
+  {
+    id: "N-response",
+    label: "Rockstar statement",
+    kind: "response",
+    intelId: "LEEK-EVT-052",
+    confidence: "verified",
+    status: "supported",
+    relatedNodeIds: ["N-drops", "N-frontier"],
+  },
+  {
+    id: "N-frontier",
+    label: "Current frontier: token cash-out after the Lucia leak, discovery pending",
+    kind: "frontier",
+    intelId: "LEEK-EVT-055",
+    confidence: "moderate",
+    status: "supported",
+    competingExplanations: [
+      "The campaign is winding down after the 2026-08-27 withdrawal (Kotaku, Dexerto reading).",
+      "A pause like the 2026-08-22 outage, after which drops resumed.",
+      "Who CyberLeek is: unresolved. How the build was obtained: unknown.",
+      "What the platforms return by 2026-09-04: pending.",
+    ],
+    relatedNodeIds: ["N-platform", "N-response", "N-drops"],
+  },
+];
+
+export const graphEdges: GraphEdge[] = [
+  { id: "E-01", source: "N-unknown-access", target: "N-build-access", relation: "unknown-link", label: "mechanism not established", confidence: "unknown", sourceIds: [] },
+  { id: "E-02", source: "N-build-access", target: "N-material", relation: "produces", label: "captured from a running build", confidence: "high", sourceIds: ["LEEK-SRC-022", "LEEK-SRC-025"] },
+  { id: "E-03", source: "N-material", target: "N-identity", relation: "precedes", label: "persona set up (community timeline)", confidence: "low", sourceIds: ["LEEK-SRC-094", "LEEK-SRC-026"] },
+  { id: "E-04", source: "N-identity", target: "N-campaign", relation: "precedes", label: "first public drops 18 Aug", confidence: "verified", sourceIds: ["LEEK-SRC-026", "LEEK-SRC-016"] },
+  { id: "E-05", source: "N-campaign", target: "N-drops", relation: "produces", label: "new clips most days", confidence: "verified", sourceIds: ["LEEK-SRC-045", "LEEK-SRC-017"] },
+  { id: "E-06", source: "N-drops", target: "N-intel", relation: "produces", label: "map and mechanics reconstructed", confidence: "high", sourceIds: ["LEEK-SRC-012", "LEEK-SRC-023"] },
+  { id: "E-07", source: "N-campaign", target: "N-manifesto", relation: "precedes", label: "published with the first drop", confidence: "verified", sourceIds: ["LEEK-SRC-026", "LEEK-SRC-016"] },
+  { id: "E-08", source: "N-manifesto", target: "N-token", relation: "precedes", label: "token votes pick the next clip", confidence: "high", sourceIds: ["LEEK-SRC-016", "LEEK-SRC-088"] },
+  { id: "E-09", source: "N-token", target: "N-distribution", relation: "precedes", label: "reposted within hours", confidence: "moderate", sourceIds: ["LEEK-SRC-028", "LEEK-SRC-094"] },
+  { id: "E-10", source: "N-distribution", target: "N-media", relation: "precedes", label: "coverage, then a retraction", confidence: "high", sourceIds: ["LEEK-SRC-044", "LEEK-SRC-054"] },
+  { id: "E-11", source: "N-drops", target: "N-legal", relation: "triggers", label: "petitions name the infringing posts", confidence: "verified", sourceIds: ["LEEK-SRC-002", "LEEK-SRC-004"] },
+  { id: "E-12", source: "N-legal", target: "N-platform", relation: "produces", label: "orders issued 21 Aug", confidence: "verified", sourceIds: ["LEEK-SRC-001", "LEEK-SRC-003", "LEEK-SRC-086"] },
+  { id: "E-13", source: "N-drops", target: "N-response", relation: "responds-to", label: "statement 26 Aug", confidence: "verified", sourceIds: ["LEEK-SRC-007", "LEEK-SRC-102"] },
+  { id: "E-14", source: "N-platform", target: "N-frontier", relation: "precedes", label: "compliance sought by 4 Sep", confidence: "high", sourceIds: ["LEEK-SRC-029", "LEEK-SRC-103"] },
+  { id: "E-15", source: "N-response", target: "N-frontier", relation: "precedes", label: "new material, then a cash-out", confidence: "high", sourceIds: ["LEEK-SRC-021", "LEEK-SRC-110"] },
+];

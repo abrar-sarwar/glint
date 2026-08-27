@@ -8,55 +8,39 @@
 
 html,
 body {
-  background-color: #0c0a06;
-  color: #f0e9d8;
+  background-color: #0b0c0f;
+  color: #e7e9ee;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
 body {
   min-height: 100vh;
-  font-feature-settings: "ss01", "ss02";
+  font-feature-settings: "ss01", "cv11";
 }
 
 ::selection {
-  background-color: rgba(255, 122, 26, 0.28);
-  color: #fff5e6;
+  background-color: rgba(92, 147, 214, 0.3);
+  color: #ffffff;
 }
 
 .tabular {
   font-variant-numeric: tabular-nums;
 }
 
+/* Small-caps mono label used for metadata everywhere. */
 .label {
   font-family: var(--font-mono);
   font-size: 11px;
-  letter-spacing: 0.14em;
+  letter-spacing: 0.12em;
   text-transform: uppercase;
-  color: #807660;
+  color: #7f8694;
 }
 
-.serif {
-  font-family: var(--font-display);
-}
-
-.stamp {
-  font-family: var(--font-stamp);
-  letter-spacing: 0.16em;
-}
-
-/* Subtle warm paper grain on the page */
-.paper-grain {
-  position: relative;
-}
-.paper-grain::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-  pointer-events: none;
-  opacity: 0.035;
-  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='220' height='220'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='0.85' numOctaves='2' stitchTiles='stitch'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");
-  mix-blend-mode: overlay;
+.strike {
+  text-decoration: line-through;
+  text-decoration-color: #e2495b;
+  text-decoration-thickness: 1.5px;
 }
 
 /* Scrollbars */
@@ -65,102 +49,95 @@ body {
   height: 10px;
 }
 *::-webkit-scrollbar-track {
-  background: #0c0a06;
+  background: #0b0c0f;
 }
 *::-webkit-scrollbar-thumb {
-  background: #2a251a;
-  border: 2px solid #0c0a06;
+  background: #22262e;
+  border: 2px solid #0b0c0f;
 }
 *::-webkit-scrollbar-thumb:hover {
-  background: #3d3526;
+  background: #323846;
 }
 
 /* React Flow theming */
 .react-flow {
   --rf-background-color: transparent;
 }
-
 .react-flow__attribution {
   display: none !important;
 }
-
 .react-flow__background {
   background-color: transparent;
 }
-
 .react-flow__edge-path {
-  stroke: #3d3526;
+  stroke: #323846;
   stroke-width: 1;
 }
-
-.react-flow__edge.weight-3 .react-flow__edge-path {
-  stroke: #ff7a1a;
-  stroke-width: 1.4;
-  stroke-opacity: 0.55;
+.react-flow__edge.conf-verified .react-flow__edge-path,
+.react-flow__edge.conf-high .react-flow__edge-path {
+  stroke: #6fb083;
+  stroke-opacity: 0.7;
 }
-
-.react-flow__edge.weight-2 .react-flow__edge-path {
-  stroke: #5d9ec7;
-  stroke-opacity: 0.5;
+.react-flow__edge.conf-moderate .react-flow__edge-path {
+  stroke: #d9a441;
+  stroke-opacity: 0.6;
 }
-
-.react-flow__edge.weight-1 .react-flow__edge-path {
-  stroke: #3d3526;
-  stroke-opacity: 0.85;
-  stroke-dasharray: 3 3;
+.react-flow__edge.conf-low .react-flow__edge-path {
+  stroke: #7f8694;
+  stroke-opacity: 0.6;
+  stroke-dasharray: 4 3;
 }
-
+.react-flow__edge.conf-unknown .react-flow__edge-path {
+  stroke: #575d69;
+  stroke-dasharray: 2 4;
+}
+.react-flow__edge.to-frontier .react-flow__edge-path {
+  stroke: #e2495b;
+  stroke-opacity: 0.7;
+}
 .react-flow__edge-text {
   font-family: var(--font-mono);
   font-size: 9px;
-  letter-spacing: 0.12em;
+  letter-spacing: 0.1em;
   text-transform: uppercase;
-  fill: #807660;
+  fill: #7f8694;
 }
-
 .react-flow__edge-textbg {
-  fill: #0c0a06;
+  fill: #0b0c0f;
 }
-
 .react-flow__handle {
-  background: #2a251a;
-  border: 1px solid #3d3526;
-  width: 6px;
-  height: 6px;
+  background: #22262e;
+  border: 1px solid #323846;
+  width: 5px;
+  height: 5px;
   border-radius: 0;
 }
-
 .react-flow__node.selected > div,
 .react-flow__node:focus > div {
-  outline: 1px solid #ff7a1a;
+  outline: 1px solid #e7e9ee;
   outline-offset: 2px;
 }
-
 .react-flow__controls {
-  border: 1px solid #2a251a;
-  background: #15120c;
+  border: 1px solid #22262e;
+  background: #101216;
   border-radius: 0;
   box-shadow: none;
 }
-
 .react-flow__controls-button {
-  background: #15120c;
-  border-bottom: 1px solid #2a251a;
-  color: #b8ad94;
+  background: #101216;
+  border-bottom: 1px solid #22262e;
+  color: #b6bcc8;
   width: 24px;
   height: 24px;
 }
-
 .react-flow__controls-button:hover {
-  background: #1f1b13;
-  color: #f0e9d8;
+  background: #161a20;
+  color: #e7e9ee;
 }
-
 .react-flow__controls-button svg {
   fill: currentColor;
 }
 
-/* Print styles for /brief */
 @media print {
   body {
     background: white;
@@ -168,9 +145,5 @@ body {
   }
   .no-print {
     display: none !important;
-  }
-  .print-page {
-    background: white !important;
-    color: black !important;
   }
 }

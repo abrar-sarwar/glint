@@ -1,0 +1,122 @@
+[
+  {
+    "date": "2026-08-27",
+    "feed": "google-news:CyberLeek",
+    "count": 69,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "feed": "google-news:GTA VI leak",
+    "count": 62,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "feed": "google-news:GTA 6 leak",
+    "count": 14,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "feed": "google-news:Take-Two CyberLeek",
+    "count": 56,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "feed": "google-news:Rockstar CyberLeek",
+    "count": 22,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "feed": "google-news:CyberLeek Microsoft",
+    "count": 19,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "feed": "google-news:CyberLeek Discord",
+    "count": 10,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "feed": "google-news:CyberLeek subpoena",
+    "count": 10,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "feed": "google-news:CyberLeek dead man switch",
+    "count": 52,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "feed": "google-news:CyberLeek arrest",
+    "count": 27,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "feed": "google-news:CyberLeek $CYBERLEEK",
+    "count": 19,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "feed": "bing-news:CyberLeek",
+    "count": 1,
+    "domains": [
+      "bing.com"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "feed": "bing-news:Cyberleek",
+    "count": 1,
+    "domains": [
+      "bing.com"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "feed": "bing-news:GTA VI leak",
+    "count": 4,
+    "domains": [
+      "bing.com"
+    ]
+  },
+  {
+    "date": "2026-08-27",
+    "feed": "bing-news:GTA 6 leak",
+    "count": 4,
+    "domains": [
+      "bing.com"
+    ]
+  }
+]

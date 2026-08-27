@@ -1,54 +1,36 @@
-"use client";
+import Link from "next/link";
+import { formatDate, formatDateTime } from "@/lib/utils";
 
-import { useEffect, useState } from "react";
-import { ShieldAlert } from "lucide-react";
-
-export function StatusBar({ daysToDeadline }: { daysToDeadline: number }) {
-  const [now, setNow] = useState<Date | null>(null);
-
-  useEffect(() => {
-    setNow(new Date());
-    const id = setInterval(() => setNow(new Date()), 30_000);
-    return () => clearInterval(id);
-  }, []);
-
-  const utc = now ? now.toISOString().slice(11, 16) + " UTC" : "        ";
-  const dateStr = now
-    ? now.toLocaleDateString("en-US", {
-        month: "short",
-        day: "2-digit",
-        year: "numeric",
-        timeZone: "UTC",
-      })
-    : "          ";
-
-  const deadlineText =
-    daysToDeadline <= 0
-      ? "Canvas deadline passed"
-      : daysToDeadline === 1
-        ? "Canvas deadline tomorrow"
-        : `Canvas deadline in ${daysToDeadline} days`;
-
+/**
+ * Case status strip. No running clock: the two dates that matter are the
+ * latest verified event and the latest source sync.
+ */
+export function StatusBar({
+  caseName,
+  latestSync,
+  latestVerified,
+}: {
+  caseName: string;
+  latestSync: string;
+  latestVerified: string;
+}) {
   return (
-    <div className="relative flex h-10 shrink-0 items-center gap-4 border-b border-line bg-bg-surface px-6 text-xs text-ink-muted">
-      <div className="flex items-center gap-2">
-        <span className="h-1.5 w-1.5 animate-pulse-dot bg-accent-terminal" />
-        <span className="stamp text-[10px] uppercase text-ink-secondary">
-          Online
-        </span>
+    <div className="flex h-11 shrink-0 items-center gap-5 border-b border-line bg-bg-surface px-6 text-sm">
+      <div className="flex items-center gap-2.5">
+        <span className="h-2 w-2 animate-pulse-dot bg-crit" aria-hidden />
+        <span className="label text-ink-secondary">Active intelligence case</span>
       </div>
-
-      <span className="text-ink-dim">·</span>
-
-      <div className="font-mono tabular text-[11px] tracking-label-tight text-ink-muted">
-        {dateStr} <span className="text-ink-dim">·</span> {utc}
-      </div>
-
-      <div className="ml-auto flex items-center gap-2 text-accent-amber">
-        <ShieldAlert size={13} strokeWidth={1.6} />
-        <span className="font-mono text-[11px] uppercase tracking-label">
-          {deadlineText}
-        </span>
+      <span className="hidden text-ink-dim md:inline">|</span>
+      <span className="hidden truncate text-ink-muted md:inline">{caseName}</span>
+      <div className="ml-auto flex items-center gap-5 font-mono text-xs">
+        <Link href="/timeline" className="text-ink-muted hover:text-ink-primary">
+          <span className="text-ink-faint">latest verified</span>{" "}
+          <span className="text-ink-secondary">{formatDate(latestVerified)}</span>
+        </Link>
+        <Link href="/sources#sync" className="text-ink-muted hover:text-ink-primary">
+          <span className="text-ink-faint">source sync</span>{" "}
+          <span className="text-ink-secondary">{formatDateTime(latestSync)}</span>
+        </Link>
       </div>
     </div>
   );

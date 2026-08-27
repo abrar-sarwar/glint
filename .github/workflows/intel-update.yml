@@ -1,0 +1,51 @@
+name: intel-update
+
+# Discovers new public reporting on the CyberLeek / GTA VI campaign every six
+# hours, normalises and de-duplicates it, and commits it under data/generated
+# as PENDING intelligence. Nothing is promoted into the typed case file
+# without analyst review. Set ANTHROPIC_API_KEY as a repository secret to
+# enable AI-assisted classification; without it the pipeline runs rules-only
+# and marks every item "needs-analyst-review".
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: intel-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - name: Discover and normalise sources
+        run: npm run intel:update
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          COURTLISTENER_TOKEN: ${{ secrets.COURTLISTENER_TOKEN }}
+      - name: Validate intelligence integrity
+        run: npm run intel:validate
+      - name: Status report
+        run: npm run intel:report
+      - name: Commit pending intelligence
+        run: |
+          git config user.name "leek-intel-bot"
+          git config user.email "leek-intel-bot@users.noreply.github.com"
+          git add data/generated
+          if git diff --cached --quiet; then
+            echo "No new intelligence."
+          else
+            git commit -m "intel: scheduled source sync $(date -u +%Y-%m-%dT%H:%MZ) [skip ci]"
+            git push
+          fi

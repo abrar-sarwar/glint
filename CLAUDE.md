@@ -1,236 +1,188 @@
-# GLINT — Graph-Linked Intel for Network Threats
+# LEEK
 
 This file is the source of truth for every future session in this repository.
-Treat its contents as load-bearing. If something here conflicts with a casual
-request, surface the conflict before deviating.
+Treat it as load-bearing. If something here conflicts with a casual request,
+surface the conflict before deviating.
 
 ---
 
 ## 1. Product
 
-**GLINT** is a published threat-intelligence product profiling the
-**ShinyHunters / Scattered LAPSUS$ Hunters** cluster and its three flagship
-campaigns. It is an internal SOC-style web application — *not* a marketing
-site, *not* a tutorial demo, *not* a generic SaaS dashboard.
+**LEEK** (brand: `LEEK`; expanded descriptor, used sparingly: Live Evidence &
+Exposure Knowledge) is an open-source intelligence case file documenting the
+ongoing **CyberLeek / Grand Theft Auto VI** leak campaign that began in public
+on 2026-08-18.
 
-Reference aesthetic: CrowdStrike Falcon, Mandiant Advantage, Splunk Enterprise
-Security, Recorded Future. Dense, sourced, professional, terminal-influenced.
+It is a living, evidence-driven reconstruction: what happened, what the
+evidence proves, and what remains unknown. It is not a SIEM, not a detection
+library, not a leak mirror, and not a fan site.
 
 | Aspect | Value |
 | --- | --- |
 | Stack | Next.js 14 (App Router) + TypeScript + Tailwind CSS |
-| Run | `npm run dev` → http://localhost:3000 |
-| Backend | None. All data lives in typed TS files under `/data` |
-| Build target | Static-friendly; no env vars required |
+| Run | `npm run dev` then http://localhost:3000 |
+| Data | Typed TS records under `/data`; generated JSON under `/data/generated` |
+| Backend | None. Static-friendly. No env vars required to build or run |
+| Pipeline | `npm run intel:update` (RSS/API discovery), scheduled by `.github/workflows/intel-update.yml` |
 
 ---
 
-## 2. Threat-Actor Focus
+## 2. The intelligence standard (non-negotiable)
 
-**ShinyHunters / Scattered LAPSUS$ Hunters** — a financially motivated
-eCrime cluster active since ~2020 that has rebranded across multiple
-Mandiant-tracked UNC numbers. Confirmed aliases are UNC5537 (Snowflake),
-UNC6040 (Salesforce vishing), and UNC6395 (Salesloft Drift OAuth). The
-self-styled "Scattered LAPSUS$ Hunters" Telegram channel formed in mid-2025.
-Do not invent additional UNC labels. Only add a UNC alias if a specific
-Mandiant or Google TIG source can be cited.
-
-### Three flagship campaigns
-
-1. **Snowflake C5537** — credential-stuffing of Snowflake tenants lacking
-   MFA using infostealer-harvested credentials. Public victims include
-   AT&T, Ticketmaster (Live Nation), Santander, Advance Auto Parts,
-   LendingTree. Disclosed June 2024.
-2. **Salesloft Drift / Salesforce OAuth supply-chain.** UNC6395
-   stole Drift OAuth refresh tokens via secrets exposed
-   in a Drift GitHub repository (TruffleHog scan), pivoted into
-   ~700–760 customer Salesforce tenants, and bulk-exported records
-   (≈1.5B). Disclosed August 2025.
-3. **Instructure / Canvas extortion** — claimed compromise of ~9,000
-   educational institutions / 275M users; ransom deadline **2026-05-12**.
-   Active campaign; intel still developing.
-
----
-
-## 3. Visual Design Principles
-
-### Palette (Tailwind tokens defined in `tailwind.config.ts`)
-
-| Token | Hex | Use |
-| --- | --- | --- |
-| `bg.base` | `#0a0e1a` | Page background |
-| `bg.surface` | `#0f1524` | Card/panel surface |
-| `bg.elevated` | `#141b2d` | Elevated panel, hover state |
-| `border.default` | `#1f2a3f` | Hairline borders |
-| `border.strong` | `#2b3a55` | Stronger separation |
-| `text.primary` | `#e6edf7` | Body text |
-| `text.muted` | `#8b97ad` | Secondary text |
-| `text.faint` | `#5a6478` | Metadata, captions |
-| `accent.terminal` | `#00ff88` | Primary accent (links, brand, OK status) |
-| `accent.amber` | `#ffaa00` | Alert / elevated severity |
-| `accent.crit` | `#ff3b5c` | Critical severity |
-| `accent.info` | `#4d9fff` | Informational |
-
-### Typography
-- **Inter Tight** for UI body / sans (deployed via `next/font/google`)
-- **JetBrains Mono** for IDs, IPs, hashes, queries, timestamps
-
-### Style rules
-- Sharp corners. Border-radius 0–4 px maximum. No `rounded-3xl`, no pills with
-  pure circles outside of status dots.
-- Dense information layouts; tabular over card-heavy.
-- Status pills: rectangular with 2 px radius, 1 px border, monospaced label.
-- Terminal-style streaming feeds where appropriate.
-- Hairline borders > soft shadows. No drop shadows that look like CSS toys.
-- Subtle scanline / grid background overlay only on the operations dashboard.
-
-### Forbidden
-- Gradients (except for very subtle 1–2 % luminosity transitions on hero
-  surfaces — never decorative gradients).
-- Soft shadows, neumorphism, glass-morphism.
-- Emoji-heavy UI (icons via `lucide-react` only).
-- Marketing copy: *"revolutionary"*, *"next-gen"*, *"AI-powered"*, *"cutting
-  edge"*, *"transform your"*, hero CTAs with pricing.
+1. **Never invent an attack chain.** The public record does not establish how
+   CyberLeek obtained the build. Initial access is `UNKNOWN` and that is a
+   finding. Do not write "phishing to credentials to VPN to build" anywhere.
+2. **Every factual record cites a source id** (`LEEK-SRC-nnn`). Citations
+   render as `[S014]` and open the source drawer. `npm run intel:validate`
+   fails on an uncited fact.
+3. **Status vocabulary is fixed** (see `data/types.ts`):
+   confidence `verified | high | moderate | low | unknown`;
+   assessment status `supported | actor-claim | community-claim | disputed |
+   retracted | false | unknown`; claim status adds `probable | unresolved |
+   speculation`. Never convert speculation into fact. Retracted claims keep
+   their full history.
+4. **Event date is not article date.** `occurredAt` is when it happened;
+   `reportedAt` is when the earliest source published, when different.
+5. **Source priority** (tier 1 strongest): court filings, Rockstar, Take-Two,
+   platforms, CyberLeek's own statements (as actor claims), investigative
+   journalism, gaming journalism, security researchers, blockchain data,
+   community research, social posts. Community discussion is intelligence,
+   not primary evidence.
+6. **No doxxing.** Never identify a private individual as CyberLeek. Handles
+   appear only when they are in court filings or major reporting, and only as
+   discovery targets or community theories.
+7. **No redistribution.** Do not link to, embed, host, or describe how to
+   obtain leaked footage, builds, ISOs, or archives. Cite the reporting.
+8. **When sources conflict, document the conflict.** Do not pick the dramatic
+   version.
+9. **MITRE ATT&CK is not the centre.** Map a technique only when a documented
+   behaviour supports it. Sparse coverage communicates uncertainty.
+10. **The pipeline never publishes.** `intel:update` writes only to
+    `data/generated` and marks everything `needs-analyst-review`. Promotion
+    into `/data/*.ts` is a human edit.
 
 ---
 
-## 4. Required Pages (App Router)
+## 3. Writing rules
 
-| Route | File | Purpose |
-| --- | --- | --- |
-| `/` | `app/page.tsx` | Operations dashboard |
-| `/adversary` | `app/adversary/page.tsx` | ShinyHunters profile + relationship graph |
-| `/campaigns/[slug]` | `app/campaigns/[slug]/page.tsx` | Per-campaign deep-dive + kill chain |
-| `/detections` | `app/detections/page.tsx` | Searchable detection-rule library |
-| `/hunting` | `app/hunting/page.tsx` | Hunt console + synthetic log streaming |
-| `/coverage` | `app/coverage/page.tsx` | MITRE ATT&CK heatmap |
-| `/brief` | `app/brief/page.tsx` | One-page printable executive brief |
-| `/about` | `app/about/page.tsx` | Methodology + sources |
-
-Polish bar (must feel real):
-1. `/`
-2. `/adversary`
-3. `/campaigns/salesloft-drift`
-
-The remainder may be functional stubs that read from `/data` — but no lorem
-ipsum, ever. Every line of copy is sourced or is professionally written UI
-chrome.
+- No em-dashes and no en-dashes anywhere (prose, code comments, commit
+  messages). Use commas, periods, parentheses, or "to". The validator fails
+  on them.
+- Plain, sober, human prose. Short sentences. No hype words, no marketing
+  copy, no imperative calls to action.
+- Names: CyberLeek, Rockstar, Take-Two, GTA VI.
+- Readable type: body 15px, section titles 22px, page titles 32 to 48px,
+  nothing below 11px. One bold typographic moment per page. No SOC theatre
+  (no running clocks, corner brackets, or fake system status).
 
 ---
 
-## 5. Required Visualisations
+## 4. Routes
 
-| Surface | Library | Notes |
-| --- | --- | --- |
-| Adversary relationship graph | `reactflow` | ShinyHunters at center; nodes coloured by entity type (`actor`/`alias`/`victim`/`affiliate`) |
-| Kill-chain flow per campaign | `reactflow` | Horizontal layout, MITRE technique nodes, click → side panel with detection mapping |
-| MITRE ATT&CK heatmap | Custom CSS grid | Tactics as columns, techniques as cells, fill driven by `/data/detections.ts` |
-| Campaign timeline | `recharts` | Horizontal timeline 2024 → 2026 |
-| Infrastructure network map | `cytoscape` + `react-cytoscapejs` | Force-directed, attacker infra ↔ pivot ↔ victim envs |
-| Live hunt feed | Custom + `reactflow` | Synthetic log generator, terminal-style stream, graph that builds over time |
+| Route | Purpose |
+| --- | --- |
+| `/` | Command view: case ledger, counts, current assessment, what we know / do not know, campaign graph, current frontier and checkpoints |
+| `/timeline` | Filterable event ledger (occurred vs reported dates) |
+| `/drops` | Index of publicly reported releases (metadata only) |
+| `/actor` | CyberLeek dossier: channels, statements, ideology, token, indicators, attribution theories |
+| `/claims` | Claim registry grouped by status, with rationale and history |
+| `/access` | "How did CyberLeek get GTA VI?" leads with UNKNOWN, then the hypothesis matrix |
+| `/dead-mans-switch` | Propagation-chain case study of the retracted dead man's switch story |
+| `/media` | Narrative clusters with confidence, media reaction chain, coverage timeline |
+| `/impact` | Exposure surface (12 dimensions), impact sections (observed vs potential), financial figures, legal tracker |
+| `/response` | Defensive recommendations by horizon, each with "why this matters in this case" |
+| `/evidence` | Evidence ledger |
+| `/sources` | Source registry by tier, sync status, pending intelligence |
 
----
-
-## 6. Content Rules (Non-Negotiable)
-
-1. **Cite every claim.** Primary sources only: CrowdStrike Counter Adversary
-   Operations / Global Threat Report, Mandiant M-Trends and blog,
-   Intel 471, Krebs on Security, original vendor disclosures (Snowflake,
-   Salesloft, Salesforce, Instructure), MITRE ATT&CK. Citations live in
-   `/data/sources.ts` and are referenced by ID.
-2. **Mark synthetic IOCs.** Any fabricated IP, domain, hash, or username must
-   be tagged `synthetic: true` in the data and visually badged
-   `SYNTHETIC` in the UI. Real IOCs are only used when published in primary
-   sources, and the source must be cited next to the indicator.
-3. **MITRE ATT&CK technique IDs throughout.** Core set used across the
-   product:
-   - T1078 Valid Accounts
-   - T1199 Trusted Relationship
-   - T1528 Steal Application Access Token
-   - T1550.001 Use Alternate Authentication Material: Application Access Token
-   - T1552 Unsecured Credentials
-   - T1566.004 Phishing: Spearphishing Voice
-   - T1110.004 Brute Force: Credential Stuffing
-   - T1530 Data from Cloud Storage
-   - T1567 Exfiltration Over Web Service
-   - T1589.001 / T1589.002 Gather Victim Identity Information
-   - T1593 Search Open Websites/Domains (Salesloft Drift recon)
-   - T1657 Financial Theft (extortion)
-4. **Tone.** Structured. Sourced. Sober. Modeled on CrowdStrike Counter
-   Adversary Operations and Mandiant intel. No hype, no marketing words, no
-   imperative calls to action.
+Global search: Cmd/Ctrl+K (`lib/search.ts`).
 
 ---
 
-## 7. Deliverable Counts
-
-- **12–15 detection rules**, each in three formats: Sigma YAML, CrowdStrike
-  Falcon LogScale CQL, Splunk SPL.
-  - Three are fully built (Salesforce Bulk API export anomaly; Snowflake
-    new-ASN login → external-stage COPY INTO; OAuth app consent grant from
-    non-corporate IDP).
-  - The remainder are stubbed with title, MITRE coverage, severity, and
-    log source so that the heatmap and library are populated.
-- **5–6 hunt hypotheses**, each with hypothesis, rationale, query
-  pseudocode, expected output, triage steps, and MITRE coverage.
-- **1 executive brief** page, single-page-printable.
-
----
-
-## 8. Repository Layout
+## 5. Data model
 
 ```
-app/                        # App Router pages and layouts
-  layout.tsx                # Root shell: sidebar + status bar
-  page.tsx                  # /  Operations dashboard
-  adversary/page.tsx
-  campaigns/[slug]/page.tsx
-  detections/page.tsx
-  hunting/page.tsx
-  coverage/page.tsx
-  brief/page.tsx
-  about/page.tsx
-  globals.css
-components/
-  shell/                    # Sidebar, StatusBar
-  ui/                       # SeverityPill, MitreBadge, DataCard, etc.
-  graphs/                   # AdversaryGraph, KillChainFlow, HeatmapGrid
-  home/                     # Dashboard widgets
-  campaign/                 # Kill-chain side panel, IOC table, timeline
 data/
-  adversaries.ts            # ShinyHunters dossier
-  campaigns.ts              # Three flagship campaign objects
-  techniques.ts             # MITRE technique catalogue (core set)
-  detections.ts             # Rule library
-  hunts.ts                  # Hunt hypotheses
-  sources.ts                # Citation list, referenced by id
+  types.ts            all interfaces and vocabularies
+  sources.ts          LEEK-SRC-nnn  citation registry (tiered)
+  events.ts           LEEK-EVT-nnn  timeline, chronological, sequential ids
+  drops.ts            LEEK-DRP-nnn  reported releases
+  claims.ts           LEEK-CLM-nnn  claim registry with history
+  evidence.ts         LEEK-EVD-nnn  evidence ledger
+  hypotheses.ts       LEEK-HYP-nnn  initial-access hypotheses
+  actor.ts            dossier (attribution theories LEEK-ATT-nnn)
+  media.ts            LEEK-MED-nnn records, LEEK-NAR-nnn narratives, LEEK-CHN-nnn chains
+  impact.ts           impact sections, exposure surface, LEEK-LGL-nnn legal actions, figures
+  recommendations.ts  LEEK-REC-nnn
+  checkpoints.ts      LEEK-CHK-nnn dated future checkpoints
+  graph.ts            campaign graph nodes and edges (every edge cites sources)
+  case.ts             analyst text for the command view
+  generated/          pipeline output (discovered sources, pending events, signals, last sync)
 lib/
-  utils.ts                  # cn(), formatters
-  killchain.ts              # Helpers for chain → React Flow nodes/edges
-public/                     # Static assets
+  intel.ts            derived counts and cross references (never authored)
+  search.ts           global search index
+  utils.ts            formatters and semantic tokens
+scripts/
+  intel-update.ts     discovery pipeline
+  intel-validate.ts   integrity checks (also run by vitest)
+  intel-report.ts     status block
+tests/                vitest suites
 ```
+
+Source `claimsSupported` / `claimsContradicted` are derived from
+`claims.ts` at runtime; do not type them by hand.
 
 ---
 
-## 9. House Rules for Future Sessions
+## 6. Visual language
 
-- Don't introduce a backend. Data stays in `/data`.
-- Don't add a UI library (shadcn, Mantine, Chakra). Tailwind primitives only.
-- Don't fabricate threat-intel claims. If a fact isn't in `/data/sources.ts`,
-  either add a source or don't make the claim.
-- Don't soften the aesthetic toward "marketing dashboard" — sharp corners,
-  monospaced metadata, dense data.
-- IOCs must be tagged synthetic vs. real, and the synthetic ones should look
-  like obviously-fake values (e.g. RFC 1918, `.example`, well-known test
-  hashes) so a reader cannot mistake them for genuine indicators.
-- Today's in-product clock should treat the date as current; the Canvas
-  campaign page assumes today is on or before 2026-05-12 (deadline).
+Graphite near-black ground, hairline separators, sharp corners (radius 0 to
+3px), Inter Tight for UI and JetBrains Mono for ids, dates, and labels.
+Semantic accents only, defined in `tailwind.config.ts`:
+
+| Token | Meaning |
+| --- | --- |
+| `evidence` (muted green) | supported, verified |
+| `assess` (amber) | analyst assessment, moderate confidence, disputed |
+| `claim` (violet) | actor claim |
+| `crit` (red) | current frontier, critical, retracted or false (with strike-through) |
+| `info` (blue) | legal, platform, media reference |
+| `ink.muted` (gray) | uncertainty |
+
+Forbidden: gradients, glassmorphism, soft shadows, rounded SaaS cards,
+gamer-neon, emoji in UI, marketing copy. The unknown initial-access node is
+hatched; the current-frontier node is red with a subtle pulse and nothing
+more.
 
 ---
 
-## 10. Build/Version Footer
+## 7. Commands
 
-Show in sidebar bottom and `/about`:
+```bash
+npm run dev
+npm run lint
+npm run typecheck
+npm run build
+npm test               # vitest: integrity, search, utils, pipeline
+npm run intel:validate # fails on integrity violations
+npm run intel:report   # status block
+npm run intel:update   # discover sources into data/generated (optional ANTHROPIC_API_KEY)
 ```
-GLINT v0.1.0 · build YYYY-MM-DD · TLP:CLEAR · Counter-Adversary Operations
-```
+
+Run lint, typecheck, build, test, and intel:validate before claiming work is
+done. Fix what you introduce.
+
+---
+
+## 8. House rules for future sessions
+
+- Do not add a backend, a UI library, or a database.
+- Do not add a source without a registry entry; do not cite a source that is
+  not in `data/sources.ts`.
+- Update `lastUpdated` on any record you change; add a history entry when a
+  claim's status changes.
+- New events go in chronological position and ids are renumbered to stay
+  sequential (the validator checks).
+- If new reporting resolves a question (initial access, identity), record it
+  as a new event with its source and move the claim through its history.
+  Do not edit the past.
+- The build footer reads: `LEEK v0.2.0 · build YYYY-MM-DD · TLP:CLEAR`.

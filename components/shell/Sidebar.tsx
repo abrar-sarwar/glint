@@ -4,13 +4,17 @@ import Link from "next/link";
 import { usePathname } from "next/navigation";
 import {
   Activity,
+  BookOpen,
+  Clock,
   Crosshair,
-  FileText,
-  Grid3x3,
-  Info,
-  Layers,
-  Radar,
-  Target,
+  FileSearch,
+  Film,
+  Gavel,
+  ListChecks,
+  Newspaper,
+  Radio,
+  ShieldCheck,
+  User,
 } from "lucide-react";
 import { cn, buildInfo } from "@/lib/utils";
 
@@ -18,133 +22,119 @@ interface NavItem {
   href: string;
   label: string;
   Icon: typeof Activity;
+  group: "case" | "analysis" | "record";
 }
 
 const nav: NavItem[] = [
-  { href: "/", label: "Operations", Icon: Activity },
-  { href: "/adversary", label: "Adversary", Icon: Target },
-  { href: "/campaigns/salesloft-drift", label: "Campaigns", Icon: Crosshair },
-  { href: "/detections", label: "Detections", Icon: Layers },
-  { href: "/hunting", label: "Hunting", Icon: Radar },
-  { href: "/coverage", label: "Coverage", Icon: Grid3x3 },
-  { href: "/brief", label: "Brief", Icon: FileText },
-  { href: "/about", label: "About", Icon: Info },
+  { href: "/", label: "Command view", Icon: Activity, group: "case" },
+  { href: "/timeline", label: "Timeline", Icon: Clock, group: "case" },
+  { href: "/drops", label: "Drops", Icon: Film, group: "case" },
+  { href: "/actor", label: "Actor", Icon: User, group: "case" },
+  { href: "/claims", label: "Claims", Icon: ListChecks, group: "analysis" },
+  { href: "/access", label: "Initial access", Icon: Crosshair, group: "analysis" },
+  { href: "/dead-mans-switch", label: "Dead man's switch", Icon: Radio, group: "analysis" },
+  { href: "/media", label: "Media", Icon: Newspaper, group: "analysis" },
+  { href: "/impact", label: "Impact", Icon: Gavel, group: "analysis" },
+  { href: "/response", label: "Response", Icon: ShieldCheck, group: "analysis" },
+  { href: "/evidence", label: "Evidence", Icon: FileSearch, group: "record" },
+  { href: "/sources", label: "Sources", Icon: BookOpen, group: "record" },
 ];
 
-export function Sidebar({ daysToDeadline }: { daysToDeadline: number }) {
+const groups: { key: NavItem["group"]; label: string }[] = [
+  { key: "case", label: "Case" },
+  { key: "analysis", label: "Analysis" },
+  { key: "record", label: "Record" },
+];
+
+export function Sidebar() {
   const pathname = usePathname();
-
-  const isActive = (href: string) => {
-    if (href === "/") return pathname === "/";
-    if (href.startsWith("/campaigns")) return pathname.startsWith("/campaigns");
-    return pathname === href || pathname.startsWith(href + "/");
-  };
-
-  const deadlineText =
-    daysToDeadline <= 0
-      ? "Deadline passed"
-      : daysToDeadline === 1
-        ? "1 day to deadline"
-        : `${daysToDeadline} days to deadline`;
+  const isActive = (href: string) =>
+    href === "/" ? pathname === "/" : pathname === href || pathname.startsWith(href + "/");
 
   return (
-    <aside className="relative flex w-[228px] shrink-0 flex-col overflow-hidden border-r border-line bg-bg-surface">
-      {/* warm grain overlay */}
-      <div
-        aria-hidden
-        className="paper-grain absolute inset-0 pointer-events-none"
-      />
-
+    <aside className="relative flex w-[220px] shrink-0 flex-col border-r border-line bg-bg-surface">
       {/* Brand */}
-      <div className="relative flex h-16 items-center gap-3 border-b border-line px-5">
-        <div className="relative grid h-9 w-9 place-items-center border border-accent-terminal/50 bg-accent-terminal/10 text-accent-terminal">
-          <span className="font-display text-xl font-semibold leading-none italic">
-            G
+      <Link
+        href="/"
+        className="flex h-16 items-center gap-3 border-b border-line px-5"
+      >
+        <span className="grid h-8 w-8 place-items-center border border-evidence-dim bg-evidence-faint font-mono text-sm font-semibold text-evidence">
+          L
+        </span>
+        <span className="flex flex-col leading-none">
+          <span className="text-xl font-semibold tracking-tight text-ink-primary">
+            LEEK
           </span>
-          <span className="absolute -right-px -top-px h-1.5 w-1.5 bg-accent-terminal" />
-        </div>
-        <div className="flex flex-col leading-none">
-          <span className="font-display text-xl font-semibold tracking-tight text-ink-primary">
-            GLINT
-          </span>
-          <span className="mt-1 stamp text-[9px] uppercase text-ink-faint">
-            Threat intel
-          </span>
-        </div>
-      </div>
+          <span className="label mt-1">Case file</span>
+        </span>
+      </Link>
 
       {/* Nav */}
-      <nav className="relative flex-1 overflow-y-auto py-3">
-        <div className="px-5 pb-2 stamp text-[9px] uppercase text-ink-dim">
-          Workspace
-        </div>
-        <ul className="px-2">
-          {nav.map((item) => {
-            const active = isActive(item.href);
-            const Icon = item.Icon;
-            return (
-              <li key={item.href}>
-                <Link
-                  href={item.href}
-                  className={cn(
-                    "group relative flex h-10 items-center gap-3 px-3 text-sm transition-colors",
-                    active
-                      ? "bg-bg-elevated text-ink-primary"
-                      : "text-ink-muted hover:bg-bg-elevated/60 hover:text-ink-primary"
-                  )}
-                >
-                  {active && (
-                    <span className="absolute left-0 top-1/2 h-5 w-[2px] -translate-y-1/2 bg-accent-terminal" />
-                  )}
-                  <Icon
-                    size={15}
-                    strokeWidth={1.6}
-                    className={cn(
-                      "shrink-0",
-                      active ? "text-accent-terminal" : "text-ink-faint"
-                    )}
-                  />
-                  <span className="flex-1">{item.label}</span>
-                </Link>
-              </li>
-            );
-          })}
-        </ul>
-
-        {/* Tracking card */}
-        <div className="mt-7 px-4">
-          <div className="stamp text-[9px] uppercase text-ink-dim">Active</div>
-          <Link
-            href="/campaigns/canvas-extortion"
-            className="mt-2 block border border-line bg-bg-elevated/60 p-3.5 transition-colors hover:border-accent-crit/50"
-          >
-            <div className="flex items-center gap-2">
-              <span className="h-1.5 w-1.5 animate-pulse-dot bg-accent-crit" />
-              <span className="font-mono text-[10px] uppercase tracking-label text-accent-crit">
-                Tracking
-              </span>
+      <nav className="flex-1 overflow-y-auto py-2">
+        {groups.map((g) => (
+          <div key={g.key} className="mb-3">
+            <div className="label px-5 pb-1.5 pt-2 text-ink-dim">
+              {g.label}
             </div>
-            <div className="mt-2 font-display text-base font-semibold tracking-tight text-ink-primary">
-              ShinyHunters
-            </div>
-            <div className="mt-1 text-xs leading-snug text-ink-muted">
-              Canvas extortion. {deadlineText}.
-            </div>
-          </Link>
-        </div>
+            <ul className="px-2">
+              {nav
+                .filter((n) => n.group === g.key)
+                .map((item) => {
+                  const active = isActive(item.href);
+                  const Icon = item.Icon;
+                  return (
+                    <li key={item.href}>
+                      <Link
+                        href={item.href}
+                        className={cn(
+                          "relative flex h-9 items-center gap-3 px-3 text-sm transition-colors",
+                          active
+                            ? "bg-bg-elevated text-ink-primary"
+                            : "text-ink-muted hover:bg-bg-elevated/60 hover:text-ink-primary"
+                        )}
+                      >
+                        {active && (
+                          <span className="absolute left-0 top-1/2 h-4 w-[2px] -translate-y-1/2 bg-ink-primary" />
+                        )}
+                        <Icon
+                          size={14}
+                          strokeWidth={1.6}
+                          className={cn(
+                            "shrink-0",
+                            active ? "text-ink-primary" : "text-ink-faint"
+                          )}
+                        />
+                        <span className="flex-1">{item.label}</span>
+                      </Link>
+                    </li>
+                  );
+                })}
+            </ul>
+          </div>
+        ))}
       </nav>
 
+      {/* Search hint */}
+      <div className="border-t border-line px-5 py-3">
+        <button
+          type="button"
+          onClick={() =>
+            window.dispatchEvent(new CustomEvent("leek:open-search"))
+          }
+          className="flex w-full items-center justify-between border border-line bg-bg-base px-2.5 py-1.5 text-left text-xs text-ink-muted transition-colors hover:border-line-strong hover:text-ink-secondary"
+        >
+          <span>Search the case</span>
+          <span className="font-mono text-[11px] text-ink-faint">⌘K</span>
+        </button>
+      </div>
+
       {/* Footer */}
-      <div className="relative border-t border-line px-5 py-4">
-        <div className="stamp text-[9px] uppercase text-ink-dim">Build</div>
-        <div className="mt-1 font-mono text-xs text-ink-secondary">
-          v{buildInfo.version} · {buildInfo.build}
+      <div className="border-t border-line px-5 py-4">
+        <div className="font-mono text-[11px] text-ink-secondary">
+          {buildInfo.name} v{buildInfo.version} · build {buildInfo.build}
         </div>
-        <div className="mt-3 inline-flex items-center gap-2 border border-accent-terminal/50 bg-accent-terminal/5 px-2 py-0.5">
-          <span className="h-1.5 w-1.5 bg-accent-terminal" />
-          <span className="stamp text-[9px] uppercase text-accent-terminal">
-            {buildInfo.classification}
-          </span>
+        <div className="mt-1 font-mono text-[11px] text-ink-faint">
+          {buildInfo.classification} · {buildInfo.programLine}
         </div>
       </div>
     </aside>

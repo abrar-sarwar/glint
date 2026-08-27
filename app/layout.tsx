@@ -1,17 +1,14 @@
 import type { Metadata } from "next";
-import {
-  IBM_Plex_Sans,
-  JetBrains_Mono,
-  Newsreader,
-  Special_Elite,
-} from "next/font/google";
+import { Inter_Tight, JetBrains_Mono } from "next/font/google";
 import "./globals.css";
 import "reactflow/dist/style.css";
 import { Sidebar } from "@/components/shell/Sidebar";
 import { StatusBar } from "@/components/shell/StatusBar";
-import { daysUntilCanvasDeadline } from "@/lib/utils";
+import { SourceDrawerProvider } from "@/components/intel/SourceDrawer";
+import { CommandPalette } from "@/components/shell/CommandPalette";
+import { caseStatus } from "@/data/case";
 
-const sans = IBM_Plex_Sans({
+const sans = Inter_Tight({
   subsets: ["latin"],
   display: "swap",
   variable: "--font-sans",
@@ -25,25 +22,13 @@ const mono = JetBrains_Mono({
   weight: ["400", "500", "600"],
 });
 
-const display = Newsreader({
-  subsets: ["latin"],
-  display: "swap",
-  variable: "--font-display",
-  weight: ["400", "500", "600", "700"],
-  style: ["normal", "italic"],
-});
-
-const stamp = Special_Elite({
-  subsets: ["latin"],
-  display: "swap",
-  variable: "--font-stamp",
-  weight: ["400"],
-});
-
 export const metadata: Metadata = {
-  title: "GLINT · ShinyHunters cluster",
+  title: {
+    default: "LEEK · CyberLeek / GTA VI",
+    template: "%s · LEEK",
+  },
   description:
-    "GLINT tracks ShinyHunters and the Scattered LAPSUS$ Hunters cluster: campaigns, kill chains, detections, and ATT&CK coverage.",
+    "LEEK is a living, evidence-driven reconstruction of the CyberLeek GTA VI leak campaign: what happened, what the evidence proves, and what remains unknown.",
   robots: { index: false, follow: false },
 };
 
@@ -52,20 +37,23 @@ export default function RootLayout({
 }: {
   children: React.ReactNode;
 }) {
-  const days = daysUntilCanvasDeadline();
   return (
-    <html
-      lang="en"
-      className={`${sans.variable} ${mono.variable} ${display.variable} ${stamp.variable} dark`}
-    >
+    <html lang="en" className={`${sans.variable} ${mono.variable} dark`}>
       <body className="bg-bg-base font-sans text-ink-primary antialiased">
-        <div className="flex h-screen w-screen overflow-hidden">
-          <Sidebar daysToDeadline={days} />
-          <div className="flex flex-1 flex-col overflow-hidden">
-            <StatusBar daysToDeadline={days} />
-            <main className="flex-1 overflow-auto">{children}</main>
+        <SourceDrawerProvider>
+          <div className="flex h-screen w-screen overflow-hidden">
+            <Sidebar />
+            <div className="flex flex-1 flex-col overflow-hidden">
+              <StatusBar
+                caseName={caseStatus.name}
+                latestSync={caseStatus.latestSync}
+                latestVerified={caseStatus.latestVerifiedEventDate}
+              />
+              <main className="flex-1 overflow-auto">{children}</main>
+            </div>
           </div>
-        </div>
+          <CommandPalette />
+        </SourceDrawerProvider>
       </body>
     </html>
   );
