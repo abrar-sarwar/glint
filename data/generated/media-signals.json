@@ -214,5 +214,101 @@
     "domains": [
       "courtlistener.com"
     ]
+  },
+  {
+    "date": "2026-08-28",
+    "feed": "google-news:CyberLeek",
+    "count": 8,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "feed": "google-news:Cyberleek",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "feed": "google-news:GTA VI leak",
+    "count": 14,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "feed": "google-news:GTA 6 leak",
+    "count": 5,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "feed": "google-news:Take-Two CyberLeek",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "feed": "google-news:Rockstar CyberLeek",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "feed": "google-news:CyberLeek Discord",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "feed": "google-news:CyberLeek subpoena",
+    "count": 2,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "feed": "google-news:CyberLeek arrest",
+    "count": 2,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "feed": "bing-news:CyberLeek",
+    "count": 3,
+    "domains": [
+      "bing.com"
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "feed": "bing-news:GTA VI leak",
+    "count": 2,
+    "domains": [
+      "bing.com"
+    ]
+  },
+  {
+    "date": "2026-08-28",
+    "feed": "bing-news:GTA 6 leak",
+    "count": 1,
+    "domains": [
+      "bing.com"
+    ]
   }
 ]
