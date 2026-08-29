@@ -2830,5 +2830,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fe91be35de",
+    "title": "What Rockstar Reportedly Knows About GTA 6 Leaker CyberLeek",
+    "reportedAt": "2026-08-22T02:50:14.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWVMRUNuVDA4U3RKNzhNcGxsMkowTjNYMFNUNVFYNEJDR0x0Q3FfbzNBeXVxN1ZZZllaZU9sUmhPY2tpeER4eVNsRnM0VW5wN29XV3JCTGdLdDFwUHBrNmp3RkZIX1NHWHlfSDE2T2JIQjBiclpoZjFGVjRCMFo5OXBBUmZtOU9o?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

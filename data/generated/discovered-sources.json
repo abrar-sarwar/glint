@@ -10291,5 +10291,70 @@
       "model": "rules-only",
       "matchedEventId": "LEEK-EVT-033"
     }
+  },
+  {
+    "id": "DISC-f21a577250",
+    "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNd0NDRjJJTWJUM0RrMzJmWmdzYk1RWFpGdUJKREgtaFBYVWhLRkFtb3hXME9qZklBa2w0Q1ZUTWgyMW5COXhWZ1NPSHhnTmhLU0dqdDNQTThmdi1SQzdGWVhNaHkwZTNVY3IwcWs2MVRMTWlDcUoxbnNvb2NoREZmT2hodjl1eG9Sd0Z1a2FBR1E3QzhneVFPQzFnSjdEOXpEbVI0clVyYldiemxOQnFlRENmQ0ZxSGQzNm9PSjFIWkdtZlh4clo0a3pJaXRCMnZvak93QUhlNVJsOE1mYUEwUlpvOC1vaEZWVDJrS3Bnem9WdmxOMzkxNGhGU0lXcWVHY0dsMUNRcEx3X2dlbDd2a3dBdGhmN2xmMVE?oc=5",
+    "title": "Grand Theft Auto 6 will run at only 30 FPS on consoles at launch, no performance mode promised — even the souped-up PS5 Pro might not get 60 FPS support",
+    "publisher": "Tom's Hardware",
+    "publishedAt": "2026-08-29T11:30:00.000Z",
+    "discoveredAt": "2026-08-29T20:39:43.310Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-fe91be35de",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWVMRUNuVDA4U3RKNzhNcGxsMkowTjNYMFNUNVFYNEJDR0x0Q3FfbzNBeXVxN1ZZZllaZU9sUmhPY2tpeER4eVNsRnM0VW5wN29XV3JCTGdLdDFwUHBrNmp3RkZIX1NHWHlfSDE2T2JIQjBiclpoZjFGVjRCMFo5OXBBUmZtOU9o?oc=5",
+    "title": "What Rockstar Reportedly Knows About GTA 6 Leaker CyberLeek",
+    "publisher": "GTA BOOM",
+    "publishedAt": "2026-08-22T02:50:14.000Z",
+    "discoveredAt": "2026-08-29T20:39:43.310Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a07e3dfb28",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUHFwZ05BbWxYWnotSDFrTEZ4a1BIWUJZVTByMVJndnJKVGlka01EbE9YaVhpNTVFZDNEbmVGZ2owMS1PczdvTHBLazBQUXJ3TW91US1KX2FOcTVWQU9LRndscFpYZTBuLVI4eXFlTVYzLVRzSzl1bERtTjB6ZnZjZWx6aXpJMWZBajRtSUZ5cUltc0N3TVNqRFIyYmdyMkRHRng4MDBrUmE?oc=5",
+    "title": "CyberLeek Leaks GTA 6 Gameplay, Issues Rockstar Three Demands And Promises Daily Drops",
+    "publisher": "eGamers.io",
+    "publishedAt": "2026-08-19T23:28:09.000Z",
+    "discoveredAt": "2026-08-29T20:39:43.310Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-022"
+      ],
+      "category": "actor-statement",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-016"
+    }
   }
 ]
