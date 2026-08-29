@@ -310,5 +310,77 @@
     "domains": [
       "bing.com"
     ]
+  },
+  {
+    "date": "2026-08-29",
+    "feed": "google-news:CyberLeek",
+    "count": 5,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "feed": "google-news:GTA VI leak",
+    "count": 3,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "feed": "google-news:GTA 6 leak",
+    "count": 4,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "feed": "google-news:Take-Two CyberLeek",
+    "count": 3,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "feed": "google-news:Rockstar CyberLeek",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "feed": "google-news:CyberLeek Microsoft",
+    "count": 5,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "feed": "google-news:CyberLeek Discord",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "feed": "google-news:CyberLeek dead man switch",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-29",
+    "feed": "google-news:CyberLeek arrest",
+    "count": 2,
+    "domains": [
+      "news.google.com"
+    ]
   }
 ]

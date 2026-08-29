@@ -9340,5 +9340,560 @@
       "model": "rules-only",
       "matchedEventId": "LEEK-EVT-052"
     }
+  },
+  {
+    "id": "DISC-510713ecf9",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQS0RNNFZQMElMaUFaRjNHazRPREQteUtDMFFJWXJVQWRvemRBZzgwLWtfZEMzSFJwV0xucTA3WFFqb0Mwa2t0bUlQRFVZcEF3Q2VxNWExaUlmblNhR0Z6N3BtWDBwenR1UjQ4TVVvWDRCN2wzQUVMUktMN1pwQTNkazJRWWN6QW1pXzFhQ3hJaWdIQ2JoZkYwZG9PbDJIT2s2QTFmVWx3?oc=5",
+    "title": "(UPDATE) Cyberleek May Have Cashed Out On Their GTA 6 Leak Crypto Scheme, And Now We Can Reproduce The Trail",
+    "publisher": "wolfsgamingblog.com",
+    "publishedAt": "2026-08-28T21:51:15.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-75a02d461c",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1TZHl6SGhoM1JZYnI2RXR4NnE0aHI4Vm5PVEU4YTZVbDJwVGRueFc0b1RpeVAwNXhmOUdfUHJteThRaGJvOFFvdWFPa1h0eHJUWDd3bmlTczZsbzFCNTk5SWtEZXNadHQ2ZlhUSGhiZEV6NVV5TllF?oc=5",
+    "title": "GTA 6 leaks: 7 things Cyberleek still hasn’t shown",
+    "publisher": "eGamers.io",
+    "publishedAt": "2026-08-29T00:10:02.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-29a8a7d59b",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQZG0xazBoS1RYeDNqSTBncGxGSDRRM2h3Qk80YVpEcERmcVlzRUJibEoyYlhrRUlxY0hsYWhqZWpuRjlXVU5SX0hxbnVSbWxrdjFFYVpDY0hkS3d2RHMxcVE4SWVMb3I1b3BOcFJYTkhnd2lTeHpGc3F6WEFVb0xYdGJ6ZGY1eDQyejM1OG1ZdklocHJ5M2ljSTNUVDVzRlRzTFdlMXpxNnpHSjdacFN1RDFjWUJKdktYNDhDUE5udFd6R1FNNm1vUWI3SWEwall2TFpPTjk5OFhxRnZ0eVByVDVodkJFbTBJakVMVkFLdFhHeTczdjh5SkY2UXMtUQ?oc=5",
+    "title": "GTA 6 delay rumours explode again after new CyberLeek leak: Is November 19 release in danger?",
+    "publisher": "The Times of India",
+    "publishedAt": "2026-08-29T03:03:00.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0d558beeeb",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNVmNWZGx3RW5Sc2x1a19wVjA5Zm5zLTA0Vjk2VUIycU1jUDJFb09BNFAyMnQyZlcyQTB6TFkyVzZjZzNqN1l3ZUN1eUVqRHE1eFYtWm11WERDc3VXeXh2dFg1TkREbG4xeWxQNVVTeFZEa2xZRkxaWWtLYW1JaVlPV3V3TWRvYnp3LUp3anZWQmdnYW1vOXdVR3U4dGdTZURFZWgwMGdhVERsR3FodWVFeEd2QXlicFZlakVUZmxTX1hOYlhZcDBXd0hQRmtna2FCaHRjanBTMldpak9jamJBc2hpVGpEcjloQ1A3M3N2cU95a3F30gH6AUFVX3lxTE1UNUktUWFkYzIwZE9adENCQ1AzakpldFQzU1VjdHR1ay05a25wT3RyamhqUkxjdmVrT2Q0WF9hMDc3RnZqM1FoNWRIUmRxV1hmUDFkcE5pcTUtQVgwbWlnVTZLczd6dGN0Nm4zOXhXaTMxQzBEcFRMbGUwaEtXV2xCSEZER3ZuRUZiR0FkWUI4TkdkQkxkSlhmcnBEOFE5N0NDMWlmM2RyRERORUpHblcyczVjRzNUUE91c2NISnBTeGljSVRJeVFYZlN0NUVHenBDSDByRlFIS01lVjRlLWxBMTBmZnRXZkl4bjFTdkZvR2hMX3JqeDY4c2c?oc=5",
+    "title": "Will GTA 6 be delayed again? New CyberLeek clip suggests Rockstar 'not ready' for Nov 19 launch | Hindustan Times",
+    "publisher": "Hindustan Times",
+    "publishedAt": "2026-08-28T22:14:51.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-95773f3139",
+    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9RSUJ6ZUQ4RlBET3loMEd0RVo2c1FqdS1qNE9JelhzbE9Renc5dkhPLUx2Vk1IRGRQZU54eVo5Tzg0SG1aV3JWa2doNHl0dw?oc=5",
+    "title": "CyberLeek Price | CYBERLEEK Price Today, Live Chart, USD converter, Market Capitalization",
+    "publisher": "CryptoRank",
+    "publishedAt": "2026-08-23T07:00:00.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4d1935d9ba",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQWdPYW1keEprUmJPR19tOEJBMlJoUk00N3hCSUZLLXlBQ2xZYXVXQ3Y0eHRBRU1zTndyX2YycGd2dTdWVzFKU3BMOENoMUFtd0lmN29LWThCajB6SXdaelJEbzFycFU2YmFhSzczS1ZSa0NmOE5JdUVqWndWcGxkY2NuZ0N5c0d2VzJTWGMtV0VVVmp4bFFTZHY4MnZxTEdZQkUwY9IBqgFBVV95cUxQMU1NTElCQjhDcldhQ3lfejMxMk5EYXEyT2Z1ekNfaUJVVE84Y0QxVXQ4T18xMjZkVDdfODlHQlE2bmtxbUpHQ2M0NFZfd2dPYlh5X25DeWFOVlZYZGhEUXBsc2xRek4ycUFCd2RkSGh1UmtQbklUa09SUkFrRGFJMmVBcm5Bd21NNlJLcV9VQUFFRmJ1YzlSY2dYdWNudnJtWFNSc0t3Um5DUQ?oc=5",
+    "title": "GTA VI leaks: What we know about Cyberleek and the effort to uncover who’s behind it",
+    "publisher": "FOX 26 Houston",
+    "publishedAt": "2026-08-29T01:26:58.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b36f132664",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQSDRkNUU1dnZvcW9nNTdaXy1PTTJ0X0lLamROSHR0cm9DWnBNNzBKLUFsdU9scEw4ZWFOMDBlMlVLcklWT005dGVpcHJTSllUQ0NaNkJXeWZGSVRLZ1duNEw0T293MThnVTZJVmpVLWxXSFplS1NlTk13TDBRd0dUVllUQzA0QzlIYXBCTUhxVllaWHlRODNORXFVdlB2WG1RNEpkeDhB0gGrAUFVX3lxTFBrcThQekNFcWo3N0ZTQTh1QTVYZWMwYjk1UENJZHJpN2lKWGw1NXlpUnZXc2VVT0dtbEt6cExQU3RzMndGekYxMTdQUk1nWjc1cExYTGRuYzF2YW0zcFNhVmE4c1UwLUNpR055c2tSTmJob3FfV3B0NHViZ2otRU1jWGxyeGFxQjRYekFSWFQ5dkoxbWJTZHJwNWFreGZ4T0p0SjFITFQ2YUYtZw?oc=5",
+    "title": "GTA 6 Confirmed to Run at 30 FPS, Rockstar Unsure About a 60 FPS Mode",
+    "publisher": "TechPowerUp",
+    "publishedAt": "2026-08-28T20:50:04.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a4af68ac62",
+    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNYUdfSzBGb1RQQURXcTduTUphMEdkMUFMY3JOdVpvVk8xSGxWbVFVZmh3WXdZUWo3MVJ0Yndscl8xb2xRM0t2d1h6YmNuSXczcEVjaDhvNU5ETFBCT3M2blJNNVk4TkxMSmdmTjdFM1VqT2U3TnhZN3oyV3Ntb19DeHNTdE5OLVdmd193MVRxVUtsVTVMdXJtOWxsY25JMXprZjhIMHdvRjB1VVBhVjk2OFhTM3FEZGJ2MEstN1FrejJlZ2RXMVJTbkptUUMxbi01MUJKYm1GSHFzRDlpb2h4Qy1OclZqQ1hXUGxEazZzUkxObnN1U1pVM1pnYTB6ZzhtRVNGd1ZwNjZnUTBlczRialZpVQ?oc=5",
+    "title": "'There's zero Lucia content' — GTA 6 fans believe the person responsible for the gameplay leaks has access to a restricted build containing only the prologue",
+    "publisher": "TechRadar",
+    "publishedAt": "2026-08-25T16:13:33.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ee14e85453",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOV2lHWk96bVpCQzVPZ0ppVzA4akFUN3doeHV2djVLeVRYSE9wd0JZMG5aOWVSNXg3Zm82dURIdmNwUjlDRDFtN1JQUEtRcXNZNHFJbzczbEQzQWtDc1FfSmlmOWtFbmszNlIxQ0VHSnF0TjFKVU1TY1RscXU1LUh4cXM5QVgyTjF3M2NlVXBmeVVILVZHM1ljOQ?oc=5",
+    "title": "GTA 6’s Extended Look Trailer Shows off the Game’s First Real Race Track [Updated]",
+    "publisher": "The Drive",
+    "publishedAt": "2026-08-26T16:44:11.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-dd603b6997",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM0o0dUROd0xZaldhaTlNRGU2eUdXNEJaSzNsM0lXYXowYjMxdG53YzVDYVJQU0M4RXplMy1kZFc4Y3Y3VVZlM1pVdGEyN0tmTW5lZHRUVEZoOGpEd05ZaVRsUlVLWlVjWjZOdFREMXItejJoZURqNEtZZWlMdmJVSUxBR0o4aHFILURmQ20yeXR2eGcyRzlOTWFaUDJDc0swX2ItOHNUOVI2TnVPS2hDYzlCdXIyR25VbXRYQ29lZW1hbmFtZUFoa0RjNGZoUEVN?oc=5",
+    "title": "Former Rockstar dev says the GTA 6 leaks are a 'nothing burger': 'There won't be much damage'",
+    "publisher": "PC Gamer",
+    "publishedAt": "2026-08-24T16:52:01.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7d056a6510",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSWJHQjYxbTBPUzhac2dfNkZqSGhNT0hDX0ctd0NPam1Bdm45SS1ULXZINFBTMzFaeTVzS3ZzUUxBalMzdXJWMWs2dV8yVXdWUlBJYUJfTEpEcnNZTU5wM3VaMXNRNjJyTm5wTnFmbjlZUG4wVkZxdmNwUVlkeDFBR1FZQnZ6V3ZydjhPNDdPZVlIQ1VURy05VDVQVDk2NVZqZlFHR1hCWkRueFRr?oc=5",
+    "title": "GTA 6 leak: Someone already fulfilled the hacker group’s demands",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-08-24T17:40:00.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-022"
+      ],
+      "category": "actor-statement",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b9310b0e19",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONEVpMFFkYkRXdmNPWUM1TzlTcFlkV0EyYmZhcW5SUGFnS3lJdkktdElBZGtzeExqaWgwYVRzQWJwVEZmN0taX3FNSTlXUUpRVTFCYTdXbFlSQU5NdjgtMFRta2NDUHFLSnFzVUxGMU9PbTJYR2J2SXBTLU5kQ1NYVzlMM0c?oc=5",
+    "title": "GTA 6 Leak Shows Off Apparent Nudist Colony",
+    "publisher": "GameSpot",
+    "publishedAt": "2026-08-24T15:29:05.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-332dff6913",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQ3lPNVIyOVJYbXBUbDNoWDc2UmhPalF6Q09EVTBnNUZUWDJYcVNhczVVdF9jZ0VKWDZIVVBZdDJZc003MDJiNXlUMUhrVWU4NXkzS3NyMUtfR1JGQnR3dmV1a1Z0MFdOUVIydHQ1cnFsWTZBRHVmTFNUbnFxMUxYRDlsVGxQSjJCQU9WY1NxOF85YkxYMEZQTk9GVm1uQ1pM0gGmAUFVX3lxTFBBNGd0cDEwWTZIemhndEJtYUhFcXVZY2lSd1NrSkxzMk9PZ2tFb1Y1UllTTHp3a3pFbUJERTZRZjY1a2dNZHZYeTR0WnA5YjgtX3hBYmdWWGxDanZkNTJxckdwZm5DNHFMSzYwQm15eEp2Z1duTFphMzJmX3VGZXVmTWV5M0RsbDdMckZOUDZTLWY5RGRHX2NJcWJWeUpfTzlfVVBOQ1E?oc=5",
+    "title": "GTA VI leaks wiped $2.83 billion off Take-Two's market cap in 48 hours",
+    "publisher": "Gagadget.com",
+    "publishedAt": "2026-08-20T07:00:00.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-025"
+      ],
+      "category": "take-two",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-022"
+    }
+  },
+  {
+    "id": "DISC-7c151e6a3a",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9IMWd3S016cDhGSGthMW9ucnIzZmhvNGliOGFiS0dtbFE3VkNBTGd0azlXdm9nRjNmVkMxN0J4azdMUVNkS0xMTE5UOTVyVENMcVVwRWxyTzhKcF9ZSFlsUEQ2YlFMT1ZKTUJ6Q3hTekNocEs1QUsybWJBVWRPUQ?oc=5",
+    "title": "GTA 6 Leak Group Demands End To Digital Pre-Orders, Days Before Netflix Tease",
+    "publisher": "Cosmic Book News",
+    "publishedAt": "2026-08-18T07:00:00.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Netflix"
+      ],
+      "claims": [
+        "LEEK-CLM-014",
+        "LEEK-CLM-022"
+      ],
+      "category": "actor-statement",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a3dccbad12",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOVlRHNEp0WXRoSmNfWHVxdjRpeTBzQmNsTUx1LW9vYjRGYjhrcXJHM1pFUU11YVJBM19zc1Z6bWFpeU9MaU0wZC00MmFLNjdCZkpYMnJuX0dEdHRZTGZ6bTY4WlJLUUoyU21TTGFiNzdDUnFVZmoxNlBRdnd5MDJQbGs0Yw?oc=5",
+    "title": "GTA 6 Leak: CYBERLEEK Threatens to Release the Full Build to ‘Millions of Gamers’",
+    "publisher": "tbreak.com",
+    "publishedAt": "2026-08-22T18:34:34.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-002",
+        "LEEK-CLM-013"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-034"
+    }
+  },
+  {
+    "id": "DISC-4925826deb",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQOGVXS2tlMXEwZ3c1dWNnNi1SYlRTMy15cDZ2bVhFZ0hKaWY0QU5MQ29LTWVLUjBzX1pRTUxIY3RiTVR0MEE5Qk9GSnAzN29FYkV4R1FKUVpzOTRwWFZrMnh1Z2NzSExaOGV4QWJKaExJQVphLXJqNGROUW1FT1ZTTmNJVlYyV1cxSV9ZQ1E3aF82QlI5RHZJSE02Y1BWaFBCQ21iWkt3elRRMlJmSEE2LUd2S2N1RUlSMmtwTXJtTTVUakJIeDAtLUQtUTU1SmJqRmx4VFV4dGxWVEtBY2RBS3JETkRBUQ?oc=5",
+    "title": "Rockstar Hit By New Separate GTA 6 Map Data Leak Beyond CyberLeek Videos",
+    "publisher": "GameFragger.com",
+    "publishedAt": "2026-08-21T22:08:00.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-020"
+    }
+  },
+  {
+    "id": "DISC-513c95806c",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOckw5LUU2MmhMTk5XUlZ4NXpSOC1LdmFTUDltTGIzT1dMd3NRY0tuTThoVU9FSmlGV1BnR2VIRGltd3BQeWRjNFpCZ1VqcUFlVUw2cERuSHg4UjhzeUZvTlFhMUt2NzBNTW1oZWFQaFlfZzk5dXRWQ2xJLUp5WXVYcUZRWi1VMGFRZkxERg?oc=5",
+    "title": "Xbox CTO Issues Brief Statement On GTA 6 Leaks",
+    "publisher": "Pure Xbox",
+    "publishedAt": "2026-08-21T21:33:00.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-006"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-53ebc0df8b",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNOURoTDlRQ2NmZDBaOGFwWUhYbEFkVWs5d1dBTzRUTDJFdnM5MEYyWEpRRHh4dG9DOXVyMVRoeDlXb3BxTlZ0YjJkM1gtR0t2eGxMdFdUcFNGS294bkxDYzBDZDEwSTZ2dEUteFZaSUJraUk5N1dtTkdNNTNkZUpwZHhqVG1fd2UtcV9QM1VBYnRsb1AtT3FJZVhfb0c3Zw?oc=5",
+    "title": "GTA 6 Leaker Chase Begins as Take-Two Subpoenas Microsoft and Discord",
+    "publisher": "Insider Gaming",
+    "publishedAt": "2026-08-21T15:17:45.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Microsoft / GitHub",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
+  },
+  {
+    "id": "DISC-b83202b567",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOOWlKY2hXRk1fTUlLNEZ6LXF5QWIxYWltOHJHN0k5dFhRZ1ZObTVndm54QTdvMFJoZDBYLU01d0hHYlVXdHRlYjBTa241LVVIRFJQb0JlUDJ5czBMdmRaamZXVFM3b1R5bUNGWThrd0d4eTlKbG15VmZ5OE5BdDVjcEtsVm1LenoxZnlVUHZPbEJ0RkFqczFZUGVOYnBUSlZ4Y0NYSWFHaEtRb1R3V0ZGRlhzN3FjQ3l2eHYzUTNn?oc=5",
+    "title": "Take-Two Wants Discord to Hand Over 'All Identifying Information' of Everyone Sharing GTA 6 Leaks",
+    "publisher": "inkl",
+    "publishedAt": "2026-08-22T11:36:42.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "discord",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e57f0ded9a",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQR0dtLWdOVHdOSlV1RmdXRjhKSHlMQnNhSjdRbGMzUmJrazhjZDdvRHFyWEE3Wi1iazRPdWNROUVWcEQtNUZHb2hIRWNVdlJVdEtxa2NBcGpFbFVTcjdCZ1I3S3RCVlY4OFFtTTB6T2FZemZIcF9EMmtfWlBjZVU4UjlaNVJsb3RrTlNaUHBhcDAyX25TVk9MWkI5NHZMT1d6SGdXaA?oc=5",
+    "title": "Take-Two subpeonas Microsoft and Discord in hunt for GTA 6 leaker",
+    "publisher": "Dexerto",
+    "publishedAt": "2026-08-21T21:59:30.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Microsoft / GitHub",
+        "Discord"
+      ],
+      "claims": [],
+      "category": "microsoft",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
+  },
+  {
+    "id": "DISC-e6d5b9d467",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOSnJSOHNwdG9QbWVyb3JSWmdhSkNkbWY1ZFcwR1FJTDBDMWZvMGRhNW8wVENCc3FjSXFJYnZETHl6M3padDhibVRvZ1RaOUVUX3hkNTFrd1lDTmZLc05JRXYxTkl4SmFNdXpGQWtfb0pPcXRSRW0wRlBEdVAzQ0JjaGQ0X3NaYnZuVEgyLVVxWEx0MVJCcUEzUWJYbk93a2pqbmFqS1JPcU41S0s5M3p2d251endrdFQwMjF1bjdR?oc=5",
+    "title": "GTA 6 Leaker Hunt Goes Nuclear as Take-Two Demands Discord and Microsoft Hand Over Private Data",
+    "publisher": "The Nerd Stash",
+    "publishedAt": "2026-08-21T18:10:09.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Microsoft / GitHub",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-022",
+        "LEEK-CLM-028"
+      ],
+      "category": "microsoft",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
+  },
+  {
+    "id": "DISC-67b30cadf5",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZmJ2N3NvblA4bHA2eGU2ZmFzSFVKdXcxdjZBa2lDRUZaSDVRRFhxYWlPRlJWZHlnSktqenNIcERQVXN0c0wxUmt1WXc1ekNaUTVabzJ3a3ZKVEVoQ01nSWlwUmNyU2o4RTNkcnlhbF9UVDhsc3B5WTQxVXlpTFJpaGtLeU1LQm1VVFlRN1M0Rmk5Q3ZEbnFvTUlldGVRVWk5Qmc?oc=5",
+    "title": "GTA 6 Leaker Threatens Sony Over Digital-Only Future, Promises “2-4 More Leaks”",
+    "publisher": "FandomWire",
+    "publishedAt": "2026-08-19T11:06:08.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "CyberLeek Discord",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-02a323acf3",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOTkR5R0p4TEIxT1dOTHFub1l1cm83ajYyNzNvTFJva2JtX1JJZTI1RjJuLW9ZaHZNSjJ6SUVrdDMtQXpSYlQ3b3Q4cmdONlY5Z2RDWHNwSnNPd0t3Z3JzVUtndVBZaGZqc0taaVdSaTdMY3pYSHllZHpLWGFBbmlJa1dueXNld1pyVWozTzRrdzRqUVVtT1RB?oc=5",
+    "title": "Latest GTA 6 leak officially debunked as fake ahead of Netflix reveal | Gaming | Entertainment",
+    "publisher": "Daily Express",
+    "publishedAt": "2026-08-24T10:02:00.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Netflix"
+      ],
+      "claims": [
+        "LEEK-CLM-004"
+      ],
+      "category": "correction",
+      "suggestedStatus": "retracted",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8dc473a516",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQU3UxU0VvUHZDeVhJeUppaHVoSkMzTExhSWMwdURTZWVySkR4elFpOVhUdVNvWlRZeU55THJwcnNvOGU0bFg5STNIa3BETy1wYVdtU0hDOEFjMGxYNHc4bmVuRTBDaVpzTWJjd1NrdXRmY3lpb0k3MkZhdGlxZ1lkZmVITFhQU2syQ1hyY1RlT3VPV2FjUjZJLVg1ZXdFb1hsLVo5eUNGX2UwUUJub1NxbGFXMHF4WFFJUEttU2puZnhwV0R6M1Fod3VXOA?oc=5",
+    "title": "Quickreads: Get quick information on latest, top breaking news",
+    "publisher": "Hindustan Times",
+    "publishedAt": "2026-08-26T07:00:00.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c42dd37d05",
+    "url": "https://news.google.com/rss/articles/CBMilgJBVV95cUxPdWxhdXhWR2ZWSHJOcHRKVER3NVN3RnhQY2VyeGszRFMtLXljYUVZWExzdGFpZXJjV1FYT2pQaXdEMFIzejNWenJybjJNdEVrejUxTkNSUFl0SGQwXzJhT3hiekVhTi1vQjNQc1lDZHZfSGRxYXgzZnJzb1JqX0x6SVVrbWdFNzc0N0RxSHVHNzNaeEJhWXVOc2p0UGtlSU82SXdxbmJPaTE4MVJfRjlWVjNKV3V3TW9xSzNvaHE1STJfZlZYUGU2MzR6X0MwZkpxekZLaWR1VXdwNnJzQXJ6S2phUEVmRm5KSTg4MUNOSUJFOXlnNlFKSmJQVm81SXZtenpIUEJZWDF2Wld6Z0NvRjg2ZmdfUdIBlgJBVV95cUxPdWxhdXhWR2ZWSHJOcHRKVER3NVN3RnhQY2VyeGszRFMtLXljYUVZWExzdGFpZXJjV1FYT2pQaXdEMFIzejNWenJybjJNdEVrejUxTkNSUFl0SGQwXzJhT3hiekVhTi1vQjNQc1lDZHZfSGRxYXgzZnJzb1JqX0x6SVVrbWdFNzc0N0RxSHVHNzNaeEJhWXVOc2p0UGtlSU82SXdxbmJPaTE4MVJfRjlWVjNKV3V3TW9xSzNvaHE1STJfZlZYUGU2MzR6X0MwZkpxekZLaWR1VXdwNnJzQXJ6S2phUEVmRm5KSTg4MUNOSUJFOXlnNlFKSmJQVm81SXZtenpIUEJZWDF2Wld6Z0NvRjg2ZmdfUQ?oc=5",
+    "title": "GTA 6 fans are panicking again: Is another delay coming? CyberLeek video claims Rockstar 'not ready' for November 19 release",
+    "publisher": "Indiatimes",
+    "publishedAt": "2026-08-29T03:35:06.000Z",
+    "discoveredAt": "2026-08-29T06:19:20.327Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
