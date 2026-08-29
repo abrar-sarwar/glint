@@ -2698,5 +2698,137 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d1b46784e4",
+    "title": "GTA 6 Leak: Cyberleek Cashes Out $270K, Coin Sinks [2026] - tech-insider.org",
+    "reportedAt": "2026-08-29T02:35:11.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWOXB1eHI2a3ZvZ2tJXzdaODJrcmlqYlJGWkpGWE9MMlFFVWhVM2ZNTG9rQ05HS1M3dU9iT1Q0bVRLSjhGSjZLc0NqZlRZbk1sTFRicEFiWGFKYWZyZXgzN09PZl9CZE5iQTRidmt3RWtmaWti?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-db88d26f3d",
+    "title": "GTA VI Netflix Preview Becomes a Hit Despite Cyberleek Leak - tech-insider.org",
+    "reportedAt": "2026-08-29T07:21:54.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVUVtR0J4eDJkQU5Sc3FEVWwzRkRWOXB2V0hHQklwcXlaaWtpZXp2cHk0N2JRNXl6bWN1cmUyVVBScjVtTmxVYUVpWXJfNXduNHZxR2lOc1A4Mng0cnpfb1V5NHZld293VE1BaTFydzc4TDNiNVhJX3dxMnNQWXBPYlB3S0E4X28?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-61aa7701c1",
+    "title": "GTA 6 Will Run at 60 FPS on PS5 Pro, New Leak Claims",
+    "reportedAt": "2026-08-29T11:55:34.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiakFVX3lxTE82RmhiR0FjdVFEVVNlSTNEbkVDQ1ROdUJIalBkWllKMDRMV3hCM2ZXeGp2Vk41b0ozZTZNTW5TSzR0aGdHbFlLZXZQWnlvMlhEVjR3NmplXzY3OUhFMzJwTWJQWGpqX1JQUFE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f1be148dc2",
+    "title": "How bad are the GTA 6 leaks?",
+    "reportedAt": "2026-08-24T16:07:33.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yUTBwNE9TS0FEcjRvbjZsVDVyT2ZfQWFZNjVQMWNmaDV5Q1FkX3FvNllHalp6WE96QWdSZDBCN001VnE3Ynk2bGtwVmJuR1BobW0zRlVuTQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f4f9357152",
+    "title": "Ex-Rockstar dev calls the GTA 6 leaks a 'nothing burger,' says Hot Coffee was far worse",
+    "reportedAt": "2026-08-24T23:35:10.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSW41NzJjcVQ4TEhZTjAxZG5MZWFvcktaVC1qWkFzdmg2SnZNUVpsRmhqT3Z2bkx2eGlWTzI0SHp5QnNvVEw0ell3bDQwMHJVTFptZThLbUdhQjVxTUVONXZDb1BMTnJUNUVyWE5kQWpBMmxud3ZDTHlEZlJuYmlJU3VjQV9ZTzAzWXZRX29vWjZSR2tFVlVtcWl4c0M5RE41VWVvX2hMa2dpbUxPQTJSc1BPQXduR1VsZDQ3R1FMNFIySHFkODV2bjdYbEtSUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7f74782916",
+    "title": "Grand Theft Auto 6 leak generates massive hype, and backlash",
+    "reportedAt": "2026-08-29T14:31:37.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lMDNyZURJWGt2cjlCVXpiV2JqUEh0eGR3X2xVR3BTdHBIMEZOd1lzQW5pWG4zTzBtWEFDS1VGcl9NekVBMHVGek1PWHczc0hoakpfTk9TU2tCQQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7865eaca33",
+    "title": "Take-Two Takes Action as ‘GTA 6’ Cyberleek Leaks Keep Coming",
+    "reportedAt": "2026-08-25T19:09:41.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWaTh4V2FNYkQ1eXI2enRscTItY1RFTkRSRURsU1pISDlNTVZRZFl6U3JCVWpvU1Y0SVUtXzRRMUtudk51c1ZCdw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d1e80ba48c",
+    "title": "Discord denies being served in GTA 6 leak crackdown",
+    "reportedAt": "2026-08-25T12:01:19.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yVUdOV3JVOE9nbFRaUDNxd3hKTjBjem83OVhpT0x1VWNnaGJYWVA4Vkk4UEh2TEFnRGtCUVRCWnlyYTM1c0NUaERJWUNfbG81bXdyNm9vZVdXcWxtZ0M4OWlIaG5qc09KS2c?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8329e21906",
+    "title": "Rockstar Games finally addresses ‘Cyberleek’ GTA 6 leaks",
+    "reportedAt": "2026-08-27T04:14:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VanpVbmNUTFVMVElUaVBLTlRpLUZ4Nm5mNE03b08zbFZaRFVkMVpZYXVMZ3BYZ09BMjRkaU9pXzNlRkFqZWJaMFoya19yRDRvWnhVV0R5Mmc2N1V3QzVSb3hBb2lZSUU5RVh3WHVyWTJuRHRNcHhR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c00c2899c1",
+    "title": "GTA 6 jasaýshylary Microsoft pen Discord-qa aryzdandy: aqparat aǵyp ketýi mıllıardtaǵan shyǵynǵa ákeldi",
+    "reportedAt": "2026-08-22T14:36:38.000Z",
+    "category": "microsoft",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ocWJmXy1SekszY1pEakFTelJtZ1doZjZ5OXkyRE1vd2RlTlVsYXJOdjNlSm1GdTF4N1g1QVkxaGwwOThiNWpSbVJBSEF2SkJqdm9oTmhHaU1hM1FFd3dOd0Fybw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3de93a7dcd",
+    "title": "GTA VI publisher files subpoenas in bid to unmask leaks surrounding eagerly anticipated video game",
+    "reportedAt": "2026-08-22T06:15:00.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUDdHUzZaMWd2WDhVcEw3OUlRY1Ixb1lVYlFYZ0xRdmYtTGZpQXp3dXY4Ym55d25lRFpBOGEySXRhRVhCRk85alJEd05ONFppbkM0V2RJN0l3ajdIbnZBdkFtemFnbzQ4YUpWSGpwZEt5ZFVMeVl2dkZOV1BQLUhUd3VTdzRNVHI3blRqdDJzS0V1WUNxYW9LUmdIbjh5YjRhQVNFWEVUVzZMRXRGcWNnc0dBdFlwT1ZxUl8zV2NfTU93cU93SFFXN1BtUVJ0RXItN2FLYjNfRS1FRWNfRm5CSw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

@@ -9895,5 +9895,401 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-d1b46784e4",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBWOXB1eHI2a3ZvZ2tJXzdaODJrcmlqYlJGWkpGWE9MMlFFVWhVM2ZNTG9rQ05HS1M3dU9iT1Q0bVRLSjhGSjZLc0NqZlRZbk1sTFRicEFiWGFKYWZyZXgzN09PZl9CZE5iQTRidmt3RWtmaWti?oc=5",
+    "title": "GTA 6 Leak: Cyberleek Cashes Out $270K, Coin Sinks [2026] - tech-insider.org",
+    "publisher": "tech-insider.org",
+    "publishedAt": "2026-08-29T02:35:11.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-db88d26f3d",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVUVtR0J4eDJkQU5Sc3FEVWwzRkRWOXB2V0hHQklwcXlaaWtpZXp2cHk0N2JRNXl6bWN1cmUyVVBScjVtTmxVYUVpWXJfNXduNHZxR2lOc1A4Mng0cnpfb1V5NHZld293VE1BaTFydzc4TDNiNVhJX3dxMnNQWXBPYlB3S0E4X28?oc=5",
+    "title": "GTA VI Netflix Preview Becomes a Hit Despite Cyberleek Leak - tech-insider.org",
+    "publisher": "tech-insider.org",
+    "publishedAt": "2026-08-29T07:21:54.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Netflix"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-61aa7701c1",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE82RmhiR0FjdVFEVVNlSTNEbkVDQ1ROdUJIalBkWllKMDRMV3hCM2ZXeGp2Vk41b0ozZTZNTW5TSzR0aGdHbFlLZXZQWnlvMlhEVjR3NmplXzY3OUhFMzJwTWJQWGpqX1JQUFE?oc=5",
+    "title": "GTA 6 Will Run at 60 FPS on PS5 Pro, New Leak Claims",
+    "publisher": "vice.com",
+    "publishedAt": "2026-08-29T11:55:34.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4f05b1becd",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQeGNtc3VaY0RrZWV1RXFIdkhySF9uaTNUR3pQYUtqOHFBbzNjY3RzQUxYV0hSUlA1a2hhdTJHaFdGMzJuQkJyX2tGcnlwbUw0WW9sNHlzSWZtSGQ5V1k2RE91WmZjMGZOdnN2MnZkX0p4Vm4zZkxtZ0dMUHFzV3hVU0JEbGJYNGhuZDQxbXdvTG1vdXVBb2RGMnhrRnlfZ084X1RRQ25ZNEprc2dSZjVoLUlzcVdSSjJmajNVUUxjS1Ztdkt6TXFIWlg2UUN6dEZraE1ZZHdRNWdXTkE?oc=5",
+    "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull just hours before Rockstar's official reveal — memecoin crashes as Cyberleek's 'anti-corporate' campaign ends in a payday",
+    "publisher": "Tom's Hardware",
+    "publishedAt": "2026-08-29T10:30:00.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-030"
+    }
+  },
+  {
+    "id": "DISC-57ca316a04",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZEVwbWFQVlVPSUIwVUNsTWVMcUdLem1jT0p1bTM0d3ljZ2d3RjhNZFFHdTNHVExiTHlLX29qOW84bVFRTHdQS0FYRVRGREVuemhGQ0RWX2w2UF9BNkRJS1lMdFdMZHRBbWxTSmJSVG9fSFpIYVZ3R0Y0MklWY1EzN1dseXJvSE12d19NSF90SUY3ZFlBWlZ3OEY3aw?oc=5",
+    "title": "GTA 6 Leaker Reportedly Dumps Meme Coin for $250K — And the Clips Have Stopped",
+    "publisher": "eGamers.io",
+    "publishedAt": "2026-08-29T15:05:35.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f1be148dc2",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE0yUTBwNE9TS0FEcjRvbjZsVDVyT2ZfQWFZNjVQMWNmaDV5Q1FkX3FvNllHalp6WE96QWdSZDBCN001VnE3Ynk2bGtwVmJuR1BobW0zRlVuTQ?oc=5",
+    "title": "How bad are the GTA 6 leaks?",
+    "publisher": "BBC",
+    "publishedAt": "2026-08-24T16:07:33.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f4f9357152",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSW41NzJjcVQ4TEhZTjAxZG5MZWFvcktaVC1qWkFzdmg2SnZNUVpsRmhqT3Z2bkx2eGlWTzI0SHp5QnNvVEw0ell3bDQwMHJVTFptZThLbUdhQjVxTUVONXZDb1BMTnJUNUVyWE5kQWpBMmxud3ZDTHlEZlJuYmlJU3VjQV9ZTzAzWXZRX29vWjZSR2tFVlVtcWl4c0M5RE41VWVvX2hMa2dpbUxPQTJSc1BPQXduR1VsZDQ3R1FMNFIySHFkODV2bjdYbEtSUQ?oc=5",
+    "title": "Ex-Rockstar dev calls the GTA 6 leaks a 'nothing burger,' says Hot Coffee was far worse",
+    "publisher": "TweakTown",
+    "publishedAt": "2026-08-24T23:35:10.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7f74782916",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lMDNyZURJWGt2cjlCVXpiV2JqUEh0eGR3X2xVR3BTdHBIMEZOd1lzQW5pWG4zTzBtWEFDS1VGcl9NekVBMHVGek1PWHczc0hoakpfTk9TU2tCQQ?oc=5",
+    "title": "Grand Theft Auto 6 leak generates massive hype, and backlash",
+    "publisher": "CBC",
+    "publishedAt": "2026-08-29T14:31:37.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7865eaca33",
+    "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBWaTh4V2FNYkQ1eXI2enRscTItY1RFTkRSRURsU1pISDlNTVZRZFl6U3JCVWpvU1Y0SVUtXzRRMUtudk51c1ZCdw?oc=5",
+    "title": "Take-Two Takes Action as ‘GTA 6’ Cyberleek Leaks Keep Coming",
+    "publisher": "FanBolt",
+    "publishedAt": "2026-08-25T19:09:41.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-dbd8b26bcf",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOZXA0N3RXUnJjYk9yN1NwR0Q3MjdJSDdPTkVnVUVXQjlEX1RQMGdNS29OclFmcnZ3UUtBMENEUTcxcDR1WFlqNVQ0ZUM1NTdmYk9oTldnZl9IUHphRTUtN29QVlBnZ2IyUEUtck5zMDZNeWVXb0VTN3BtTWdJTmx2RTVJOG9sbllJQWNnZ0tFYVlHTWMxaXRqNmMzMGVQMUxGbWNveUdVRUdtcmt3R2dSWXF3emd2UFpOeHZuU0cwOG05R0hOUVJqQ2NiR2tTMEdCdDhHN2hnQjRqY0cwMGpvbjZQZGE1Z0xLczNlQTBCdVROZkE?oc=5",
+    "title": "Take-Two Seeks Information From Microsoft and Discord in Hunt for GTA 6 Leaker, Files Multiple Subpoenas in Federal Court",
+    "publisher": "IGN Southeast Asia",
+    "publishedAt": "2026-08-21T18:03:10.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Microsoft / GitHub",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
+  },
+  {
+    "id": "DISC-d1e80ba48c",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5yVUdOV3JVOE9nbFRaUDNxd3hKTjBjem83OVhpT0x1VWNnaGJYWVA4Vkk4UEh2TEFnRGtCUVRCWnlyYTM1c0NUaERJWUNfbG81bXdyNm9vZVdXcWxtZ0M4OWlIaG5qc09KS2c?oc=5",
+    "title": "Discord denies being served in GTA 6 leak crackdown",
+    "publisher": "tbreak.com",
+    "publishedAt": "2026-08-25T12:01:19.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Discord"
+      ],
+      "claims": [],
+      "category": "discord",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8329e21906",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5VanpVbmNUTFVMVElUaVBLTlRpLUZ4Nm5mNE03b08zbFZaRFVkMVpZYXVMZ3BYZ09BMjRkaU9pXzNlRkFqZWJaMFoya19yRDRvWnhVV0R5Mmc2N1V3QzVSb3hBb2lZSUU5RVh3WHVyWTJuRHRNcHhR?oc=5",
+    "title": "Rockstar Games finally addresses ‘Cyberleek’ GTA 6 leaks",
+    "publisher": "dotesports.com",
+    "publishedAt": "2026-08-27T04:14:00.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c00c2899c1",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1ocWJmXy1SekszY1pEakFTelJtZ1doZjZ5OXkyRE1vd2RlTlVsYXJOdjNlSm1GdTF4N1g1QVkxaGwwOThiNWpSbVJBSEF2SkJqdm9oTmhHaU1hM1FFd3dOd0Fybw?oc=5",
+    "title": "GTA 6 jasaýshylary Microsoft pen Discord-qa aryzdandy: aqparat aǵyp ketýi mıllıardtaǵan shyǵynǵa ákeldi",
+    "publisher": "infohub.kz",
+    "publishedAt": "2026-08-22T14:36:38.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Microsoft / GitHub",
+        "Discord"
+      ],
+      "claims": [],
+      "category": "microsoft",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3de93a7dcd",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUDdHUzZaMWd2WDhVcEw3OUlRY1Ixb1lVYlFYZ0xRdmYtTGZpQXp3dXY4Ym55d25lRFpBOGEySXRhRVhCRk85alJEd05ONFppbkM0V2RJN0l3ajdIbnZBdkFtemFnbzQ4YUpWSGpwZEt5ZFVMeVl2dkZOV1BQLUhUd3VTdzRNVHI3blRqdDJzS0V1WUNxYW9LUmdIbjh5YjRhQVNFWEVUVzZMRXRGcWNnc0dBdFlwT1ZxUl8zV2NfTU93cU93SFFXN1BtUVJ0RXItN2FLYjNfRS1FRWNfRm5CSw?oc=5",
+    "title": "GTA VI publisher files subpoenas in bid to unmask leaks surrounding eagerly anticipated video game",
+    "publisher": "The Straits Times",
+    "publishedAt": "2026-08-22T06:15:00.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "google-news",
+    "query": "CyberLeek subpoena",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-023",
+        "LEEK-CLM-016"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-86e7b8bc05",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pTEM0MHdhZjBIMko3bnNITnIwSmxGMzVrQW9LYWYtbEx6ZGFiN0N5dmhJLVN3UGs0bXg0VTgwUnhldzFoZFFWZTItazVNZ3docnk1T2dIaTdoRlZnTGxseHFkNXNWSGpjcWRZTnZ4OUJSNEFtRC1qaw?oc=5",
+    "title": "$CYBERLEEK Update The GTA 6 leak-linked Solana memecoin is f",
+    "publisher": "KuCoin",
+    "publishedAt": "2026-08-28T22:45:22.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "google-news",
+    "query": "CyberLeek $CYBERLEEK",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0fbe2f6583",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOUktsbEVVZWV0dDJUSTRUTW5sbzBVajRSVkJRVzY4b2ZDbnlMNm9CSmNCRzI0ekxKZmhJTkhaUmJqR2NLbHdETFNwNEFvZUYxaHpQNnI1T3pFbWRZSWJLTkcyT0psYi1FRWdZeDRoSXpjMzhEOWRtX2s5c0pWbnp6Tkk2WGthMWdfNFdtTF8wU0dnZ3JlcW02clYwdWpkbTFpbF9BWTIwNHJoUHQ2T0s5ZFBldUduQk90Q09kUmtTRTlybFJ3NjV5ZEc2UG83TnBKRnlFNDdWc1NOT2tHMWxrMkFaUWZQd9IB6wFBVV95cUxPWFVxUk9JY2ZNTjgxQjB2TGRZdnQ0X3NCSEtVRzhoaGRYRHl0cE5MTVJWankweS11djMyWEh5RW5oR1duYlpyWG9RaHR4T2QzYWFUaXBUU0pxSDFJdjY5eXZOdzZTQ0NXQ2t5dDhZakh1bUhkdEh3UWdxZ2lacXFKb2FUMmgwRTVGTGxRaHBkMzBzVjZrSHpwd0Y0aGszSk1yVlZHSHFjaGJjc3c3ZEhENEhPTkNOQXhUTWFwYWNCcm53Tmc0cW9XazZzV3pjOGVsRTJWX3ZzVDJ3U1FYNTJ6TFQtM05xZEJPV3M0?oc=5",
+    "title": "GTA VI footage leaker threatens publishers: CYBERLEEK announces \"three commandments\" for gaming companies",
+    "publisher": "ixbt.games",
+    "publishedAt": "2026-08-18T07:00:00.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "google-news",
+    "query": "CyberLeek $CYBERLEEK",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
+  },
+  {
+    "id": "DISC-507c15796c",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a930829473141ef87bfcea6ce81f714&url=https%3a%2f%2fwww.msn.com%2fen-in%2fnews%2fother%2fgta-6-cyberleek-leak-is-grand-theft-auto-6-getting-delayed-again-heres-what-cyberleek-claims-latest-footage-reveals%2far-AA2baxkZ&c=4403248433624275349&mkt=en-us",
+    "title": "GTA 6 CyberLeek leak: Is Grand Theft Auto 6 getting delayed again? Here's what CyberLeek claims & latest footage reveals",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-28T20:36:00.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9dbcaef821",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a93082900d5407893d99002e752feea&url=https%3a%2f%2fgamerant.com%2fgta-6-strip-club-leak-12-cyberleek%2f&c=16682911652434046663&mkt=en-us",
+    "title": "GTA 6 Leak #12 Shows Off Even More Strip Club Gameplay",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-25T03:19:00.000Z",
+    "discoveredAt": "2026-08-29T16:26:12.358Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-025"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-033"
+    }
   }
 ]
