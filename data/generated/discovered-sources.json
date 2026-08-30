@@ -10652,5 +10652,333 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-977d3ba852",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYnozM0VNME9SRlVzTDVxU2FZQ2VEb3hVdTVmSU9abzBnYWhuZzVEX2p4VE5TOUFjTTRNMUNsbGczeXdRTnNZR2hFempYeHRvZ1pqdU9lV2tZQ2VzUERiZURYZ2R3Ty1ScFY5QXFUMUk5dXZpcGR5SjM2U0VmclhiZHVhOVpybnYwVHhRTXVLeXhFU2ZjR3c?oc=5",
+    "title": "Cyberleek releases GTA VI story spoilers ahead of Netflix debut",
+    "publisher": "Plataforma Media",
+    "publishedAt": "2026-08-27T10:36:37.000Z",
+    "discoveredAt": "2026-08-30T16:19:19.128Z",
+    "feed": "google-news",
+    "query": "Cyberleek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Netflix"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f5dec80405",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAxQms0Wk84cXZqZUs2Mk5xZTg2Y3QydlVNR3NrUElxRGpYSE5qdkN0N2x2WXE3UUNnT2JORlNKejBQckpZOTVJZHlOTEgwUThNTUVGQldHYXFPczRRZlFRRF9sc3ozbzE3bTBudUpwaUMwQk41Tmhv?oc=5",
+    "title": "'GTA 6' Netflix extended look: Everything we learned about the plot in the 26-minute reveal",
+    "publisher": "Mashable",
+    "publishedAt": "2026-08-27T20:58:00.000Z",
+    "discoveredAt": "2026-08-30T16:19:19.128Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Netflix"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-036"
+    }
+  },
+  {
+    "id": "DISC-62f33377ff",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQT3oxc25KVVlhMFJGckpUTDUtUFNZMV9KNGRTbVdpMm8yUC1wN29USW5IRG1rbWRhNTY1VzdoaW1HeXdDRmM4YUI1SE1qZGtfeHZZendpaFVCdjJfZXBCbWp0WlFlVFVpekVPd21kRWpoZ00xTkVteF9tbjdQSnhvT1hISXo0YVg3cDNqaDZwZ2RhdFVsTWZjQXB2NWJrdHh1MnNPRFliVUtHa1dnVTdB?oc=5",
+    "title": "\"No Disc, No Peace\": Leaker Releases GTA 6 Gameplay in Protest of Digital-Only Launch",
+    "publisher": "Gadget Review",
+    "publishedAt": "2026-08-18T07:00:00.000Z",
+    "discoveredAt": "2026-08-30T16:19:19.128Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b4667178da",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSmtFVzRKUUlvV2dvX0UzWG13bWJwbEVvYnE3aXNUMVo1Z3p0bUFZVmlRZlkzSGtGVmUzMmg1STA1ZmRVVWl4NGg1WlVzMzNjS0VEdTJvWjF4cEFwRjZ4T2ZYaWNnbVhPUHY1MDlkNDgxY0lkaVVsRnhKZkY4VEFsS1Z5ZE9raVNtd1E?oc=5",
+    "title": "GTA 6 leaks: Every Cyberleek gameplay video, full map, and updates",
+    "publisher": "Dot Esports",
+    "publishedAt": "2026-08-26T15:40:00.000Z",
+    "discoveredAt": "2026-08-30T16:19:19.128Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8b71f3e902",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPN3RZbGprcGlsa2Z6RjY5ai1MSkdtdU9yd1QwOHIzcno0dUV5M0R5SVpJTjN6WmhqU1I5YzA1UXdYRTd5a0lHYjhWREYxeGJEZ1A0QnppcThKWTF0Rl9oMEZnVWRjdVJCVEdRTTQyWmk0ek1vTU9pU3FBa1dSX240dEtnVmo3OHZqaEZWZWxWcV8yMmZRUGxZYjZqNjh1SmFrSWVQNTk3NEluQWZaM0Z6LU5pU1hxbkV0dEcyaGdMeWJRcTJVNENBaENQS0lJck41bzRZWXdWRQ?oc=5",
+    "title": "Cyberleek Down: Take-Two (Ironically) Uses Legal Means To DMCA GTA 6 Leaks And Find The Leakers",
+    "publisher": "gameranx.com",
+    "publishedAt": "2026-08-24T09:41:59.000Z",
+    "discoveredAt": "2026-08-30T16:19:19.128Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-010"
+    }
+  },
+  {
+    "id": "DISC-ef52ca2563",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPamVuYlZocHFubnB4WWlFU1VmWWZxWHNUQ256ckNieGthc0RRZFRqbjc2NEctOGRwdnVCSzhKUTNhUGdTWnpuTjMxUnN2bUpjd1BYWE9ja2pRWlhuNGVZOTZ5aHBXeEM5WUhNSF80dkdVVW9XaEZRWHJoS0dIVkJzNFRvZS00ekFsc1NDV1dDcjV4U0RsWVNOSGNMQzhGQQ?oc=5",
+    "title": "Rockstar Games breaks silence on 'heartbreaking' GTA 6 leaks",
+    "publisher": "LADbible",
+    "publishedAt": "2026-08-26T12:17:58.000Z",
+    "discoveredAt": "2026-08-30T16:19:19.128Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-052"
+    }
+  },
+  {
+    "id": "DISC-d91bdd72c5",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWFNMRTlyYXV0Z0gwdHBpUjF6UmFfYXZua0xGRkpMekdqWlNMNzE1N0V1Z2NLWXFKYWxxRmdUUjhqQlBXcERHMVB0dzVGemJkcmRXNThMRXZSZVd1SXNZcnoxUEo5Z2NGVF9neTQ0S3dIMl9iQXdGTl9PVFdXYm5tdjcyNVh5VUE5dlJ0NVdjdzU1RUN2TlNv?oc=5",
+    "title": "Cyberleek Token Surges 819% Amid Take-Two’s GTA 6 Probe",
+    "publisher": "The Crypto Times",
+    "publishedAt": "2026-08-26T16:03:14.000Z",
+    "discoveredAt": "2026-08-30T16:19:19.128Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Take-Two Interactive",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-587e4a459b",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWmhFX1pzZ1Z5aWc0aVkyU3QzbzVOc1plU2hXTlpPSU1SQ1JuUUpHUTJJTTJ4T3RObkdzMU5KR3VvVVdSbVk2eTRSMjBMOXBkRzdaTWRmb244QzFlS3JpUHdLNHV1c0Q5eWJiUWRkVG1QMDMtSk1GcVVIaVJpbHRBbE11MFlVS0k?oc=5",
+    "title": "GTA 6 Cyberleek Reaches 18 Drops, but One ‘LEEK’ Bullet Tag May Be the Most Telling Clue Yet",
+    "publisher": "ascendants.in",
+    "publishedAt": "2026-08-26T16:58:34.000Z",
+    "discoveredAt": "2026-08-30T16:19:19.128Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6e7b1d447c",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOdURaRlBQTlEyR2kyWEJKdkRHc29jWFRGUUJTbm9WWHphNU84c1ZBZEdZT0NaYktlLXFiWnZpUEpncHJJXzlEZE1lVHJXTW1kdlcwQ29ZdGVFNHpaVUtrekpvRnRhMF9UNm9iRXEwRzM4djhsTkJtT0NBbUFnV2ZCbnBUS1NseTBNUWZQRzY4UVF0ZnRLUVA0?oc=5",
+    "title": "GTA 6 Hacker Shares New Leak After Website Takedown Attemps",
+    "publisher": "TheGamer",
+    "publishedAt": "2026-08-22T07:00:00.000Z",
+    "discoveredAt": "2026-08-30T16:19:19.128Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-025"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1ec606aeff",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZ2N2SWtNZVhoY29jMlpsUDZhMXBLMVpsd3VVTlU3ZXZ1UGdqMDJOYjZHUTBBa0UwZTJZZkszdjdaWUxzdU5ibG5iWGlfMm1XdlhlMDlhSkUwalh3RWhtSlJiT09xQk9EVlNIRUg2ZUtybGR3TGt3RWs0TEZYaWpJOWNyVWhNQWUyUTdXR0xxWHhhUmY2VXhHcEJ6V3Nac3JDdU1hTFB3?oc=5",
+    "title": "GTA 6 leaker CyberLeek warns of the biggest yet reveal in less than 24 hours",
+    "publisher": "Soap Central",
+    "publishedAt": "2026-08-26T11:01:08.000Z",
+    "discoveredAt": "2026-08-30T16:19:19.128Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-1473637293",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNQVVnVm1NZXU4ZDZFZDd2RzMzanVQSkNnbGwydjRPU2E2cWtzbHRic1R5YTlUUFo3UUZUWVpweVM3ZmVHdTJMVThpZk4zaS0zOUkwcHdLS092bkNjZjdsVGlOa2l6eHRSTFFEdk1DamJiWkpLQWQwZW5kcjRUbU5EbUJBWlk5WEJIOENlMUxJTEtaS2lOczU3UjFYT1ZsbW1ORGM1eHNn?oc=5",
+    "title": "GTA 6 Leaks Surface Online as Take-Two Targets Anonymous Leaker Cyberleek - pc-tablet.com",
+    "publisher": "pc-tablet.com",
+    "publishedAt": "2026-08-25T19:01:17.000Z",
+    "discoveredAt": "2026-08-30T16:19:19.128Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6f44a8f9b7",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPNnllR3JFQzFCZE1vMHVDR0FxMXN3N3ZLcVdMZTdpQlF2WlFPeWJPdWUwY1d0bDhveFpNaEVwUHNxNF9iY3RfUnZRM3RJbzVoOGxVRXBNdmtqMHVQSGozamZwVnV4aEZJZV9VcHRFS0xqM25LanFUbXlBbnVMckFuaG9Mbm1vLVNiaG5aUHp4Umd1d0RkS2U0aHFEUE9UQ040aVRaT3NXYnViSUFJREFETDkxbzFqZHZCRFdKRDlOLVI4QllMT2k4MUMwMUR1NVVqakI1TGJqejBhRkF5SnBwZjBtdjVCSzJrWlVrOWJBZlhYb2dsb3Nkdkk5Tk1wTEV1QXRiWDJyN2toUdIBjwJBVV95cUxPa20tWnJJc0ZCU3VEMXBfV1pMV29JenE4RXVIRVBoTkR2a3M1dE95bVRRX2VBaXMwU0ZsSWdTbTN3U0FHRUpMSUVtUXpGTmZPdWQtejdVRF9TUmNYdUxBZG5CaWstNHJ4d3AxcmhodWp4bHprSzllNThzSlhHODhMRFlBc0I1M2FSWlRjNU96ZnNaM3NuTnBaZW5FU2Z1OXBYcHFqV2xqenNpTlNPd3BOMUd2V3hja3JmNjNiYy03eGFuVDZncU5SLUtsWlFoU19xUG5NallfVjBaZWs4Q0VjUFpNMnE2dEhTbVB5QXoyQzdjV0NqQ095SGk4WmhveGNZSjJ1QlpFb1JHSm93ZHZn?oc=5",
+    "title": "GTA 6 CyberLeek Leak #13: New Beach Footage Shows Jason Riding a Bike, Huge Crowds, Detailed NPCs, Animations & More – Here’s All We Know",
+    "publisher": "The Sunday Guardian",
+    "publishedAt": "2026-08-25T13:24:59.000Z",
+    "discoveredAt": "2026-08-30T16:19:19.128Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-260b7485a8",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMDY1Z1dYUHg2WEI5VzF5S2hkckNmbXdGTld5VThfVHNrb0ZNMUs5b1MwOWQyeFRxZVdqd0lNWUNHbkdkV1FVWmkzbjQ1U0VWZWREeUJjYU1vZC1RU25yeHpMdlh6U25tYlotMHVGMHdPdjlESnhUb2ZGckJyWHhOdlV6STZNbmlneWtUUmdwRU1kVk9pZWpHcF83NA?oc=5",
+    "title": "GTA 6 Leaks Explained: Rockstar Responds, Take-Two Seeks Subpoenas and Fans Await Extended Look",
+    "publisher": "The United Indian",
+    "publishedAt": "2026-08-26T21:12:09.000Z",
+    "discoveredAt": "2026-08-30T16:19:19.128Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games",
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-66d6ef56cd",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQOWtNR0lMbzhGb01KR2E4UlYwUHZoaG04R0IzYkdCbnJFS3V0XzZHekhkOE9LZFlRTUFBb0dSX0EtN1hNc0hZWHRxMTRyMnM3U3poc1doRjgtQ2k4SXJoZGFJLTQtUGo1cV94MjVnR0FWanBndkk1Nm9DWGJoNVJuR09NOXkwbkxHS1dkQWxsemQ0dHpRZUNyWVB1bFjSAaoBQVVfeXFMTlRxSVd1MXFrdERzazJPbEpYMXJLX0FTckZXMTN2aFMyYjNocFJCV19xMmFJWWVRWGNvYmNZTmRtYkhkQkloOE9UMzgyam9NWjN6bGVaZEh4YUM1c3VQNGRCRGxDLVRtYzVvdi1FdWpaQVJfM1ZfMFhqblJPd2VEczd3MU96WXN5cmN1Z0RnTGNXcjJlc3FBS2Z1UHIzRzF6TDJMOXo1amJUcHc?oc=5",
+    "title": "GTA 6 Leaks Get Worse as CyberLeek Teases Nudist Town Clip",
+    "publisher": "Analytics Insight",
+    "publishedAt": "2026-08-25T06:25:10.000Z",
+    "discoveredAt": "2026-08-30T16:19:19.128Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-041"
+    }
+  },
+  {
+    "id": "DISC-e0f83bef00",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPdFRUelBSczdZS0Z0bGp6N0JmQkg0RXJUZmM0VlhKWHpyUGVrdVFmMThQZnlrZTMybXUxSzdHeG5HQ3FSRmJZYXllcE5HOGgxcEJiRFJZZmlKdk5mY2pfOGUzeXJES19CSjBUYlBFNjNWYkFhODNvYlRSVWJ0NHJSdGxUS1BuM1FoNTJRNHlrNEZaUU9WVHhKc1pxYXVvT2YtQUt3NHptekZLa2hmNGVIM2lYRmUwSXhzVmVUYjF4WmdZU1VqR1draHpLNGl5MTd4WEVKcU9JcG9kT1hzM3RLZkE2eDlMbjTSAecBQVVfeXFMT3RUVHpQUnM3WUtGdGxqejdCZkJINEVyVGZjNFZYSlh6clBla3VRZjE4UGZ5a2UzMm11MUs3R3huR0NxUkZiWWF5ZXBORzhoMXBCYkRSWWZpSnZOZmNqXzhlM3lyREtfQkowVGJQRTYzVmJBYTgzb2JUUlVidDRyUnRsVEtQbjNRaDUyUTR5azRGWlFPVlR4SnNacWF1b09mLUFLdzR6bXpGS2toZjRlSDNpWEZlMEl4c1ZlVGIxeFpnWVNVakdXa2h6SzRpeTE3eFhFSnFPSXBvZE9YczN0S2ZBNng5TG40?oc=5",
+    "title": "GTA 6 CyberLeek Leak: Leaker Allegedly Cashes Out $270K as $CYBERLEEK Crashes 86% – Here’s What Happened",
+    "publisher": "The Sunday Guardian",
+    "publishedAt": "2026-08-30T12:11:53.000Z",
+    "discoveredAt": "2026-08-30T16:19:19.128Z",
+    "feed": "google-news",
+    "query": "CyberLeek $CYBERLEEK",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
