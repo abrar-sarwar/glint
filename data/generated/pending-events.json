@@ -2842,5 +2842,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ce02b0023f",
+    "title": "COLUMN: 'GTA VI' leaks put developer livelihoods at risk",
+    "reportedAt": "2026-08-30T02:35:58.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOMHA3eEZRTDJKYzd4T19NNFhEaURqbmQtX1p4MzBFd2ltci1CYnlPUFRFMndYVXBMbzF0U3FBNkNBbVpUbF9uZGk0N01QMUVCb1ozQmdBZm1ZZ1BhRXFCMFFFVTZkeXFWeFE0WmJlUzRaYjJsN3dsd1hEay1zS1Z6bDFNSk9adFhiTl9BVkVoTXFBMnZaM19tNHlJV1hDZzNKaDVsVkp6cjU4RTdoY0p2eUtuRTNfczBXcWdxV3pKQmp0dlR5bGdaOW1qZVNvY0V0eUtTc29GZk9IZm8?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8150e170f9",
+    "title": "New GTA 6 leak shows physical media is alive and well in Vice City, including one game that pokes fun at The Last of Us and Naughty Dog's many remasters",
+    "reportedAt": "2026-08-25T16:32:55.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQV19qS0FXRk1OVTVTMUtZbDNZSjhZcGZXT09uSTJmNkFiQmZlOEVoQ1BfWmY5QUtMenJmOGtLWUVZYXhZeF9taGdWbXZBd19TNFN2V2lWWm4taUZVRXNXMnlqRkFHLTZ3VjlQdi1tWEVmUlIzZHRUdHJpTzlmUThqeEdwZlZ3dk0tMFFxWjBSRldsMnJ3ZW9id1l6WDFGWkpfWGZmWEhIUTB5MS02Tzl3OTFFWHA5QXdYYXVLVUdOVDVIMG9DeHRvUm9Rb3h2dkNheXFzWllJRFQtQlNoRlNHS2tTeXhKYUg3SmNpUDNGdVNGMFk3M016a25tWHlFeGt5dERhTlhpMFFEUVdFQ3pwS3lHN3VEOC1vSW9EemNfNVJhZ2Y2bkhFLQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
