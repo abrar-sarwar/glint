@@ -10461,5 +10461,196 @@
       "model": "rules-only",
       "matchedEventId": "LEEK-EVT-011"
     }
+  },
+  {
+    "id": "DISC-10e5cf7cfd",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxORWhLVmhmR0s2TVpEeGRPZVRJS2I0WmhURGFXSmpFWFdmaGo5MFJibkRCREl1d0VuS3V1UndXa3lmU3pVcll0OUFRNGsxYlR5QWE3a003b1hiWmoyOWRteGdQeDZYT2NReUgwMFh0c2szX0pBak9INm1FR3QyMDhWOGdNelZlTW5GLXV1VTM0R0h0eXR3Z3E2RnRyM1ZGUF9TZU5DbGdB?oc=5",
+    "title": "(UPDATE) CyberLeek May Have Cashed Out Their GTA 6 Crypto Scheme — But Now A New Memecoin Has Appeared",
+    "publisher": "wolfsgamingblog.com",
+    "publishedAt": "2026-08-30T10:35:49.000Z",
+    "discoveredAt": "2026-08-30T11:32:00.843Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f354bfbf51",
+    "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOczRfRUE2U3JucW5uLXE1UFZwc042WDhrV0NUNE1uOWtROGVEMjJUZmxkaXgxVnVOWkVxNzVlTFRxeUgycXZtRlZWWEJEdzBqUmFoRnRPRU8zQmszV2xLUk9nTWlvNzVpU0lfRzBjb0k4NGVCMXNkVUM3cHI4YWhJU01qRWZqZGFKdkhTM1pPaXlpQ3FyMjRuaG52aUFfcmRMeG1lYzlaOEVxWkR5X0F3bEFjc1BYWGl4aFRleHRDTUdJc0QxNzFkVWlMMXVSRkRfMEZEQ2U5MFAwT0FQakVfc3cxOEZCYXJMZGVqS2lnN0hmdEcwTURaMGFzNXJob0hrVEw3OHM1VGIzQkotdGhZUFlMamladXZoX3JXQXgyaDLSAaACQVVfeXFMTnM0X0VBNlNybnFubi1xNVBWcHNONlg4a1dDVDRNbjlrUThlRDIyVGZsZGl4MVZ1TlpFcTc1ZUxUcXlIMnF2bUZWVlhCRHcwalJhaEZ0T0VPM0JrM1dsS1JPZ01pbzc1aVNJX0cwY29JODRlQjFzZFVDN3ByOGFoSVNNakVmamRhSnZIUzNaT2l5aUNxcjI0bmhudmlBX3JkTHhtZWM5WjhFcVpEeV9Bd2xBY3NQWFhpeGhUZXh0Q01HSXNEMTcxZFVpTDF1UkZEXzBGRENlOTBQME9BUGpFX3N3MThGQmFyTGRlaktpZzdIZnRHME1EWjBhczVyaG9Ia1RMNzhzNVRiM0JKLXRoWVBZTGppWnV2aF9yV0F4Mmgy?oc=5",
+    "title": "Bust fake news with Bangalore Mirror: Courthouse spectacle propels alleged GTA 6 leaker video across pla",
+    "publisher": "Bangalore Mirror",
+    "publishedAt": "2026-08-30T00:30:00.000Z",
+    "discoveredAt": "2026-08-30T11:32:00.843Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-004",
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e7e7864c16",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZGw1Sm5PSzdkMElIaDROdVlQcGVNc2YxZ053S2ZDbUtHSTlfZ0UySGQyOTVEcFVrbllKRVhDU3ozdzdzUFl2dzVWamRWbjlHSlU1eEpkalJLcGJRSzRrdWpmY1ZTVVJBaTE5NFdLeWNtTzRESGFrVGtLbV9Nd09pVjAwak9IaUQwZExjMnJR?oc=5",
+    "title": "15 details from the new GTA 6 leaks, including a possible morality system and stamina meter",
+    "publisher": "PC Gamer",
+    "publishedAt": "2026-08-18T07:00:00.000Z",
+    "discoveredAt": "2026-08-30T11:32:00.843Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5ded4b505b",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNaU5tSVFYQWxmQlZPOUE4czVYU1h0bXdxWnFXdlNmUy1HcDNIT21OdXRlZmdaUG1qOWI5NmFsNWZCX1NuRDZlWW95TlZQb0QyYk1fVGlnSEw3NmxEQkI5ZWNZY1RSZU5iVnQtVHBBM2RzOE1BOWNfOXpubk5adjFpZnh3MXNvcDRRcmlz?oc=5",
+    "title": "GTA 6 car customisation is bringing back a much-missed Midnight Club aura",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-08-30T11:00:01.000Z",
+    "discoveredAt": "2026-08-30T11:32:00.843Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-260db0d9e4",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORHZHcWJ4N2pnbTZlY0ZBajF0bHpZbi1aQkFIbENzMjlKNThZY0tPa0FfQldmRnQ2WFVxNUVLU0VyV1kxZTA4Mk9mRDJ2THFGY2tJWVZ1Z3FYbDg3R3V6V2ZoUGdRR2MxNzhKMWVxV1Q3ZVZ2LTZFdXE0MmZzUm5WdmZFUGRnQXcwdW92ZlU0Vl81Mmc?oc=5",
+    "title": "Rockstar Finally Comments on GTA 6 Leaks, Apologizes for Slow Drip of Info",
+    "publisher": "MP1st",
+    "publishedAt": "2026-08-26T13:30:50.000Z",
+    "discoveredAt": "2026-08-30T11:32:00.843Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e7f7c5f838",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNVlNlMGF4UVJOaDh3VXVlRHR6S2FfNTV1LVVrMjdiUFM2UEFVOUZucWlPS2RKMGZVLWRkdk9GYjYydTN2RVQxZ0N4MWlXR2dISEZsMUtPaVZqQjRoTm5aVWY0X0NuVEhBUDFMZ1I2TGVRenhTRExsNE9QV0JvR2s5SlhuMDhJcmI0SlQ2LU9peEZZX1djNmtmOFJKOWtCWUwtX2pwdGpQWHJnUFFoUFRlcDdOMnVoNGQ3blUtazVPc3pfR1lVeTNqVEN0aw?oc=5",
+    "title": "Take-Two Files Subpoenas for Microsoft and Discord to Release Records to Find GTA 6 Leaker",
+    "publisher": "VGChartz",
+    "publishedAt": "2026-08-21T15:23:34.000Z",
+    "discoveredAt": "2026-08-30T11:32:00.843Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Microsoft / GitHub",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
+  },
+  {
+    "id": "DISC-a4930cbc44",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNRDg4Z3oxMWNJd1VTUjJKX2lyVzlyWjBsWk5TLTJNa2FPTWdJODRqQ2FVSVA5WF9GWUxydkdhT0dWX3dNeFBWREwwcHdDZHFONWNjYS1jX0lyWEhvVHpyWWZWbTZLU0tSVDR2ZmZ2SElRT08wS2tJc3FwWWlmOGhvTDBBYjUtLVF6VlBCeFczVFZ3Rm83ZXNnenc4UERKU3ctcTktVWVjdW85RjJSbDFoQ1lPYVY?oc=5",
+    "title": "Ex-Rockstar dev calls GTA 6 leaks a “nothing burger” even though they won’t stop",
+    "publisher": "Dexerto",
+    "publishedAt": "2026-08-24T16:01:57.000Z",
+    "discoveredAt": "2026-08-30T11:32:00.843Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-12f1686d8b",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOalYtZ0R5Z0hrb2NJXzJDbDJOM1ZJaHRtZHhTRjRKNjRXeTR5TDdib1JZSjBBdGk4YjVyaFVSTlJEY2ZBYjJtOGFnRUwtSXBlZ2pPWUhSQjJOZmxuU2wxb0RjSWF4WkI0LUc0VjRlZWxtMFp1OFRxUVpOd01abHdRdUp5OGV4TmZETEE?oc=5",
+    "title": "Thousands of Discord Users Could Be Scrutinized Due to GTA 6",
+    "publisher": "Yahoo News UK",
+    "publishedAt": "2026-08-24T12:32:39.000Z",
+    "discoveredAt": "2026-08-30T11:32:00.843Z",
+    "feed": "google-news",
+    "query": "CyberLeek Discord",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Discord"
+      ],
+      "claims": [],
+      "category": "discord",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-924380d037",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9414b6c5a741b1a0b949e7b286d6f3&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2fskip-the-leaks-gta-6-is-taking-red-dead-redemption-2-s-obsession-with-realism-even-further%2far-AA2bciIO&c=11751041501821612391&mkt=en-us",
+    "title": "Skip the leaks, GTA 6 is taking Red Dead Redemption 2’s obsession with realism even further",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-30T00:03:54.000Z",
+    "discoveredAt": "2026-08-30T11:32:00.843Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
