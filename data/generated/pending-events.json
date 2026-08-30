@@ -3034,5 +3034,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7af5e59736",
+    "title": "‘GTA VI’ Leaker Drops Even More New Footage And Reveals Their Motivations",
+    "reportedAt": "2026-08-19T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFNvQUdJSmRXMGpZMDBRRGRKRU1Uc3FmU0NhM2tYa2htdXJwdGRRRC1KaUFITXZSQ09fQ1B2QkxHZkVCZWpwekczRFlrci1HM01DRGVDMW1ycEtkbFN0cmMxRHJEVmxJcVR0c1FNMXBXTHF3NTRRVDF5aG5YNFZBWGR3dE96WUpvWGplN3BIc0drN1pVdEVPYThzck1haDV2YlBWMWkxVW9RcnFPWHhHMEZB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7e85accf57",
+    "title": "Grand Theft Auto 6 Leak Prompts Cyberleek Warning That Publishers 'Should Behave, or Be the Next Target'",
+    "reportedAt": "2026-08-19T14:42:24.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcUpld25JeUh6RHlRd2Q2XzZidmo4eDBlMWdDOVU1S3ZBRnVIUEtyT3BGVFk3VTNVLVVucE9Md2hCek9KNVJZbEd2MC0zMHNFYXpVR05aYUZWU3lIVExGYXVYamMyT0NKWEJ1RWFQbUR5bWVEeWlvRks0WjNhTzVCZGdIc2FuWEMxcVZtWVVsZmg3dkRXSFcwWVJmSmZuclB4YnNtTjZLbkpSNHh3czBFcENhSjNsNkszT3o1MjRkVGhCUDhmc3c?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-52692b55b3",
+    "title": "The GTA 6 Cyberleek Manhunt May Have A Lead – That Goes Through Discord and The Dark Web",
+    "reportedAt": "2026-08-26T02:47:00.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9496854c9c4a1e996eca85ee3de4d7&url=https%3a%2f%2fgameranx.com%2fupdates%2fid%2f563817%2farticle%2fthe-gta-6-cyberleek-manhunt-may-have-a-lead-that-goes-through-discord-and-the-dark-web%2f&c=12377451282582898412&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

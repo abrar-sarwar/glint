@@ -1,25 +1,25 @@
 {
-  "ranAt": "2026-08-30T16:19:19.128Z",
+  "ranAt": "2026-08-30T20:45:51.470Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
       "ok": true,
-      "items": 100
+      "items": 92
     },
     {
       "name": "google-news:Cyberleek",
       "ok": true,
-      "items": 100
+      "items": 92
     },
     {
       "name": "google-news:GTA VI leak",
       "ok": true,
-      "items": 102
+      "items": 100
     },
     {
       "name": "google-news:GTA 6 leak",
       "ok": true,
-      "items": 102
+      "items": 100
     },
     {
       "name": "google-news:Take-Two CyberLeek",
@@ -34,32 +34,32 @@
     {
       "name": "google-news:CyberLeek Microsoft",
       "ok": true,
-      "items": 59
+      "items": 62
     },
     {
       "name": "google-news:CyberLeek Discord",
       "ok": true,
-      "items": 65
+      "items": 66
     },
     {
       "name": "google-news:CyberLeek subpoena",
       "ok": true,
-      "items": 54
+      "items": 58
     },
     {
       "name": "google-news:CyberLeek dead man switch",
       "ok": true,
-      "items": 54
+      "items": 52
     },
     {
       "name": "google-news:CyberLeek arrest",
       "ok": true,
-      "items": 31
+      "items": 33
     },
     {
       "name": "google-news:CyberLeek $CYBERLEEK",
       "ok": true,
-      "items": 50
+      "items": 49
     },
     {
       "name": "bing-news:CyberLeek",
@@ -74,12 +74,12 @@
     {
       "name": "bing-news:GTA VI leak",
       "ok": true,
-      "items": 2
+      "items": 12
     },
     {
       "name": "bing-news:GTA 6 leak",
       "ok": true,
-      "items": 11
+      "items": 12
     },
     {
       "name": "gdelt",
@@ -93,8 +93,8 @@
       "items": 20
     }
   ],
-  "discovered": 498,
-  "newSinceLastRun": 15,
-  "pending": 253,
+  "discovered": 503,
+  "newSinceLastRun": 5,
+  "pending": 256,
   "analysisMode": "rules-only"
 }

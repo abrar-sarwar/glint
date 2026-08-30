@@ -10980,5 +10980,116 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-7af5e59736",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObFNvQUdJSmRXMGpZMDBRRGRKRU1Uc3FmU0NhM2tYa2htdXJwdGRRRC1KaUFITXZSQ09fQ1B2QkxHZkVCZWpwekczRFlrci1HM01DRGVDMW1ycEtkbFN0cmMxRHJEVmxJcVR0c1FNMXBXTHF3NTRRVDF5aG5YNFZBWGR3dE96WUpvWGplN3BIc0drN1pVdEVPYThzck1haDV2YlBWMWkxVW9RcnFPWHhHMEZB?oc=5",
+    "title": "‘GTA VI’ Leaker Drops Even More New Footage And Reveals Their Motivations",
+    "publisher": "Forbes",
+    "publishedAt": "2026-08-19T07:00:00.000Z",
+    "discoveredAt": "2026-08-30T20:45:51.470Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7e85accf57",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQcUpld25JeUh6RHlRd2Q2XzZidmo4eDBlMWdDOVU1S3ZBRnVIUEtyT3BGVFk3VTNVLVVucE9Md2hCek9KNVJZbEd2MC0zMHNFYXpVR05aYUZWU3lIVExGYXVYamMyT0NKWEJ1RWFQbUR5bWVEeWlvRks0WjNhTzVCZGdIc2FuWEMxcVZtWVVsZmg3dkRXSFcwWVJmSmZuclB4YnNtTjZLbkpSNHh3czBFcENhSjNsNkszT3o1MjRkVGhCUDhmc3c?oc=5",
+    "title": "Grand Theft Auto 6 Leak Prompts Cyberleek Warning That Publishers 'Should Behave, or Be the Next Target'",
+    "publisher": "inkl",
+    "publishedAt": "2026-08-19T14:42:24.000Z",
+    "discoveredAt": "2026-08-30T20:45:51.470Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4d461e5202",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPXzNnU2ttRml5cWpMMGFPQTFKaERmeXhKOENxb0pHUWYxNFJ1R0pJTko3bGw2Q2xrSHU0dVFLbVg3QU9yZENwMENGN1R2eUZRSGUtMW9LVUlzRXlRdVkybDRWSnhxSGdFUVNkZDJoS1FlNE5xRkJYb1FJWnFMRUtYanlhdGxpVXZ1QVdjWXAzaWxzcDVKMGdCYXVnN2ZWSC1ZWHZLamtMU0hUblpEVklBdk1IenRWLWFqVDdVOQ?oc=5",
+    "title": "Take-Two seeking help from Discord and Microsoft to identify GTA 6 leaker",
+    "publisher": "KitGuru",
+    "publishedAt": "2026-08-21T14:25:13.000Z",
+    "discoveredAt": "2026-08-30T20:45:51.470Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Microsoft / GitHub",
+        "Discord"
+      ],
+      "claims": [],
+      "category": "microsoft",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
+  },
+  {
+    "id": "DISC-a6e599eddb",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcGUtdkR4VUhzc28zbkt3V3JfSG9ENnFyWWJWaXBHMHBBaDNPdUl5c2M4cmF2Q3FYOVQzd1VJa3liakl3aXh5cVpHTkhqQ0tzeHEzVkh2Rk92U2xqWFBVaWtiV3A2cWhXbnhaczBXVkljaWNYUUk3RHlBMlBHZDQtLUJkdHdldU9vS0ZibUo0OV95S1otX3hRTXZPVQ?oc=5",
+    "title": "GTA VI Leaker Cashes Out $250K Memecoin Hours Before Rockstar's Reveal",
+    "publisher": "EGW.News",
+    "publishedAt": "2026-08-30T19:45:57.000Z",
+    "discoveredAt": "2026-08-30T20:45:51.470Z",
+    "feed": "google-news",
+    "query": "CyberLeek $CYBERLEEK",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-030"
+    }
+  },
+  {
+    "id": "DISC-52692b55b3",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9496854c9c4a1e996eca85ee3de4d7&url=https%3a%2f%2fgameranx.com%2fupdates%2fid%2f563817%2farticle%2fthe-gta-6-cyberleek-manhunt-may-have-a-lead-that-goes-through-discord-and-the-dark-web%2f&c=12377451282582898412&mkt=en-us",
+    "title": "The GTA 6 Cyberleek Manhunt May Have A Lead – That Goes Through Discord and The Dark Web",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-26T02:47:00.000Z",
+    "discoveredAt": "2026-08-30T20:45:51.470Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 11,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Discord"
+      ],
+      "claims": [],
+      "category": "discord",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
