@@ -3106,5 +3106,89 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-be517b4099",
+    "title": "GTA 6 Netflix Reveal: When to Watch and Which Leaks Are Real",
+    "reportedAt": "2026-08-25T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiigFBVV95cUxPR3pRazktQXMyRE1ZV1I1U0lWZnQyQVI2X1pFVDBQSEJCSmN3NTR6Mk5Ta0I5QnlsT3lrTmJjUU5LLVE0YkRQM0dRV0puSDd0MHAyaGZLQ3BqY3Fyb21EZUsyUE5yNHhTblphR2xabUp4VEhTdjcxTmtybnQ0NWFUY3JsR1VWMDVYbmc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-4a95d6a316",
+    "title": "Grand Theft Auto 6 Leaks Had Nothing On The Official Reveal",
+    "reportedAt": "2026-08-28T12:30:56.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTUJOanpfWV9tRi01LVJoTV9PMXhNS3E5TjNSQS1oajlpcmdtYmlpR092d2RpOWgyY1k0enFLbGlnQ3RjZGFoNlFXSk11cTEtcXJmWDhRUTVsMWZJOW1xWDBEaGNqNFEtWWx0eEU0dUl1enQ5dWk2VGFnZFlPVFlPRlhzYm9VcGdC?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c35fa014b8",
+    "title": "GTA 6 leaker profited over 270,000$ from a coin scheme that fans paid for",
+    "reportedAt": "2026-08-31T11:56:31.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiekFVX3lxTE9MeUV1dUg0ZWtJYllkWVl4WTN4aWNSd2hoR0ZiRTdHVEVPaFEtZ21vbW1lQUE4UG5iM3BKai1hbGRpS0o2dWd0anRLcDJjVkJpUDNuak8tOEVGeHdYby15QnpOZnV0d00zQlRqRUV4TG5va2gwN2djcVhB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e57822ee34",
+    "title": "BofA reiterates Buy on Take-Two stock amid GTA 6 leak concerns",
+    "reportedAt": "2026-08-31T10:13:18.000Z",
+    "category": "take-two",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTC00alE0ajdGeElGWi05Z1Zidl9rTkZrTk51RVg5WjlBTHRXX2FRRXhlUUtocEJHUnFEUmdrSkhRVHNjdEpEN1Fkd09QX05FcUgzY25RZEhmcVlRSmVnNGNrYm1uQ3VYeGtBNUV2RjQ1Wk81N0FIUkpOVmRhTm1kOC1BRTdfNUhlRXpWclFGOW5QM2c4cTZMbXYyRTc1dWNYM0hQbGZFMFJLRm52eG9BcEwxbWEwLVFhMnhpcDJn?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-596607c87c",
+    "title": "GTA 6 leaks are a ‘nothing burger’, says ex-Rockstar Games director",
+    "reportedAt": "2026-08-26T09:38:48.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQkxzaXVGTmpHUVJaUkNHd2FmUE5hQVNNSmE0Tnd1UjhYV1l4NUF2dUVUZFF4eHhjeG1JdUk2LWxrdFpyNDZfVTNXNHUydE10RHN3RUQ3a0FBS0Z1ZnNvV3htQmQtNWo0X0diazhVRUxZNVlCQWlsVWZ1amdQOGlUUTlpY3NHbVJxR2N6U1U0ZHJWcVZkQkJ0MkpR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-32811722b2",
+    "title": "Grand Theft Auto 6 leaker says they won't stop until…",
+    "reportedAt": "2026-08-18T20:39:51.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihAJBVV95cUxOU0VmMFVnT2xoUnltZlRCdnlqTWNINDJQSFBqckc4aWNMVzl2Vkd4OWFQTkRmMEpkZVF0b2N0YmxOcXE2QlBkbmVTZXB2U3lTTmVTSk9CeVlBcEZEaWp3blpJaVlERXpfWl8xS0lMNFh2WUhXT1g2QVMyWXh2TjBBRGtiOGRUb1RoaWdtLVcyTWxmMlpScFpudDY4dHBST3R0RFpPcmJaVDFFZzhsZFJ2RXJabFhEeTBiRXpGZXRhb1NEN3dreGlyQ0lJNnR1SG9keTFWTzY5TDcwRzExS1RiYklwdXlEYk9DRzMtanY5ZU9yeWRWRm1UekhZU1l2QW1RWXFsZA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1fd826452f",
+    "title": "Cyberleek may have just cashed out on their GTA 6 leak",
+    "reportedAt": "2026-08-27T12:05:17.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a957c1b253949528d2a9f34013bed48&url=https%3a%2f%2fwww.msn.com%2fen-us%2fgaming%2fgame-reviews-and-previews%2fcyberleek-may-have-just-cashed-out-on-their-gta-6-leak%2far-AA2b4ciL&c=4555330368217147915&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
