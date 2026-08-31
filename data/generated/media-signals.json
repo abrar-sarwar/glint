@@ -694,5 +694,69 @@
     "domains": [
       "bing.com"
     ]
+  },
+  {
+    "date": "2026-08-31",
+    "feed": "google-news:CyberLeek",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "feed": "google-news:GTA VI leak",
+    "count": 10,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "feed": "google-news:GTA 6 leak",
+    "count": 3,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "feed": "google-news:Take-Two CyberLeek",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "feed": "google-news:CyberLeek Discord",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "feed": "google-news:CyberLeek dead man switch",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "feed": "bing-news:GTA VI leak",
+    "count": 1,
+    "domains": [
+      "gamerant.com"
+    ]
+  },
+  {
+    "date": "2026-08-31",
+    "feed": "bing-news:GTA 6 leak",
+    "count": 1,
+    "domains": [
+      "bing.com"
+    ]
   }
 ]

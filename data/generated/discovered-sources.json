@@ -11367,5 +11367,427 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-9131c43fee",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVThlZm1jajVlLUhrbkxFeVVpUVMtZlIxMDZ3NWFDSzZ0NDJwLWVZSGhZZ0pBWW5YdkJZY0pXM1AtSW9NSUQ4TE1aZU52aHdkQjZHUDRoMTRYaTFKNzJfeW44Q1huUGdJV0poa0tXcXFRbEs3MktOVlhLSS1vblNmODkwbE1mcFhkNVRzUVVTLTZEVXFsOXc0Ng?oc=5",
+    "title": "Cyberleek’s GTA 6 Leak Flood Ends in $250,000 Crypto Grift",
+    "publisher": "themovieblog.com",
+    "publishedAt": "2026-08-31T19:36:45.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-75c4f42ee8",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tQlhBSktjcUp5V3hOTnlHSnd1X1NUMFRoenhsZEt3dVlER3JGd0l2RU9OTnF1YTF4bE9JanI0MnVvckRJSG94R2lxUW5UT0EzY1Nxb2gxa2dVazM3SjF6TTVoOHpsRXZnVy14U1VvYzg5ODhFbGx1RmxfRVpabFU?oc=5",
+    "title": "Did GTA VI Leaks Hurt Take-Two Stock? One Analyst Says Otherwise.",
+    "publisher": "Barron's",
+    "publishedAt": "2026-08-31T20:37:00.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-025"
+      ],
+      "category": "take-two",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-675f19bd05",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcXJiZ3dNM2kxbmFTMnVEXzRoRkRmSTN1U2FRdzdkc1JsM3hJTktVSlNVSlJwNS03UTJSQUdfVFNwdjJUTm16czVNMUtCeTlpTDRnZzhaNlpnc2JUVEk3VHZ2QW5JaGpsd1dXcEdOYjh2Q1VSZjVGNEswaVQ2VGl1X2JXU3dFMW80bE1rNy1hLVFnc3FhNjFWZEQ5YWt1QVZKc0tV?oc=5",
+    "title": "Take-Two Falls as GTA VI Leak Overhang Appears to Pressure Sentiment",
+    "publisher": "Quiver Quantitative",
+    "publishedAt": "2026-08-31T14:49:00.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b578d381ba",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BckN2YnQxN2tVNUNNLUhubXRRUG1RcXU3YUdDalI3VFZfeUFpNm91TzZLR1RWMVdxNGpENF9KM1drZC1PVnVnY1YtMFZlMXM1WGxTWVlNN29CRG9VNlFMQ0FRZ0NWYVhsVVA0RVRzRTZ6WExEalE?oc=5",
+    "title": "GTA 6 Leak Sends Take-Two (NASDAQ:TTWO) Stock Down 7%. What TTWO Investors Need to Know",
+    "publisher": "Stocks Down Under",
+    "publishedAt": "2026-08-31T15:57:39.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-025"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-73e25db4bc",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmRqYmdaZ01US3lMN3YwR28xSHNNWWp6OHF4TUgtYXNIeHBZQ19aSm9TUkh4NEZjamNJZGZpT2pZaXhrWU5hS1VZYVJ1YnMxbGxucjVNWHpURGdpQzhrMlBpQVpJbnJtSVhQZ3g4bzlQdHlVMVRHSlViWXJDOGVvNk9FejRZcHFuV2RmT3BmUDJ6ZWxUUlZSUzZkVDFpWHc?oc=5",
+    "title": "Take-Two stock drops as GTA 6 leaks continue",
+    "publisher": "StreetInsider",
+    "publishedAt": "2026-08-31T14:18:34.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-025"
+      ],
+      "category": "take-two",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b0f426ad90",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1dmNFNIenpXS2kydjBJVzNqRFlOS1NwY2dHNnF1Ry1rR3RmWDVWY1VlQUxnU1Nrc2MyRC05VEZmbWo5Zl9vMXBIS3dLV3VheXdvTXNwcHE5a3h4Q3ZRVF9yVGVyTVU4ZDA2S3dBZ0hBZHh3YWVXcmZ3aC0wN3c2VGluQXZLaHJ4M2ZhNU5JTjBDRWdlbWNsLTkzbUNjYXZaMEFPVlpFS3hHamtnS05YaFExYnVoUU1pUEVxZlVfR2xwclFnVGZSYjRqOV9zXzY1YkU0QtIB2gFBVV95cUxQYnlfS0pDNWNLMGJkc2Rxd0lUbE03NjdxSnFZV3lmUTNGNG9Za2xxWkg1LU5BdGVSTnVYeDN4Tmw3MWZqTHhoSkpTeUc2bHR4NWVGUU9NUUtfajVOUnhkQlhKTWdXZFc2NjRESGNsSWlJbmFON184VUY3MWlXeGZ5WTk2MFBCWlc0UkpjN0tERXdEX1JFNldvTTFyV3JkZUtSdERxTWVfYVU0Uk52SDMwVWFFOThZbVdDRE9SUU8zMDZwODJxZjk2VS1xdG1QU0cxTmItbnI4NF80UQ?oc=5",
+    "title": "GTA VI Leaks Investigation \"Rapidly Developing\" - Take-Two Demands Secrecy for Its Requests",
+    "publisher": "ixbt.games",
+    "publishedAt": "2026-08-31T18:11:35.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-022"
+      ],
+      "category": "investigation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8349ab79ca",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRk9vT05XckVjWXdNVnRyRWRSRC1TcnYya2tzaVBWVmt4R2l2TnpTNTlaVzZrZ0VVM0ZxVDRwYnNPSnRpLXgwMjF0OER4dnNXTkdLb3RSc3p5Y1ktX01qZ000VTBpaVFzcVFzdFFfWllBWUx0N2VKcVpkOXl0eTh0blhkNk1UbTAwczF4cjliOUc4ZDY0MHRIVGtCYWdWb0U?oc=5",
+    "title": "Take-Two Stock Drops Amid GTA 6 Leaks",
+    "publisher": "Benzinga",
+    "publishedAt": "2026-08-31T18:00:55.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-025"
+      ],
+      "category": "take-two",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-122bfdd88e",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTURpZGlfdjZPYmVzaWh1UDMySGtjbEd6cXlVVDlwcW1rVnRwLU1Tb2tnYzl6ZlRHM3B5OE0xY1ViV0dXWW03d1RiMGM1cDBlcnFSSWtkVXcyYjhfaXJlbUdZY2dVbk9rMjhHN1UwVWhObEc2bHh5cVlPbmV6SVBSQ3AxbEN1TmFBcTk0?oc=5",
+    "title": "GTA 6 second map theory has huge implication's for the story's big twist",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-08-31T15:00:00.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-800a64b09a",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UTGp3U2FQOVQ5TDlHWUlPNFdjWTVqY0dNeFI5aDV0ejVjTlNVcERRUHZyTWk2QWU3ZDNwUC1Wa2lPY0JNTDkyOWFCV084enZ6cUJmd094bksxSjNmeU42TmVxUHFSYjhERnc?oc=5",
+    "title": "GTA 6 Gameplay: Every New Detail From the Netflix Reveal",
+    "publisher": "ColombiaOne.com",
+    "publishedAt": "2026-08-31T15:01:00.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Netflix"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-44f8af7f2e",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3RqSndfNExaV1lKNTB1RkR6LUhKNmg4MEZDdUxGeVFfenpRRUlOcHNYd05hU2c1TFdtM2wxR0ExMFl2RWhiY282SjlHeXdvRGlpTTlORTBCOXRuTGhTWDZUdGFYZC03R0FJMzFxbzBSSEhfNmcxemxYLWlQS1hFNGl0R2JDLXdCbnByTW9EODhjem5jV2t2Q3ZDUDI0QnN6c2IyVmJmaXc0T2xfSEVQeWc1SmRiMzJHLWQ2N3h1c1A2eGp4bHdnRzRzUQ?oc=5",
+    "title": "Weekly Recap: GTA VI 26‑min clip, Nov. 19 release and subpoenas for leak",
+    "publisher": "TradingView",
+    "publishedAt": "2026-08-31T11:22:48.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4d77ef8753",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdEp1OG9HckxUcjcwN0hXNVQ0LS1OSV9lckJQaGFzVnhBQWNvNUVOQ0tCdVhwcWd3RVFkbHBHbXQxQ0lLVVdURm14aV9MNHhBdms2MGtaQmxfTk02ZEFtZEw4VWpEU0JkVUpTN1ZrS1Ayb25SZGZUM0RPZlNUU2wzNVlxZUhlanZVODdXRmVzMTBBU1h5SE9hNFFVdC1meUxXMkhJTmd0RllDaGRkOVVCNnRTQm5DMmJLN2hwNzc2ZmZyenRTNzByUjN4VWNBQdIB0wFBVV95cUxNcXFROUQzbUFOTzEzRnFKREIxQUhXUFZFVDZXYlAtM29iRm81eU9VVThBQWd4UWNmN1NSQ3hwdnk3VXVZbmNZeEhWUUF6cUw3X0JRQXFlRDlITXhhamxXT2szQWVvMTh4c190S185amp5ZmFWQVVpdUpzU2ZjeGpfWFE2RmRXckoyMUZnamg2WmZ5RkF4SkF1cEFFUF9GZFVZMTZFZHdKLWl6VFpWN3AzdG1BTXZISTZBa3JjSU42aVdZZzNkR0FKcW1uenZ4blJEeXN3?oc=5",
+    "title": "Take-Two almost reached the GTA VI leaker: the investigation has reached a new level",
+    "publisher": "ixbt.games",
+    "publishedAt": "2026-08-31T21:00:09.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "category": "investigation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-10196638a2",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcndRb2JETjBHd1FzejBwZHFJWTFmOElDLTlSSjNPb082cHBRQnJ3WTBNTi12WkptdDIyNDNvSjRMZG95QmFYYU0yQXRyODBTdldkOWk4X0doeVVILUxxYU1oeXJsdGlkcEhETnNBNWxuazJFM3FtazdxUUROZ09xVVJyd0hfbWlQMERDeXU3dGkwS0ROX2xyWVlTNA?oc=5",
+    "title": "Grand Theft Auto 6 Leaks Investigation is “Rapidly Evolving”, Says Take-Two",
+    "publisher": "gamingbolt.com",
+    "publishedAt": "2026-08-31T16:05:20.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "category": "investigation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f7b8605553",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVDZUWVJVak1VeEVmTG9YajNWQWVCUEI4V0NqUUxGTXVpUDQyOGVBTnpOdWEtMU80MG9WMzBDdjdjRURoMDNnZXB4OGs3U0tNRl9qcXctdzM5UVZaV2pLanZaUW1yV2lReTNVLUJndWRWZzhUMzZ4cHlWclVFM0tuUzlDcFdlVkJrZXpDX1JHZEw2TnY3R2lsUDRmamNRZ3NCWWc?oc=5",
+    "title": "GTA 6 Pre-Orders Reportedly Surged 436% Following Netflix’s Extended Gameplay Look",
+    "publisher": "eGamers.io",
+    "publishedAt": "2026-08-31T16:13:55.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Netflix"
+      ],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b755fb73ee",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tVGZLaHZwNF9sbFFWR2daeU9uWEgyaF9fQnZHb0JHQktOU01JWVVIZ1YtNTRQelQycWhsM3ByX3FGYXI5dmdwVl9kOGNqdkR3aWpVZmdiTWxCTXFzRDBPMjhqZGhLVExmVmJwM0tYcEQ5WTJueW5PMFlR?oc=5",
+    "title": "Valve suffers massive 12TB leak, revealing a decade of Steam game files",
+    "publisher": "Mashable",
+    "publishedAt": "2026-08-31T21:27:43.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-07e295c422",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOTVxN3dlSFpsald6Qk5vUWlqRER1MHE4TXlLaFpfVV9SZEprRmdiSDRzQjNRZmR4aTBHZm9BamZ4cnMzTGcyMjYyMGVFMWhLSm96N1JQb2dtdkNnNkZ5WE5LWXVOcFR3MUstOEpwU0JtbndOakJiSHp2c3A2RVN0aVhJbXlOYU9nNEFISV9R0gGTAUFVX3lxTE42NXFaQXdzVk9PVmlzaG1nelk2bUtZWVE1MlNKYVljajBKWTlJZmU3TGFnTV8yV3dIWnJ0RFZkTHVmTlh3NjdwTWh0d0dscHVnU3QwX0FHTktGRHNDc0pkRmx6cWItMkdKVlFkOGZYOEZqY1p4ZFVRWkVNRlNpeFBmcGhueW9pSVNxMm1kbGlfT1EzUQ?oc=5",
+    "title": "Did GTA 6 leaks happen via Rockstar India? Social media abuzz with theories",
+    "publisher": "ThePrint",
+    "publishedAt": "2026-08-21T07:00:00.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-008"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-021"
+    }
+  },
+  {
+    "id": "DISC-7916633edc",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd1pKZE9WcVd3NVNlRVlMbFlLdnEyUHl5MlJQRFFzNkhsamlUU3J0NkY0S19KY211MHBQcHBhcTJLVGdMUXoxRW9kR2tmVnl1TDBnOUFfZGR4N2RkVC1TOWRUOVpUeTRXX0Y0MGY3TmtyWXpRUC14VDJabHJ3VVRva3pOQVhEUWZpNGFMcFU4X0RUUQ?oc=5",
+    "title": "Take-Two Is Asking Discord For Info On Specific User Over GTA 6 Leaks",
+    "publisher": "TheGamer",
+    "publishedAt": "2026-08-31T14:27:00.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "google-news",
+    "query": "CyberLeek Discord",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "discord",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-181b37b504",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVjZOVzVha2RjQzd6aE5tV3dtMmpxTWd5aW1jTDlNVERyOGt3Y1MzaTE3cUZhckY4LUZNZFBMTWV4d2FhMmZPU180Z0RwZldObDh0WTBGekJKOGp5SElJY1FyUzluU0M4OFNhblMxTEdjaGVLZE8xcnF4dF9NVmozUUd5Z3dEOUJzdk9IV0FiRHpMaEZ5SENnTFRTcF9PLTJ1S1puUmxMYUFwYUxPTE1j?oc=5",
+    "title": "PlayStation 6 RAM woes won't matter as GTA boss claims streaming will overtake $1,000 consoles",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-08-08T07:00:00.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5968431e81",
+    "url": "https://gamerant.com/gta-6-leak-lucia-cutscene-police-chase/",
+    "title": "New GTA 6 Leak Shows Off Lucia Cutscene, Police Chase",
+    "publisher": "gamerant.com",
+    "publishedAt": "2026-08-26T04:50:00.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "investigation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-053"
+    }
+  },
+  {
+    "id": "DISC-8eb0dcc40a",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a960270965746a098f55cd7bbbf2fca&url=https%3a%2f%2fwww.shacknews.com%2farticle%2f150555%2ftake-two-discord-second-subpoena-grand-theft-auto-6&c=8898599287064252267&mkt=en-us",
+    "title": "Take-Two files second subpoena with Discord over GTA 6 leaks, asking details to remain sealed",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-31T07:30:00.000Z",
+    "discoveredAt": "2026-08-31T22:38:34.813Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-023",
+        "LEEK-CLM-028"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
   }
 ]

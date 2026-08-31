@@ -3190,5 +3190,173 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-75c4f42ee8",
+    "title": "Did GTA VI Leaks Hurt Take-Two Stock? One Analyst Says Otherwise.",
+    "reportedAt": "2026-08-31T20:37:00.000Z",
+    "category": "take-two",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMif0FVX3lxTE8tQlhBSktjcUp5V3hOTnlHSnd1X1NUMFRoenhsZEt3dVlER3JGd0l2RU9OTnF1YTF4bE9JanI0MnVvckRJSG94R2lxUW5UT0EzY1Nxb2gxa2dVazM3SjF6TTVoOHpsRXZnVy14U1VvYzg5ODhFbGx1RmxfRVpabFU?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-675f19bd05",
+    "title": "Take-Two Falls as GTA VI Leak Overhang Appears to Pressure Sentiment",
+    "reportedAt": "2026-08-31T14:49:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcXJiZ3dNM2kxbmFTMnVEXzRoRkRmSTN1U2FRdzdkc1JsM3hJTktVSlNVSlJwNS03UTJSQUdfVFNwdjJUTm16czVNMUtCeTlpTDRnZzhaNlpnc2JUVEk3VHZ2QW5JaGpsd1dXcEdOYjh2Q1VSZjVGNEswaVQ2VGl1X2JXU3dFMW80bE1rNy1hLVFnc3FhNjFWZEQ5YWt1QVZKc0tV?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b578d381ba",
+    "title": "GTA 6 Leak Sends Take-Two (NASDAQ:TTWO) Stock Down 7%. What TTWO Investors Need to Know",
+    "reportedAt": "2026-08-31T15:57:39.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMidkFVX3lxTE9BckN2YnQxN2tVNUNNLUhubXRRUG1RcXU3YUdDalI3VFZfeUFpNm91TzZLR1RWMVdxNGpENF9KM1drZC1PVnVnY1YtMFZlMXM1WGxTWVlNN29CRG9VNlFMQ0FRZ0NWYVhsVVA0RVRzRTZ6WExEalE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-73e25db4bc",
+    "title": "Take-Two stock drops as GTA 6 leaks continue",
+    "reportedAt": "2026-08-31T14:18:34.000Z",
+    "category": "take-two",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSmRqYmdaZ01US3lMN3YwR28xSHNNWWp6OHF4TUgtYXNIeHBZQ19aSm9TUkh4NEZjamNJZGZpT2pZaXhrWU5hS1VZYVJ1YnMxbGxucjVNWHpURGdpQzhrMlBpQVpJbnJtSVhQZ3g4bzlQdHlVMVRHSlViWXJDOGVvNk9FejRZcHFuV2RmT3BmUDJ6ZWxUUlZSUzZkVDFpWHc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b0f426ad90",
+    "title": "GTA VI Leaks Investigation \"Rapidly Developing\" - Take-Two Demands Secrecy for Its Requests",
+    "reportedAt": "2026-08-31T18:11:35.000Z",
+    "category": "investigation",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNN1dmNFNIenpXS2kydjBJVzNqRFlOS1NwY2dHNnF1Ry1rR3RmWDVWY1VlQUxnU1Nrc2MyRC05VEZmbWo5Zl9vMXBIS3dLV3VheXdvTXNwcHE5a3h4Q3ZRVF9yVGVyTVU4ZDA2S3dBZ0hBZHh3YWVXcmZ3aC0wN3c2VGluQXZLaHJ4M2ZhNU5JTjBDRWdlbWNsLTkzbUNjYXZaMEFPVlpFS3hHamtnS05YaFExYnVoUU1pUEVxZlVfR2xwclFnVGZSYjRqOV9zXzY1YkU0QtIB2gFBVV95cUxQYnlfS0pDNWNLMGJkc2Rxd0lUbE03NjdxSnFZV3lmUTNGNG9Za2xxWkg1LU5BdGVSTnVYeDN4Tmw3MWZqTHhoSkpTeUc2bHR4NWVGUU9NUUtfajVOUnhkQlhKTWdXZFc2NjRESGNsSWlJbmFON184VUY3MWlXeGZ5WTk2MFBCWlc0UkpjN0tERXdEX1JFNldvTTFyV3JkZUtSdERxTWVfYVU0Uk52SDMwVWFFOThZbVdDRE9SUU8zMDZwODJxZjk2VS1xdG1QU0cxTmItbnI4NF80UQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8349ab79ca",
+    "title": "Take-Two Stock Drops Amid GTA 6 Leaks",
+    "reportedAt": "2026-08-31T18:00:55.000Z",
+    "category": "take-two",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRk9vT05XckVjWXdNVnRyRWRSRC1TcnYya2tzaVBWVmt4R2l2TnpTNTlaVzZrZ0VVM0ZxVDRwYnNPSnRpLXgwMjF0OER4dnNXTkdLb3RSc3p5Y1ktX01qZ000VTBpaVFzcVFzdFFfWllBWUx0N2VKcVpkOXl0eTh0blhkNk1UbTAwczF4cjliOUc4ZDY0MHRIVGtCYWdWb0U?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-122bfdd88e",
+    "title": "GTA 6 second map theory has huge implication's for the story's big twist",
+    "reportedAt": "2026-08-31T15:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTURpZGlfdjZPYmVzaWh1UDMySGtjbEd6cXlVVDlwcW1rVnRwLU1Tb2tnYzl6ZlRHM3B5OE0xY1ViV0dXWW03d1RiMGM1cDBlcnFSSWtkVXcyYjhfaXJlbUdZY2dVbk9rMjhHN1UwVWhObEc2bHh5cVlPbmV6SVBSQ3AxbEN1TmFBcTk0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-800a64b09a",
+    "title": "GTA 6 Gameplay: Every New Detail From the Netflix Reveal",
+    "reportedAt": "2026-08-31T15:01:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiakFVX3lxTE1UTGp3U2FQOVQ5TDlHWUlPNFdjWTVqY0dNeFI5aDV0ejVjTlNVcERRUHZyTWk2QWU3ZDNwUC1Wa2lPY0JNTDkyOWFCV084enZ6cUJmd094bksxSjNmeU42TmVxUHFSYjhERnc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-44f8af7f2e",
+    "title": "Weekly Recap: GTA VI 26‑min clip, Nov. 19 release and subpoenas for leak",
+    "reportedAt": "2026-08-31T11:22:48.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiywFBVV95cUxOS3RqSndfNExaV1lKNTB1RkR6LUhKNmg4MEZDdUxGeVFfenpRRUlOcHNYd05hU2c1TFdtM2wxR0ExMFl2RWhiY282SjlHeXdvRGlpTTlORTBCOXRuTGhTWDZUdGFYZC03R0FJMzFxbzBSSEhfNmcxemxYLWlQS1hFNGl0R2JDLXdCbnByTW9EODhjem5jV2t2Q3ZDUDI0QnN6c2IyVmJmaXc0T2xfSEVQeWc1SmRiMzJHLWQ2N3h1c1A2eGp4bHdnRzRzUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-4d77ef8753",
+    "title": "Take-Two almost reached the GTA VI leaker: the investigation has reached a new level",
+    "reportedAt": "2026-08-31T21:00:09.000Z",
+    "category": "investigation",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdEp1OG9HckxUcjcwN0hXNVQ0LS1OSV9lckJQaGFzVnhBQWNvNUVOQ0tCdVhwcWd3RVFkbHBHbXQxQ0lLVVdURm14aV9MNHhBdms2MGtaQmxfTk02ZEFtZEw4VWpEU0JkVUpTN1ZrS1Ayb25SZGZUM0RPZlNUU2wzNVlxZUhlanZVODdXRmVzMTBBU1h5SE9hNFFVdC1meUxXMkhJTmd0RllDaGRkOVVCNnRTQm5DMmJLN2hwNzc2ZmZyenRTNzByUjN4VWNBQdIB0wFBVV95cUxNcXFROUQzbUFOTzEzRnFKREIxQUhXUFZFVDZXYlAtM29iRm81eU9VVThBQWd4UWNmN1NSQ3hwdnk3VXVZbmNZeEhWUUF6cUw3X0JRQXFlRDlITXhhamxXT2szQWVvMTh4c190S185amp5ZmFWQVVpdUpzU2ZjeGpfWFE2RmRXckoyMUZnamg2WmZ5RkF4SkF1cEFFUF9GZFVZMTZFZHdKLWl6VFpWN3AzdG1BTXZISTZBa3JjSU42aVdZZzNkR0FKcW1uenZ4blJEeXN3?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-10196638a2",
+    "title": "Grand Theft Auto 6 Leaks Investigation is “Rapidly Evolving”, Says Take-Two",
+    "reportedAt": "2026-08-31T16:05:20.000Z",
+    "category": "investigation",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcndRb2JETjBHd1FzejBwZHFJWTFmOElDLTlSSjNPb082cHBRQnJ3WTBNTi12WkptdDIyNDNvSjRMZG95QmFYYU0yQXRyODBTdldkOWk4X0doeVVILUxxYU1oeXJsdGlkcEhETnNBNWxuazJFM3FtazdxUUROZ09xVVJyd0hfbWlQMERDeXU3dGkwS0ROX2xyWVlTNA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f7b8605553",
+    "title": "GTA 6 Pre-Orders Reportedly Surged 436% Following Netflix’s Extended Gameplay Look",
+    "reportedAt": "2026-08-31T16:13:55.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiogFBVV95cUxNVDZUWVJVak1VeEVmTG9YajNWQWVCUEI4V0NqUUxGTXVpUDQyOGVBTnpOdWEtMU80MG9WMzBDdjdjRURoMDNnZXB4OGs3U0tNRl9qcXctdzM5UVZaV2pLanZaUW1yV2lReTNVLUJndWRWZzhUMzZ4cHlWclVFM0tuUzlDcFdlVkJrZXpDX1JHZEw2TnY3R2lsUDRmamNRZ3NCWWc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b755fb73ee",
+    "title": "Valve suffers massive 12TB leak, revealing a decade of Steam game files",
+    "reportedAt": "2026-08-31T21:27:43.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiekFVX3lxTE9tVGZLaHZwNF9sbFFWR2daeU9uWEgyaF9fQnZHb0JHQktOU01JWVVIZ1YtNTRQelQycWhsM3ByX3FGYXI5dmdwVl9kOGNqdkR3aWpVZmdiTWxCTXFzRDBPMjhqZGhLVExmVmJwM0tYcEQ5WTJueW5PMFlR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7916633edc",
+    "title": "Take-Two Is Asking Discord For Info On Specific User Over GTA 6 Leaks",
+    "reportedAt": "2026-08-31T14:27:00.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd1pKZE9WcVd3NVNlRVlMbFlLdnEyUHl5MlJQRFFzNkhsamlUU3J0NkY0S19KY211MHBQcHBhcTJLVGdMUXoxRW9kR2tmVnl1TDBnOUFfZGR4N2RkVC1TOWRUOVpUeTRXX0Y0MGY3TmtyWXpRUC14VDJabHJ3VVRva3pOQVhEUWZpNGFMcFU4X0RUUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
