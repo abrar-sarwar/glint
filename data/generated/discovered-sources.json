@@ -11091,5 +11091,111 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-492fe016db",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ2F1MmlZQ1JMVUxqRlB5ZlBLNk0tOHgwdEJtY2tVN09xNHVhTWFia2E2d05ndFV6UXA2NDZfcG53UlBVVHBSV0lmYjRWRDhFcDZfYjBNMXVJaTA5bUtmY3plTjhWMEs2ZEViM2NMdmtSRC1kSzZkVGFvZnYyVXpMSjZyTjRPUlhfZ0dOdUpjeWszUENBZ0l0WjNqTndobWZVREpwNFZIYmrSAa4BQVVfeXFMTlNhRUdlNGllTE1zRnluQTNxMHRkTVhzUGY3NmtHdUplNjBCNWZtVHpDMEJ4WUtmeWlOYXo1a2k5ZkpPZlBpUXlIYy1WS19QU1ZRYTRzcm4wSERVZE1KVFVUbXl3eHVIQzE0NXB3X1o0REFpMmxHa2tQalVzcC1KYWwxTmtXMUk1Q25JdWFCQ0xmdWNrY2U2bXJ0T09XcUxNcWNhNXZIS2p4aDE5X3hn?oc=5",
+    "title": "GTA VI Extended Gameplay Preview Attracted Over 4 Million Live Viewers",
+    "publisher": "TechPowerUp",
+    "publishedAt": "2026-08-30T22:02:27.000Z",
+    "discoveredAt": "2026-08-31T04:32:59.826Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-633bef6435",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcmxabG1vdTlkeGZOOEd1ZnZ3UDg4bC1PUXNYTEZjUDZnNWl5TVdmQXFsVVVJNW9UZWlpeDZGZTkycVhkdV9uNndNUmlSQUoyaFcyWGRUamhQbGx3SGpDWW5UenRTcW55clNfUW9TQm1XeFdCRE51VnhoU2dmUXNic21xRzJGY255QWRNcEpXQWFJNjNM?oc=5",
+    "title": "'Grand Theft Auto VI' Gameplay Leaks Are 'Heartbreaking,' Rockstar Says",
+    "publisher": "Complex",
+    "publishedAt": "2026-08-26T13:50:14.000Z",
+    "discoveredAt": "2026-08-31T04:32:59.826Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "rockstar",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-052"
+    }
+  },
+  {
+    "id": "DISC-7bc6f89825",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa1JFU3ZGbjlJRnVWTHNKVlR5eXpmX1YwOTI1RGNXN1V3djNXUGM4Z2JPNmpEejRKbDd5WW95VExLVmgyYXY3d2dFRkJ5ZlFqZkFXaG40LXcxcjZvT1BWaWptd2k0NnNzM2VsUFloVVFCSGpMek16dlh2NTBsWEd5NTFHcEN5MjUxa2h1WllaaXlBeS1qUV9saHVlWVpIT2ZEcEwwVjFwZk5PdEVUZ0hNT3lDM1pBT28wOVU4Yk10WGhNdGdsWDRranhjMA?oc=5",
+    "title": "GTA 6 appears to have leaked from Rockstar India, also suspected to be a PC version",
+    "publisher": "TweakTown",
+    "publishedAt": "2026-08-20T07:00:00.000Z",
+    "discoveredAt": "2026-08-31T04:32:59.826Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-007",
+        "LEEK-CLM-008"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8cdb3f799b",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaVkzZ3hWdXpHWXRhb2xteGZOQlZ1Ynk2SXNGRkxHRGlleDI4M2JlTk1Ec2NFZ0ttVmdBWHlkUEw0M2NleGh0bTRvWTNBbFlfR2FCSXZLUUsyNUxFU3NCLUFnVkNLaThKTmRlM2dPM2Z6TWtyNldSdDFhSjFpOVl6WXkxNA?oc=5",
+    "title": "Rockstar is hunting a hacker who leaks gameplay GTA 6",
+    "publisher": "mobidevices.com",
+    "publishedAt": "2026-08-24T09:56:29.000Z",
+    "discoveredAt": "2026-08-31T04:32:59.826Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-096b2ba87c",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOY1JmbGpaOGJ3WnhMQjJLVmpsQUVTTi1JN2hXZVkweGFicmhfMVQ4MUFHRmdpeUV1YW5EcGp4em9TUm9yS29YSEE2c0VVb3REbHBKV0FhS2wtSV9GM3dQMWM4cWpzbUdXSHJfYjhFNnhHQjRXRGdkZEstQWg5amZsSjlVSUVCYVRBNW9iTjFLSFRwbDB4eFNEUmhTNEhnNlF2Y0VtVld0QzNpanFDWU5ObVI4ZDJyT1ZHSHcyWXhmb3Z2T00?oc=5",
+    "title": "10-year-old Street Fighter player goes viral after incredible tournament performance",
+    "publisher": "Dexerto",
+    "publishedAt": "2026-08-22T19:17:01.000Z",
+    "discoveredAt": "2026-08-31T04:32:59.826Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

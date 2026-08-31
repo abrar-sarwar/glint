@@ -3070,5 +3070,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-492fe016db",
+    "title": "GTA VI Extended Gameplay Preview Attracted Over 4 Million Live Viewers",
+    "reportedAt": "2026-08-30T22:02:27.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQZ2F1MmlZQ1JMVUxqRlB5ZlBLNk0tOHgwdEJtY2tVN09xNHVhTWFia2E2d05ndFV6UXA2NDZfcG53UlBVVHBSV0lmYjRWRDhFcDZfYjBNMXVJaTA5bUtmY3plTjhWMEs2ZEViM2NMdmtSRC1kSzZkVGFvZnYyVXpMSjZyTjRPUlhfZ0dOdUpjeWszUENBZ0l0WjNqTndobWZVREpwNFZIYmrSAa4BQVVfeXFMTlNhRUdlNGllTE1zRnluQTNxMHRkTVhzUGY3NmtHdUplNjBCNWZtVHpDMEJ4WUtmeWlOYXo1a2k5ZkpPZlBpUXlIYy1WS19QU1ZRYTRzcm4wSERVZE1KVFVUbXl3eHVIQzE0NXB3X1o0REFpMmxHa2tQalVzcC1KYWwxTmtXMUk1Q25JdWFCQ0xmdWNrY2U2bXJ0T09XcUxNcWNhNXZIS2p4aDE5X3hn?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7bc6f89825",
+    "title": "GTA 6 appears to have leaked from Rockstar India, also suspected to be a PC version",
+    "reportedAt": "2026-08-20T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiywFBVV95cUxQa1JFU3ZGbjlJRnVWTHNKVlR5eXpmX1YwOTI1RGNXN1V3djNXUGM4Z2JPNmpEejRKbDd5WW95VExLVmgyYXY3d2dFRkJ5ZlFqZkFXaG40LXcxcjZvT1BWaWptd2k0NnNzM2VsUFloVVFCSGpMek16dlh2NTBsWEd5NTFHcEN5MjUxa2h1WllaaXlBeS1qUV9saHVlWVpIT2ZEcEwwVjFwZk5PdEVUZ0hNT3lDM1pBT28wOVU4Yk10WGhNdGdsWDRranhjMA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8cdb3f799b",
+    "title": "Rockstar is hunting a hacker who leaks gameplay GTA 6",
+    "reportedAt": "2026-08-24T09:56:29.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaVkzZ3hWdXpHWXRhb2xteGZOQlZ1Ynk2SXNGRkxHRGlleDI4M2JlTk1Ec2NFZ0ttVmdBWHlkUEw0M2NleGh0bTRvWTNBbFlfR2FCSXZLUUsyNUxFU3NCLUFnVkNLaThKTmRlM2dPM2Z6TWtyNldSdDFhSjFpOVl6WXkxNA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
