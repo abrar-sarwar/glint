@@ -3562,5 +3562,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b439bc7174",
+    "title": "Half a Billion Dollars Before Release. GTA VI Gameplay Show on Netflix Increases Pre-Orders of the Game by 572%",
+    "reportedAt": "2026-09-01T12:12:00.000Z",
+    "category": "take-two",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRlloQTRaUDJYa3U3eF9mRzk2R0FlQ3FOcTBtd3hRVnVMQk1pakxveUVPOFNjdU5VWE0zeTN0LVMwRndMQ1d3UFJlUmxOaERzR0FSeDZnVzhBZXlPbUJvS0NPcm8tY3NJaVhzMXBVaHRnN1pzX0VKRzMwX1Y1RUpSQ0xIcTdrMmRHSVpSUWFQYUZBaV8tZmtubTlQM2ZCVFljZUtBaGt3OHFVUWo5Uk5jOUIzNmVrckJvemV2dnpUUmh0VjRRalJDMVdxRXY?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-aa78d6d4c5",
+    "title": "Take-Two Identifies Two GTA 6 Leak Suspects in Discord Probe",
+    "reportedAt": "2026-09-01T15:14:58.000Z",
+    "category": "discord",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kd0gtSDZ2SklvdnB6NklWdktlN0Y0QkU0cUtOQnVYVEJoQXBYbXhFUkl0OTg0ZXhqU1RsSUJBbHh5N2czemc3MkVZMEkxSXBBQllXZGtxZjBBTlFJYzB1MEFNTDI?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

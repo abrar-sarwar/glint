@@ -12599,5 +12599,143 @@
       "model": "rules-only",
       "matchedEventId": "LEEK-EVT-019"
     }
+  },
+  {
+    "id": "DISC-921b1eba38",
+    "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE15QmZoRzUwd0FnTHlNNEw5a1FpWkJReWxsYXRnOUktTlcyTEFZaFlKMW13SWZQTDR0VXo1V1BUbUFQNHF2OF84QldqRjFkU3RtM0E?oc=5",
+    "title": "CyberLeek price today, CYBERLEEK to USD chart, marketcap and volume",
+    "publisher": "CryptoSlate",
+    "publishedAt": "2026-09-01T15:57:00.000Z",
+    "discoveredAt": "2026-09-01T16:17:23.844Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-b439bc7174",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRlloQTRaUDJYa3U3eF9mRzk2R0FlQ3FOcTBtd3hRVnVMQk1pakxveUVPOFNjdU5VWE0zeTN0LVMwRndMQ1d3UFJlUmxOaERzR0FSeDZnVzhBZXlPbUJvS0NPcm8tY3NJaVhzMXBVaHRnN1pzX0VKRzMwX1Y1RUpSQ0xIcTdrMmRHSVpSUWFQYUZBaV8tZmtubTlQM2ZCVFljZUtBaGt3OHFVUWo5Uk5jOUIzNmVrckJvemV2dnpUUmh0VjRRalJDMVdxRXY?oc=5",
+    "title": "Half a Billion Dollars Before Release. GTA VI Gameplay Show on Netflix Increases Pre-Orders of the Game by 572%",
+    "publisher": "dev.ua",
+    "publishedAt": "2026-09-01T12:12:00.000Z",
+    "discoveredAt": "2026-09-01T16:17:23.844Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Netflix"
+      ],
+      "claims": [
+        "LEEK-CLM-014",
+        "LEEK-CLM-025"
+      ],
+      "category": "take-two",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-af560db1af",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5PeUx0SmFyNGRJMk0wQ2tBTi1sTmVKdVQ5czlVN0JjdExUajVqX0FLb3ZvRnFpUldNV2J0V0tIUlRrWkVZU2k3eXI5RE5Hbk9fd1UycEhtZzM5TUVSVzZodVprZWFRbW9iZTdrcQ?oc=5",
+    "title": "Take-Two Files Secret Discord Subpoena Over GTA 6 Leaks",
+    "publisher": "games.gg",
+    "publishedAt": "2026-09-01T15:56:23.000Z",
+    "discoveredAt": "2026-09-01T16:17:23.844Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-023",
+        "LEEK-CLM-028"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
+  },
+  {
+    "id": "DISC-268159f742",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE42enBVc1pQMkhyaVZ5aHFWZDhya1NEUGVaT0g2MG4tbS01LVE5VnFjZTd0TXdmTm1FTWJqeHNPVHdoeXRZR3RuNU1iRVFJSG92Sy1sQS13RDFLaXBRa1l1R3QycTJfSHljR0htZQ?oc=5",
+    "title": "GTA 6 Is Officially the Bloodiest GTA Game Yet",
+    "publisher": "Polygon.com",
+    "publishedAt": "2026-08-31T16:53:48.000Z",
+    "discoveredAt": "2026-09-01T16:17:23.844Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-aa78d6d4c5",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5kd0gtSDZ2SklvdnB6NklWdktlN0Y0QkU0cUtOQnVYVEJoQXBYbXhFUkl0OTg0ZXhqU1RsSUJBbHh5N2czemc3MkVZMEkxSXBBQllXZGtxZjBBTlFJYzB1MEFNTDI?oc=5",
+    "title": "Take-Two Identifies Two GTA 6 Leak Suspects in Discord Probe",
+    "publisher": "games.gg",
+    "publishedAt": "2026-09-01T15:14:58.000Z",
+    "discoveredAt": "2026-09-01T16:17:23.844Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Discord"
+      ],
+      "claims": [],
+      "category": "discord",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0a3e6cbce8",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1GU2pQOHg5a1B1d3htWVVkaFpFM2VWME5ZQ0dFNng0RlRMQUdTSmJhWnEySzI2c0c2Wk82WkFhWmNPQVRHMjYtdUhSQ1V4X0JUOFdqT1lPb3VwbnBUUWtONlotb19Ia3VfaUszSGp1cw?oc=5",
+    "title": "The investigation into the 'GTA 6' leak incident is progressing, with the developer withdrawing the DMCA subpoena against YouTube and focusing on Discord.",
+    "publisher": "GIGAZINE",
+    "publishedAt": "2026-09-01T04:05:00.000Z",
+    "discoveredAt": "2026-09-01T16:17:23.844Z",
+    "feed": "google-news",
+    "query": "CyberLeek Discord",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Discord",
+        "Google / YouTube"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
   }
 ]
