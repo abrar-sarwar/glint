@@ -12392,5 +12392,212 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-cddc3c38d9",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9TY25DSW95U3hMUDlLSkgyRjlzWGJTMnhTZXhRLVd6ampxSVVZUkQ3WFU5ZEt0SUx4a1M0Zy1ZamxwMDAyclQtdFYzLVgxZVFmbDg0Qmk4aFhKVms?oc=5",
+    "title": "GTA 6 Disc Backlash Never Dented Sales: Leaker Bails With $270K As Estimates Hit $4.5 Billion",
+    "publisher": "Cosmic Book News",
+    "publishedAt": "2026-09-01T09:11:33.000Z",
+    "discoveredAt": "2026-09-01T11:20:20.500Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-025"
+      ],
+      "category": "take-two",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-0e6c8d977e",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQT2pzdXIxcWZwdzZmMmxhR2VRdEJyNFRBZWNsQk5TN3d0RXBzSzJvYUtpdHVyV0tqSGJHMlFIcWlIcVc2ZVRIZ1ItRkpsVUtNSElfQnBFbU9jaWVTaVlneUR0X1lUY3IxS1liXzZVRnNrQTBieDBHN1E2X0VsdUZjSm9TWmllVUtjTVluREcxclVEZjJXZ3VYWHJsOTA0QjZEaWg5VkpDSmV2RERhU1ZlLXNpdmstQ2Q5bUpKanpVSEdfU1N4XzdWZ19VOWNRVkxBYW1ISTRZQVhtT1g4Q0l3?oc=5",
+    "title": "Take-Two wants latest GTA VI leak subpoena request sealed to avoid tipping off alleged leakers",
+    "publisher": "GosuGamers",
+    "publishedAt": "2026-09-01T08:29:36.000Z",
+    "discoveredAt": "2026-09-01T11:20:20.500Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e702649350",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdUxUZ2lsR1A0dGs5ZGhkX2hxbE5vVzhBVENpR05qbG52N1FtaUZCQWFDXzZ6czFHQVk1VEthYmFMVy1fLXFPS2JmRFByR0VoTndodFFlMWpxMUsyYjFhbTdXWE14aGpDUDhZYjM0UkhvbFRTU0hUa1djd2VzY1RGR1A1VVowbGFvV3ZuRg?oc=5",
+    "title": "15th GTA 6 Gameplay Leak Shows Lucia And Police Car Chase",
+    "publisher": "RockstarINTEL",
+    "publishedAt": "2026-08-26T12:10:58.000Z",
+    "discoveredAt": "2026-09-01T11:20:20.500Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "investigation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-053"
+    }
+  },
+  {
+    "id": "DISC-4ae93e062d",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9nb0txS2lzWHdiNUQ1YzVyemVodjkzV0UtRUxEaUJ6TkE3MW9rT1QyQnNUdnBDdFppVVMtWnFEMjA2dnMzQ0JiUlZERmIwTWtNOF9vUFhCcG9NUF9Eb0FzbEpmVlZZaTVicGJuWC05YmY3ZTVLMmo2RG9sYw?oc=5",
+    "title": "As the legal hunt for the GTA 6 leaker continues, Take-Two reportedly tries another more secretive Discord subpoena, this time specifying individuals",
+    "publisher": "Eurogamer.net",
+    "publishedAt": "2026-09-01T08:26:02.000Z",
+    "discoveredAt": "2026-09-01T11:20:20.500Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
+  },
+  {
+    "id": "DISC-d73c152811",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbF9LcTFvMUdBLV9RT0lzel9LUW9lcUN3X3c1V3ZaTXp4aTZnbUw5OXRjb3pDWVp3VG5UZVlXSlVFVlF3Y0dsLUxRdUp3MklnZnQ0SWl2ZnVpWHpZWlAzbU1LWUFwODhYdjUzXzFUdmx4bjREX2lxeXlhM3RTSXRBZm5BY0VxRzlUU000REZGWmVVTTFWUEpMNnlSNXZEbjJBd2c?oc=5",
+    "title": "Take-Two Gives New Official Statement on GTA 6 Leaks Investigation",
+    "publisher": "OpenCritic",
+    "publishedAt": "2026-09-01T11:14:43.000Z",
+    "discoveredAt": "2026-09-01T11:20:20.500Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [],
+      "category": "investigation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9ca05e8370",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNjF4UDlWUlN2WVV4UXNNZ2gzV09hd3Z4R2FBMmtZLVFHU2JmZ29JVElSU0lWRDZCX01sTlRaLXpoQkMwa1Q0UVlJczNuYTJSTVNjczFjckpQdTN5QjVsWGJOWU1KWmhiNDBGYUt1UGd3cEZCcEo5Yk1OOE9FV01TdTNQMFJCSURZV2d5aDN0Q01zR0UwcGVqR0I2T1R0T085ekhrUkc0UVVnRFlSYWo1RXRMcGk3bURtR2c?oc=5",
+    "title": "The GTA VI preview on Netflix is already a hit, despite the Cyberleek leak",
+    "publisher": "en.ilsole24ore.com",
+    "publishedAt": "2026-08-27T22:57:53.000Z",
+    "discoveredAt": "2026-09-01T11:20:20.500Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Netflix"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8fb24d1faf",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPM1YyRXpDWG9ZUzZwTU9DcWtZaEtacnZpZkNvRHJPa3FhTVlOZjhZWW02RkNVclB0WnNIUkRZM0t3YkMzVlJ5S3JZZkFfTk5xZVhIZldEMVhGYUZGWEFjeDNteUZ6em1nZFRqc0NJVmozMUs1eXpjdzMxcUVnQXZyLWRFak9XZkJRQzdjdWlaRzdKWUZHcm12cWMtV2lvVlJkWlE?oc=5",
+    "title": "Take-Two Subpoenas Discord And Microsoft In Hunt For GTA VI Leaker",
+    "publisher": "Engadget",
+    "publishedAt": "2026-08-21T07:00:00.000Z",
+    "discoveredAt": "2026-09-01T11:20:20.500Z",
+    "feed": "google-news",
+    "query": "CyberLeek Discord",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Microsoft / GitHub",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
+  },
+  {
+    "id": "DISC-2612fbfbda",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQbG1Yd20tLW1GcjJNbjBqaVBlellHTjNjTEp5TEwzLVlVcWViNTNQaDdqQWxJalc5SmFucENyOXBHci1zMmpfTVNwMFFNcDI4OTEwbi1tXzl3eVVkUTZyRFdLUFA2elFuWXliQmwzbDZjcVc5d0NEVHV4VzNvcWtUZEtkVk03SVBpWTFpSzRnd1V0YVRxcEtPeFk4cTdOQ3dOeUNKOFhmNA?oc=5",
+    "title": "'GTA 6' Leaker Hunt Narrows... Targeting Specific Discord Accounts",
+    "publisher": "Inven Global",
+    "publishedAt": "2026-08-31T14:33:29.000Z",
+    "discoveredAt": "2026-09-01T11:20:20.500Z",
+    "feed": "google-news",
+    "query": "CyberLeek Discord",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Discord"
+      ],
+      "claims": [],
+      "category": "discord",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-dde18dcace",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a96b4f92f1e4717b5df53f8f30ab131&url=https%3a%2f%2fwww.msn.com%2fen-gb%2fgaming%2frockstar-games%2ftake-two-s-gta-6-leak-investigation-is-heating-up-as-the-publisher-requests-sealed-subpoena%2far-AA2bjF4C&c=15934072773589911171&mkt=en-us",
+    "title": "Take-Two's GTA 6 leak investigation is heating up as the publisher requests sealed subpoena",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-31T17:09:01.000Z",
+    "discoveredAt": "2026-09-01T11:20:20.500Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
   }
 ]
