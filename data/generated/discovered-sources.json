@@ -13890,5 +13890,319 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-e9e7345aa7",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOVjItSHRFREFBSm1OTjdFQldIakpmbFFGeFJjajY0eG9uQkNoN05MaHowN3FTeDlFR21oWm5Kc1VFa1RYX1ZaZnRQOUo2b0JzVzUxa2pDLWdtWTR5OHh4b2F4WWVMQmJTSnVaNWp1MjhQVU1NblZxU1N2SVJvekxiQlViRXh1eDlJc3ZyMHpUMFhlckxCOWxxUnBmbDhHNlhJMi12enRUZUJmejgzOTBodkdyTGx1dC10b1NpRV83cGU4dDFiVEhPakpIRVpkdUdCR0JCNXQyUEl1dFNFTU0zOU5EX2ZPZElDMnJIU05Vc9IB9AFBVV95cUxNMjBmTFR6bF9VbW9yZ3hRbG9kZm5zdlI5Q1BzQWdGTU5jV0stOHc5STZocHdHaWhNYWRxT2dZcWY2aFVtVnNiOXFBb1J6RDJ0dUZaaTJHZDZoMjZtUXg5cVBiSlJJamRRR0J3Vmp3dnJya0JZWXUtVTVIWEFUVW95RzRPSnJQYkhzb3NMNGlMb1dwTVNwRFRNSnVxS0xpOEZNLTFWWUJxTERaaDlyQzZQV2d3UVZZUS1QNVFhRWJaeW5jUy1lQzYtWkhFOVlFOTJ5UjJSUWpQOVdpUDR5U2xudXF6UDBYdlJLbHRFekZzekRScnIz?oc=5",
+    "title": "GTA VI Leak-Linked Wallets Made $350,000 From CYBERLEEK Liquidity Fees, Analyst Says",
+    "publisher": "Gadgets 360",
+    "publishedAt": "2026-09-02T12:02:36.000Z",
+    "discoveredAt": "2026-09-02T16:13:44.077Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2d6c0003e2",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTElOaW5KSW1aWGdBZ2pRUXRNNVhwRkdDbEJGcGFkdHJRZUlIT0k5dm9aLW9OaWNYUnE2VmpPenVMVURGdU5uZmJzclAtT2dTb3NPek9YTnlrVGxkSXhZcWlTMXMwOTdVY3lodC0xUUJJN0l5bXRJMzBkdFJ0RlVRX0lCU09EWmdxMHpPVnNNTQ?oc=5",
+    "title": "CYBERLEEK $0.00221 | Live CYBERLEEK Price Chart Today, Swap on USDT | MEXC",
+    "publisher": "MEXC",
+    "publishedAt": "2026-08-31T14:26:53.000Z",
+    "discoveredAt": "2026-09-02T16:13:44.077Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-83c42cf1ad",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1yNURjbXpGZDEyS09Id3VOWmt5c3ZNVXpldUZBUlVKZHV0Tm5FcmVUN0pzbFhEUTBpejVOdUxHLU1rdEc2R3NoT1lBMTA?oc=5",
+    "title": "CyberLeek Price Today: Live CYBERLEEK to USD Price Chart & Market Data",
+    "publisher": "MEXC",
+    "publishedAt": "2026-08-22T02:14:24.000Z",
+    "discoveredAt": "2026-09-02T16:13:44.077Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7243e969fc",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbXpoQVlDOGRPUXFRYlVSUUtwM3c0bXVQQU9kMDd3a3A0UWpSM0ExMXMzR2pZWUZzZ0FLNlU2c3BtNjF1OW5BNmVBSHE3ZEEzUjY5eWlLSTFLNGJiUVJ0NkQ2YlI1Q0RhNFp2Mkp6UzcwWmtDaWdMajJ4VW1iTkNmWUdDbw?oc=5",
+    "title": "GTA VI’s leak isn’t a hack. It’s a business model wearing a manifesto",
+    "publisher": "Martin Cid Magazine",
+    "publishedAt": "2026-09-02T08:45:01.000Z",
+    "discoveredAt": "2026-09-02T16:13:44.077Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "category": "actor-statement",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-204878d015",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOd09XY09IX2xFaXBDb1otdFU1bGlMME5QQUM2eDJZZlJfRElWcEI5M2FlUGhObE9SN3VNMlUzWDlQMTRwN21zcUtlLXdSRHNMSEtfdC10ZFkwc2NPSGRyVXRqZkExNENfRF9XQ2ZXV0FaMnFqQmR1VU1XaDBmUUNFMWd1eTZiX0Y4TklkWDlzRlJiYnFFQ2dIU2Z0c1NDRUtTTXA4YmN0anR0ZWVoVTNTd3p3SFBkM0VRNlZtcjJ3?oc=5",
+    "title": "Grand Theft Auto VI's Extended Look brought in more than 31 million viewers to Netflix",
+    "publisher": "Gamereactor UK",
+    "publishedAt": "2026-09-02T09:10:17.000Z",
+    "discoveredAt": "2026-09-02T16:13:44.077Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Netflix"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a02d02811b",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWXJhNEtLckE4TGFsM2w4Z3NoZXJoWDJWTDJzTFNDYXZ5T05zdVUtekJnZlhrS2RGUjRFMTNsc1kyZnBjamNONzJtV0ZlMDFfQlk5NzhzMUN2U2IyVDZIQ0R3R1dyTkZOTktjalM2RU00QlZ2X2tyYllUdlBiTllJbXpESWJVSlZtTUE?oc=5",
+    "title": "GTA 6's relationship meter is causing real-life couple break-ups over 'cheating'",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-09-01T21:00:00.000Z",
+    "discoveredAt": "2026-09-02T16:13:44.077Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-842731c335",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOeFFCOXA2akZZeXZfWkxsNGhPclZucllla0txNW1Gei1uN1I0R0x4dTZLcTNCSV9DLW1Od0hKX2JtRktnREotMmdOX2pTT0pneG42TFFtNEpkTzE0TEx1bVJrVkk5QVhnVUxWOFlKb0VTaldMeGVINk53M3lvTWppYVhuZFg3MTBWMkJ5N2loN291NDd2SzBrNkN5Q1NLZ2twUEVVUWc1R0QycTVoOEh6SlU0aThDbjBvcDI5YnByOFhmX2U4RXhj?oc=5",
+    "title": "GTA 6 PS5 performance patch reportedly could enable 60 fps on or after release date",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-09-01T21:11:00.000Z",
+    "discoveredAt": "2026-09-02T16:13:44.077Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-4c3060f38b",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQM0pnbDFyX2dJWXpkYW5XdmtoaGhoMFF0U0lTd05XVnlYbHJWYXF3ajNPVC1iLU1ONFpJMzM0RXFpTEQwelp0aGlVajl1NHI5aTVlTjhPT01FS2RoS1pSR00zV0lzNGhiaU02aWJmemRaSF9HQjZTdlhmNWpVYVJ0U0c0UktCZU9ieGoyampVbG1kZEEyREtQTUlxb1JSZHBjaFhN?oc=5",
+    "title": "GTA 6 Extended Look Trailer Is Here. Watch 26 Minutes of New Gameplay",
+    "publisher": "PCMag",
+    "publishedAt": "2026-08-28T07:00:00.000Z",
+    "discoveredAt": "2026-09-02T16:13:44.077Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d3e9bfddc1",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVHV2SGRiMFUwUmVLeW1XbElLVVBKNzFrMWM0OW1FemdNQzZKYnltcDQxX2R4RlpmeFJrQnluclVvYnRldndnMjVOVlFLNDAyOXdZWVE2OFJjMWJBZ2lHem5xMWhyWlRUY0RLb20yd09HZ01pTExvalNQSmQ3OTg3VUQyV09sLVF6ZW5hazdVNHVjeTlNbGc?oc=5",
+    "title": "GTA 6 Leaks Confirms a Beloved Lost Rule Is Back After 13 Years",
+    "publisher": "Polygon.com",
+    "publishedAt": "2026-08-18T07:00:00.000Z",
+    "discoveredAt": "2026-09-02T16:13:44.077Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2eba61fc2b",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbHRpRG5CM0RZVzNlS1dJYTg2Rm5XM0s3VjU1QmJrQTgzclJuN29vdnp1T3AwSW1JYVN4VzVpZGJRdmpnYUhVT3dwV3lVbzQ5VVlWM0xOX2c3Rmp3dEJ1cXBXd3V0enU5bkE3UVRoNWkxNjJTejFUQ29aZzd3QUlnWnI5Uk80c2Nwb1pidmpQMzZYRmg4aTNFaS1DTzdTY25nRlVkamFaYUljVl8ybVVNcGMzU245d2NwUDI1QWNTUlg2QXBxZnlqSGpoQnVhR3FlaHV6TVFyMUhieFFaX1FFVktCVGVhZV9ldjBZajZUUWxwVTg5?oc=5",
+    "title": "Still more GTA 6 details from the latest leaked video: traffic cameras, car trackers, and drivers that put up a fight",
+    "publisher": "PC Gamer",
+    "publishedAt": "2026-08-21T07:00:00.000Z",
+    "discoveredAt": "2026-09-02T16:13:44.077Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-9d3a7d35fa",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPRkNIb25pMG9KNG4zSjhXT3dqRDBtbzZuN0lYUE5GUmhzZWdCdDRybFZoQ2tGUlpsRTljSnkzVVhmSXQyV25sRGs1TkJLdnhDcXJ1REhhUnJTeEstTkJid09tWEFONnhEc3FqME04WkZlRjRmc0RGY3hiTWEwZjFXOTllTmtySGx2SnNwUTY2LTRnNTRMSFJSSXdQTTJLVVBhRGw4RUtFaEs3ZUlvdGxVUXdJcWZLaGJZOUJnZ2hQcmRsRHZsb1ZQc3JRMXdDQ0QxY3FsUFE3endJLUkxemlhT29UR2lPZF9hd0dGNWt3Z290aW8?oc=5",
+    "title": "Take-Two lost $2.8 billion in market cap after GTA 6 leaks—but what's more shocking to me is it probably barely felt it",
+    "publisher": "PC Gamer",
+    "publishedAt": "2026-08-21T07:00:00.000Z",
+    "discoveredAt": "2026-09-02T16:13:44.077Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-025"
+      ],
+      "category": "take-two",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-022"
+    }
+  },
+  {
+    "id": "DISC-40edcf0dd6",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOQ3ZPcWVsbkZueVNTZU9iRnBzSGRjZ2ZsTUZMdWVjUVhUQTRZbzNnUkhBODZCdWpRTHlqQlVWSmJSd2JQenkzVUw5a0RRUVZiNUloMGlEWWRpR2c3MlZ6bEI5SVFvU0Zqb3hKQ29iNkRYbDlJeTFhSGFld0Z1czl2Y0lyQ0ZBOGNHUkMtdkxzNzhHTGZkYlh2RzBwTjlXdTVRWFQwTnVEc1pYVy1CS3hJT1N6Rk1UbUtBZGNCSDhWQzhtblhtazc2eEluUDhsaWRaQlRGWmN2Qm0?oc=5",
+    "title": "GTA 6 leaks have reportedly led to a morale drop at Rockstar, with Netflix frustrated as well",
+    "publisher": "TweakTown",
+    "publishedAt": "2026-08-22T07:00:00.000Z",
+    "discoveredAt": "2026-09-02T16:13:44.077Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games",
+        "Netflix"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-f7c2a8be3c",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNakFLTFVWX0d3eUdhNGZ5bVBQeW92VjFFcUFFUWU0dWlSSEJoZzl6UVRtdlpUMzYwcWxOSzF1enpMWEUwYzlnSHlVeERuai14a05ySlRJcXU5WXg0YjNFY2JHdXlVTThTZVl2MHpkamtOYk5YZzd0RVMzTDg3bE5PSGZRcGdsSzNDMFdRRXJxUHlqZw?oc=5",
+    "title": "GTA 6 leak escalates: Hackers release new footage and make demands - RBC-Ukraine",
+    "publisher": "RBC-Ukraine",
+    "publishedAt": "2026-08-20T07:00:00.000Z",
+    "discoveredAt": "2026-09-02T16:13:44.077Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-022"
+      ],
+      "category": "actor-statement",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-18cda3a21e",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUGFqNC1ZNmFNaE5oT3pWVFJacVJkMldJRm9ZYi1WbXpfcnJtUDcycFkyRjNRUGFwY0t4TXU2dkI4TElxWmhxMkZHUjRwV1BlYVNZd1lSeGJ3Szd3MTlDdk55Z1ZpVU56WkFtN1V2OUdxN0ZzOGktME5Rek5vNnNHNFczMGtfRGtUbjR0NzNxM1lCczY2eUhEd0w4bXBDNko0bGt1UC1vVG4yUQ?oc=5",
+    "title": "GTA 6 hacker demands public apology from Rockstar as gigaleak shows off gameplay and massive map",
+    "publisher": "UNILAD Tech",
+    "publishedAt": "2026-08-19T07:00:00.000Z",
+    "discoveredAt": "2026-09-02T16:13:44.077Z",
+    "feed": "google-news",
+    "query": "Rockstar CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-022"
+      ],
+      "category": "actor-statement",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e20411a1dd",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUEzRUpSNTZPM3A5VDVhUU5EWHg1Q2MwLW9NTE5HNFNrbWlJRm1sQVBPeTdKODUzY2V1cnEzTmNud01HbHViQTdZaXlkNEpORVlQMzl2dXAzMXhPaG13by1jVnZxUndLSnRJYUxWeC1JdTlYeGZKUFNYd2VaTVRXdzk4R3RUZHVFYjlaQjNRMWIxa1NfdWVWTzlhOXJacGVHUXZWUA?oc=5",
+    "title": "Take-Two Subpoenas Microsoft and Discord Over Leaked GTA 6 Video Clips",
+    "publisher": "Technobezz",
+    "publishedAt": "2026-08-21T18:35:10.000Z",
+    "discoveredAt": "2026-09-02T16:13:44.077Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Microsoft / GitHub",
+        "Discord"
+      ],
+      "claims": [
+        "LEEK-CLM-023",
+        "LEEK-CLM-028"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
   }
 ]
