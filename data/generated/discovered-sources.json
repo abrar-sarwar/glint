@@ -13241,5 +13241,49 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-d12ee58683",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a979a6059cf4133bea783dd2824fe82&url=https%3a%2f%2ffinance.yahoo.com%2fmarkets%2fcrypto%2farticles%2fgta-6-leaker-profited-350-231058298.html&c=4760481496436660176&mkt=en-us",
+    "title": "How the GTA 6 Leaker Profited $350,000 From CyberLeek",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-01T16:10:00.000Z",
+    "discoveredAt": "2026-09-02T03:37:50.848Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2c6419e630",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a979a6059cf4133bea783dd2824fe82&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2fother%2ftake-two-may-have-a-cyberleek-suspect-as-it-is-requesting-info-on-a-specific-discord-user%2far-AA2bjkJD&c=2802148070052815069&mkt=en-us",
+    "title": "Take-Two May Have A Cyberleek Suspect, As It Is Requesting Info On A Specific Discord User",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-31T07:27:00.000Z",
+    "discoveredAt": "2026-09-02T03:37:50.848Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Take-Two Interactive",
+        "Discord"
+      ],
+      "claims": [],
+      "category": "discord",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

@@ -942,5 +942,13 @@
     "domains": [
       "news.google.com"
     ]
+  },
+  {
+    "date": "2026-09-02",
+    "feed": "bing-news:CyberLeek",
+    "count": 2,
+    "domains": [
+      "bing.com"
+    ]
   }
 ]
