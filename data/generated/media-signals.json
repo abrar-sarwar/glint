@@ -950,5 +950,61 @@
     "domains": [
       "bing.com"
     ]
+  },
+  {
+    "date": "2026-09-02",
+    "feed": "google-news:CyberLeek",
+    "count": 2,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "feed": "google-news:GTA VI leak",
+    "count": 7,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "feed": "google-news:GTA 6 leak",
+    "count": 14,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "feed": "google-news:Take-Two CyberLeek",
+    "count": 2,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "feed": "google-news:Rockstar CyberLeek",
+    "count": 2,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "feed": "google-news:CyberLeek Microsoft",
+    "count": 2,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-09-02",
+    "feed": "google-news:CyberLeek $CYBERLEEK",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
   }
 ]

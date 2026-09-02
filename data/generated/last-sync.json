@@ -1,77 +1,65 @@
 {
-  "ranAt": "2026-09-02T03:37:50.848Z",
+  "ranAt": "2026-09-02T10:54:29.886Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 100
     },
     {
       "name": "google-news:Cyberleek",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 100
     },
     {
       "name": "google-news:GTA VI leak",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 100
     },
     {
       "name": "google-news:GTA 6 leak",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 102
     },
     {
       "name": "google-news:Take-Two CyberLeek",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 100
     },
     {
       "name": "google-news:Rockstar CyberLeek",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 100
     },
     {
       "name": "google-news:CyberLeek Microsoft",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 63
     },
     {
       "name": "google-news:CyberLeek Discord",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 64
     },
     {
       "name": "google-news:CyberLeek subpoena",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 63
     },
     {
       "name": "google-news:CyberLeek dead man switch",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 35
     },
     {
       "name": "google-news:CyberLeek arrest",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 36
     },
     {
       "name": "google-news:CyberLeek $CYBERLEEK",
-      "ok": false,
-      "items": 0,
-      "error": "HTTP 503"
+      "ok": true,
+      "items": 49
     },
     {
       "name": "bing-news:CyberLeek",
@@ -86,12 +74,12 @@
     {
       "name": "bing-news:GTA VI leak",
       "ok": true,
-      "items": 2
+      "items": 12
     },
     {
       "name": "bing-news:GTA 6 leak",
       "ok": true,
-      "items": 12
+      "items": 2
     },
     {
       "name": "gdelt",
@@ -105,8 +93,8 @@
       "items": 20
     }
   ],
-  "discovered": 603,
-  "newSinceLastRun": 2,
-  "pending": 315,
+  "discovered": 633,
+  "newSinceLastRun": 30,
+  "pending": 332,
   "analysisMode": "rules-only"
 }
