@@ -4558,5 +4558,389 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a3d062f100",
+    "title": "Take-Two requests subpoenas over GTA VI gameplay leaks",
+    "reportedAt": "2026-08-21T07:00:00.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNUJHeHVMcU0wNWJfX2EwekRfTmRhVk9JMnoyT3UwX3FHcjVIQ1BvdmVCdTJQYWJhNC1lNUktYUMzS3ZhMm5VdDFkVEpOX2Y2YjFjVE1pVW9KNFVHTm9td1Z3d3ZBUzVxM1EtaFdGa0hCSHdDQnNDeDg1UU9PYlhaMFlWbDJCbVdHdXozdHYyMkJqY0xqaGRBRFpGbm0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0c22a61af0",
+    "title": "GTA VI Leaks Turned Out to Be True - There's a \"Mole\" at Rockstar Games",
+    "reportedAt": "2026-09-03T08:33:52.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNelVpMmlPcEVsMWViU2JZVHZGM0htd1duT0Y0eFJBVzl2VHFZc3JMSy16Njh4ZENQeVVBUEt1NWdLeXpnV3l0YXBiR0N1YjhCcWdxbkh3NFI0WG5nejlkREJBaHEzNUJQLURidEtrUDc4VE9TSlpsNnlSbmNNdFhsVmluX2dQSmUyQ2dIR1lMNUppYjBPWjBsRThKNi1sMGRaNjRYOWg5QXVaQdIBrwFBVV95cUxNX2REdi11T282VFJ6LWVENTJRNUVUTk9iNF9GSkd4aTBsTjk4cDBUVnVvRERkOEREdUFsSlROQkcxbHhRMnhkZm5KQy1yMHFWZ0VmNGphUUhYcmJld3lTay1oVVJ5Y2FLVE5nbTNTN0hkdGhBTlBFRGJXQTBaM1E2eHZBRHZGRnkwMF9vNzgxSDZndmNfbnY0LW02aU5pS0NzbTJuVF9tZG5hV2lGV2Yw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8345d2ea16",
+    "title": "TTWO Stock Slides Into Correction Territory: GTA VI Leak Tests Investor Confidence In Take-Two’s Premium Valuation",
+    "reportedAt": "2026-09-03T06:08:48.000Z",
+    "category": "correction",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPZ3dWaWlBOG40T21rRlIwcVhObXFPRGs2eHhBb2lQQ0JJSDNrMWxZNWZyZnRjclJsUm8wMTNkU2NUbG5FNFk4clVYbkhULXpLM1BsSGZwUG5OUVNjRTZYTFNfalN1M0dKaGczX0JUYWZ3OVJ0VHRkWi1lQVg3Q3NZMEpsZHhpb3JESktha0NZWTJzMXF5TmFsaGRBWlN5enpOYk8zZ0NEVkJGem91RlhUWWlkTml2aFByWW5Mc3U3aHZGb3p0NzlhOS1EUk91NHJ3MTlRVVZ2SXZuU1ZlSHByN1o3b0M4cG43ZDRBbEc0LTFGMWZIay10TTNuYUpHYVQ2Q2dGTzNpb28?oc=5"
+    ],
+    "suggestedStatus": "retracted",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ed8819704a",
+    "title": "What to know about the big ‘Grand Theft Auto’ leaks",
+    "reportedAt": "2026-08-25T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTEhwY2hPUDdhNTM1ZXRfTmd4M2JQeUczNFV1cTVSblJIOGU4SzhUM2poUjVIYUtQX1d4V2NkaHVmX196ME1haVhqaTNNRlpSZ1U2bXdVaElfT1lzQ2tnWmJWNWlDR2VMNV9YV3U5eTFCYmY4YThoSnRESEQ0Q1EzM1hDT1M4cW1TUDZxbnhsRWNRT2lZMlFydDliLXRETkhyckVGVV9HbnR6dGxHcld2aTVyUUVqc0l3M3RjWi1jVk5QZWN3NXc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c2d1d8264f",
+    "title": "GTA VI Gameplay Peek Tops Netflix’s Viewership Charts — But TTWO Stock Fails To Gather Steam",
+    "reportedAt": "2026-09-01T20:26:49.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVkllTUZBaWl6VUdvQXRzTHhhRkprVEdZek91cTB6bU5jSGlKazNibjg4TEgwOVhGNm1lbGhWc2JzSVRmb3N4LVdDSXFuUlFLelZjbFgtMWd2OXdzVVlCcklKVWNpeG4tcm05Ui1kaHZtWE91UGtXcnljUE40eV84M1VxRndRaGhMbEstYmRoQXRBTmIz?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-2c5991157f",
+    "title": "What The GTA 6 Leaks Reveal: 6-Star Wanted Level, RDR2 Karma System, And Cars That Run Out Of Gas",
+    "reportedAt": "2026-08-18T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUXBrWEJ3Rl9KSDZSVEkySWU2d2Q3VkV6ZUMxZ0FkaG5lbVh0SnhTajdsd2NYLWtrWklxQkJMdmZBOXpKUWhDdUNhYWRBc0h0azB0bzQtMExENnl6TTRIM0JNSUU0UnpfNl9kTkZ5Z01rXzJhdENLWXl1STlpZ1FZQ3BVcw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-35d2f9a86a",
+    "title": "GTA 6 Leaker May Have a Playable Copy of the Game",
+    "reportedAt": "2026-08-20T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9HSUZheDJXVjEwcHZ5SWF3TVlDMlE3TGJRTWVkSU5uTUpoa2VMU1M3cGJXajFncGlYZUx0OHh0RDZUVUtvaFhVMVd2V2JqZ19sbFd0UGhPY2t3RVJTZ2pmeA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3831b583f0",
+    "title": "New GTA 6 Gameplay Leak Shows Radio Station Menu And Flying In Planes",
+    "reportedAt": "2026-08-20T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNkpiT3FnUzZKd25wN05KR0NDR1hQWmpPeUpucjRYcG9XU0x4SlVpWnpZaXJiQ2p1V1Byay10ZXdoeF9XaWs4NXctbTFTclJVOWNuTENMZlhGeEZwOUdDeExLbUZlSGNRRHQzWVlXZkxEVUZxRzBoV1lvZ2hScUlqR0VfWnlWNGFXRTR3aHlSUmlHVi1aekY1ZTB2cWQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-16e9bce957",
+    "title": "GTA VI Leak Leaves Developers ‘Frustrated and Exhausted’",
+    "reportedAt": "2026-08-21T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUXBoNzJ1Skhya0dlVl9ZQkJOSFljb0I0endqTGxibXBZN21Dc3VFOWV0VnJRb0pyTFFNQVJkbFc4S0dweWZjN0h0UzVlbG93SHRVcXJMRWhZbjVrQlNJYVc1WFYtRWNvYVMyTnVleVFBU09NTWxhUUtQMlFUNk84Wlhkb3U2S19wVk1zRHpHNmZ0a282bHR1MzByZW4?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e103687052",
+    "title": "[UPDATE] GTA 6 Suffers Second Day of Leaks as Group Reportedly Responsible Continues Threats",
+    "reportedAt": "2026-08-19T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVjE1Vjl2WnJIcXl3Z1hsQ2NHQkdMU0Y4MVU0RHJoeThZWUlYdWljREhiUlJxS3VNQ25hNGd6X3V0aXc4R0pZM1J5djV3RXN6RmpJa2xOazFnUk1IckczaUJ0OFUyLWVVLTFOWW0yQjZnTHpRbThUMERXVDNqV2JwS3JxM1BQTnh3TXVKcndqeVUycTY0QTc0bEo5Z1E0M3RsZjlMbFRHeHFtcHBtdUJubndJS2JFaXhsMWF5eWM2YlRrYVpfTm8tUjg1UGsyb1JLSG5IaGJLdVdILUF4QnVsbHRCMA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d07136a5b9",
+    "title": "BREAKING: A third GTA 6 gameplay Video has leaked onto the internet.",
+    "reportedAt": "2026-08-19T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWXJ1Q1FpWVBpOHhuREt0NWp5ajRSX0QzeGhIc09LQTRZbGM2aFVkUnNiVmlrbDVTTTY0Skx6UmpCMmQ4Ylhia0RzM1ZTUThlbE9pcndBcG5acXBSTHdzRWMyQzBQMFc1YklZTGx4NWxmREE5YUlSNE9FQzJqMzFHOWJCMUM0RXplQjFqZ3M5Y2pCNEM2enY5aA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a8f811714b",
+    "title": "More GTA VI gameplay leaks, hacker now appears to have playable build of the game",
+    "reportedAt": "2026-08-20T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaEVfODBraEVTaklaMUNhTXRjQUVYRG9BQ2J0bzl3bEhHMXJTd2ZSdU9QR1RxSHZ5NEk2cEdEUlZsajBZeGNhUGtqcTFKdzF4LWNxTnF3b3pDanpvVFZ3ZGE4M0hwckZqUThsNVB2cFVRdzk2VjB4NmxtVUw4SEZlX0Y2U2tmUWpo?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-aaebb31e82",
+    "title": "GTA VI leaks allegedly show driving gameplay, six-star wanted system, and Leonida map",
+    "reportedAt": "2026-08-19T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQTGY3cjZ3VGtiZEdtdmU2R3A1bE5xZGVheUp5TVY4cE9FNTE2UWpzWDIxbk8xRktYRTdmN1UyV3hjckEyNUR1WWtBczU4NDRjaUp1TjBEWmtLMXY3bXBkNjl2OEgyLVVURWhqYnotSi0wV0RVNUN2cGh2XzcyNDhMbVZRazc3N2NZbjc3dWhrTUwxYzFTWFY1ZWRuRUFPbVpROXAwb2k5SGpZbVJRYUQ3anAxUFBOOGplMVRLalFHZUdwbXdHbFhzblNHd1l5X1lj?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-4c4bae9870",
+    "title": "GTA 6 Leak Suggests Rockstar Has Tripled the Length of a Full In-Game Day",
+    "reportedAt": "2026-08-26T01:42:48.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimAFBVV95cUxNdzRGUWVDcGY2S2F3SUdoM2MtZW5YMG1wTEVMckV4NVVBcUlIQ3FHVFExblg0aXNXQWJQV1NUMWdYejhzRm5ZcGs3SFNLT2Y5LXdxMXdfamZCR2tiWE1zemlPb3FzZV83eHZ0TnZxTUVQdkF3UHBRa1BPNWFxeGZWbEJRZy1SeEJNOVBZWlJ5WlpiOS1yRlhWSQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-848055b0b0",
+    "title": "GTA 6 Gameplay Videos, Full Map Leaked",
+    "reportedAt": "2026-08-19T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRUdTZFZHRTVUZGtBbUxWQ2NxeGExZHR1Sy0tTndZWFo5VXgySk50R2dVMFBUZmN0Rk05YldFZkU0a1ZMT2NsUTlEV1hMblN5LU1xQWlxcEd5OF9JTEZSc2FrV1NMVVdnZVhUbUFqZ0ticjZXWm52c09sZ21sbHJEU3pYejlPLXcyQm9vcg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-105dca4781",
+    "title": "Rockstar breaks silence: \"Having videos of Grand Theft Auto VI gameplay leak has been heartbreaking\"",
+    "reportedAt": "2026-08-27T07:23:58.000Z",
+    "category": "rockstar",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMizgFBVV95cUxOU3pZMDdPWEg5Z1B0RkNpWktycUZjWm1SUFBGN1NyaVZrN2tWOHJ4SkN5QU5YTURLVzFlTEh2cVF4ckpwYy1KSlM0Rk10QjVXRFBxQjhTUXU5VmpJRmE0SjJXN2NOemFuYmFSQThMOV9EX1F0dHJqSkMyRzk2RXRzYmJEQVNSR04yTl92c2liQzE2bm5iLVlaZjRSZzd6UFE0UkdQRWlHeVREVXdmcmdxRm1IN080Qklwa1FGV01icnloaG16T1luSEM1ZGw0Zw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-4eeeeb036e",
+    "title": "GTA 6 Gameplay Clips Leak Online Ahead of Rockstar’s Reveal",
+    "reportedAt": "2026-08-19T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVllDVV80OVEyekRQNVhBZnBvNEtERTV1bzRKSVNrMWFqRWEyRm5MWmt1Tk5OS1RzVFRkSkluS2xHSjdOR3NrQWJCc3BRQWk0aEhtNlZrR1BpU1ZfaEtUU1o2R0FVOUJkd2twQ282bjBmdmNMM2VpczlqOHRYZThyc1M4c1dUTmNWcEl0RkdGQQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fe2e2c1b41",
+    "title": "‘Grand Theft Auto’ leaks continue as hackers reportedly taunt Rockstar Games",
+    "reportedAt": "2026-08-20T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSnpEeUhiYXhBLS1zTHZlMVZoRTNWNDZVMGV6NUVndnRhRmFJbVlsLWlCVUQtM0tnWFYzZXhDelZHYnloWnZrcmFxc2o4dVlVN3hINWlGSjBSNmdEU1U0UFo0VlVaREhuay1rNDFtMmtscm91R2Z1WGhfX21Oa0p5VjhPcEg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b12e9ee8ee",
+    "title": "GTA 6 Leaks Confirms Iconic 6-Star Wanted Level System Returns After 13 Years",
+    "reportedAt": "2026-08-29T12:14:59.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmYzVRZXc4SV9LaUFQbTZPMmkwUURuZHRkeFBfQndranRxOW04a2cxcEdLd1Rxc2ctWER3VGEyaDZDaWltazk1TUdKdllXMDVvc0NXT2NyMF84NGgtbWkyY0tOS3FNekFsQ21PUkZ3cFd6NUxs?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d36a0d8d06",
+    "title": "GTA 6 Leak Pages Hit Amid Rockstar Crackdown",
+    "reportedAt": "2026-08-18T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigAFBVV95cUxOWW1HLWRFVlpsSVp4SEExOUsxVTdkY3hLWGJScXBLbVlEZ21lTm9OMy1OLWM3YXNpTGhQWFE4bzBVMHNxREN5LWZwODVndXd4VWJuOWxWY2h5bW9NYjhVOENDb1pUUWpRVEdGSDN2VmVwUmlVUDNudGhQWHVLNkZKUg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f91a89f235",
+    "title": "After GTA 6 leaks, gamers take protest route ahead of trailer launch: Here’s why",
+    "reportedAt": "2026-08-23T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMlVpQlR0ZjlxUHl3dVBkRkE3ZGlpaHdkei1OUkdXU3NNSnd6WHBDUElnbW5TYnJ4TlN6SDgzZlc4TVkweXkxUGdVNkxVZkdFYVdMMEVublRJYzdrQldKUWw5eWFPTzZ0Z0JEVXVLVm1rN0tVbEp4bE51QWFOS0RxNTlPRXZyZFBWakFqT2ZpSDNPbTAzOXNTSFVvalh1V19EYkNXTnhBSnlWT2M0dzRId2JNd1NzbUNUTTNEdW9lVdIBxAFBVV95cUxPTzRpLW1ULXRRbkZRRlBlb29nRmdFRnJ1TEdSMHBNdzRUbURlMDlHV2hrY19IWDZPQllLLXlrVnZDTDZBM2ZPOVBIanhiOXY1aE55d1MteGZaTGpHcTljcGJsLVQ5Q2o1RzhGNFFSU2lHX0JkLUdsalp1OWVJVHJOZ0F5LXJycG1BZmFGNGRuX3YxaWdGblAxeTVrVHRBSnRSdmdjVU9oV0otc3BGU1Z4RUctclJnREQ4d0ZiTTFXT19Vb2xJ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3fcb1872f3",
+    "title": "Adin Ross lands a GTA 6 leaked copy for 350,000$, plans to review it on livestream",
+    "reportedAt": "2026-08-20T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMifkFVX3lxTFBpRFpmTExaNmh0OUxKeEt1UmQzeHpQaG1rLW9NdVZYU1dfYVFsektaYkNidms0NUdEUUdYMjJjQnVIaDQtTzlCSG9GbkVaWmxoTVVFZ2xqdlF5RFZNal9QZ3pLOGpHLWp6UXc4NDhidERVUXB2YWhxdjNWUnJPUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fb56f0369c",
+    "title": "Rockstar Cracks Down on GTA 6 Leaks – Pages Disappear Fast",
+    "reportedAt": "2026-08-19T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbVF2ZmxtS1ZWakRBdS1XbjhTZmsyMHhwa05zNlBHZ08zVmF3Ql9VcXRVamZ5QVpfWjRxX0g1OHpzNUFKUDJCT3d5OVVRNmpVci1tTzhZME05MW1qeU11azgzLTBtSGNka093ai02MEE0MUxUTnhsYV9sWDNKbnYxZldOZFRwbTc4?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-027022b96c",
+    "title": "Rockstar Finally Speaks Out About GTA 6 Leaks",
+    "reportedAt": "2026-08-26T12:36:52.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZFhlcVJraGhPYnY0YW5iMVJWQUlZeEpNMEctZmVfTGtVZFpxdFYyZ1A5STBIb0FVMTJnbVNkalBKMVF6bFlfUFhWN2liRHlXamFBZm9XWm1PVjV6QzFkSXpUOUJIMjJTd3lmZ0diUXY4TDNMV2pYNTBPeWdFcC1jUw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8ff0d9bebe",
+    "title": "GTA 6 Leaks Don’t Matter, So Please Calm Down, Ex-Rockstar Director Says",
+    "reportedAt": "2026-08-24T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMEdNQnpzMHFhSDJsNUJTbGNGRHIyWnE1aDlzVXNRQklsendoM1dVdFQ1WFBGMDBNNHlXdktjYnRnLVBTZVBMXzFlSWYwZ0lTQ2VuZ2hVeWFhNlcwUVoyYXA0ODk0N2FKb2RVbWN0aXlrVm9wbVdVU1dxUzNoOXZaYlFwbTZzcGlZVExyQ2xPbmRnVTZLTTZhVFhxRU5PTEdHMWhHOEppcWJnVjNzeVhfX2xQUGJRR3ZTSk1Hd01Yekg?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-fdf8049a69",
+    "title": "GTA 6 Leaks Force Take-Two to File Subpoenas in Federal Court - IGN Daily Fix",
+    "reportedAt": "2026-08-21T07:00:00.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMivgFBVV95cUxOYk53eXlXbHRYVHgyalRHY19FRExMdDFRLXNuV0JPMFhBeEh4bjJ1b014VU8wbzJaV0QzM3hmM2hsbU9NYUs1d0V6bXZGekFSdzJjZVFsLURUeTB2QjhweFUtMlh1WkM0RlhhSHl3V29acVU3X3pCV2tJXzZPejlzWnJXLVdzNkJsczljUVN5aW90YUJRN1U3Zk1reGF5NHdtZU81UEdpeHlZZHVjRTZRNmFWbEo2QjdJZGFJUEpR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-cd198adb6a",
+    "title": "GTA 6 Leaks Explained: What Was Revealed and Who Is CyberLeek?",
+    "reportedAt": "2026-08-19T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMickFVX3lxTE9wSXhUdGFvNlVqX0JNeHhYMXVFSjlxNkJJcjhLVzhvd1JLUUhsV2c4R1ZLZWVNNGc2My1rS0dnU2xBUko2TC1acFRJZzdfYjhQcV9fQ3JTenl1VzdVQUpkamVLaFBJYVZkWjg5bkZwTW1ydw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-94ac88b214",
+    "title": "Grand Theft Auto 6 Spoilers: Endings Risk 'Just Got a Lot Stronger' After New Playable Build Leaks",
+    "reportedAt": "2026-08-21T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihgFBVV95cUxORFBibFBYWTVDekZMUXdFOUtJeDQyZk1TRUppSkVoNGtQaVdoTUVIQkZqZjAtc3JORVdNS2lnMUp3Mjlvb2VKc3dQWVBzeEdxUlJjeUtsRGhJT0tMMFExWGl4bm9rLXQxVktZOXlTVl9oYndGeEkyTTdlSFhSaDZIMmlCRmdiZw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e98ef4192b",
+    "title": "Is Rockstar India responsible for the GTA 6 leaks? The Arion Kurtaj connection resurfaces amid CyberLeek and phishing scam claims – here’s the truth",
+    "reportedAt": "2026-08-21T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMisAJBVV95cUxOd2xZbUxHbDRuaXY5TnZleV9UUzduUFJkVnVYSngtWTlYWVY3Z3ZYRjJlaFRyM19UU19MYjQ5ZC1wUjBMOUdqX2J5YkR1dHNVd3FOaFBqMkdabGZlZjBjNzhNR2F3ak5waXpkZVBicVpocjJmOFBHSldlVzJxaHhDOW5RcHpiTmZQV2VBVGVPOUhNZ0NETUpqemdlbG5kekVCLTJPYmdQcXlHakdFNmJUbDM5aW9mM0tsbVI2VEJobjVQU3ZxeFdZTGMycEFramZ1VzY2MXZ2cVQ0S2h3bFY4ODdSX012UUZBNWlZbEZWZGVqZk9uVUk3Qmk5WDRvQnRwRFBSZ2dZcGRhUHlpU0dHMFZmcm9pNU5Ud1hza2lLaUpFSEpfd0JXSzdycFZrR2VT0gG2AkFVX3lxTE41QVp0ZWVCV2xXS2NOOElBQnFkVDBPdFR5d0hzdmszTVI0V1JVcU9QNVd3cUxqVGpxblhJSldoTEZ1anJqek0tMEFnOG42R2hJVUdBenNFOU9JS1F2dXBLdzFFNDB6REkwN1drSUtVRU9laUE2NU9QNDlPck5KZ0VQbXMzQkRhbnZNNUtwNzJLMmJnTFFkTTZuY2Zyb1FnblpIRzQwcHdKNmxFMV9PcklNSFhySVdqRC1xWnMyLWtHUjRnckFDMnpMdTY4TVhWWDJwNGhtME01VWJjdUJjanhZWXFQSG1IbzdQaDVUVnZOOXBUdUdSY2oyaWdGcVhPWUlNS2k1b19rYVh1MVZQQ0hRTVJqWGFsbm5ZMWVQX0lzSU5XamdMT25aT2dfVlBFYmtjOExfMWc?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-814d6e9df7",
+    "title": "GTA 6 facing crisis as leak of Lucia's ending reportedly threatened",
+    "reportedAt": "2026-08-20T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMihgFBVV95cUxQeGEwTnBVNE1vS1VMQWdNSGpSVE5mSnREd1B0NkFiMTVJbXRIMC03alR6c1ZZVkJyY1RFMVdNc1h1WnItbUdyVWNBcFJGSDRCYUo4SWsxNWNYN1A5d1RYWTZVclYwcXkzaWZsTTBFZHBGS3hlNTBvMFBjS2ljdDVWMXhqOHk1dw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-f2a665ead0",
+    "title": "Take-Two targets GTA 6 leakers; Wants IP address & account details",
+    "reportedAt": "2026-08-23T07:09:12.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMingFBVV95cUxNSzVBQmtLRy00M2pZQ0RuQm9kVG5RN2xaNEdwZkl4elhuMTVXaXpBbjkzV0llMW9hMWNUcnZZWTJSemNvZktKMU9UdWVQMWUxbl9NRzVuOVFRaUNNQWNNRlJJUFhPc2VtR2RFZW5GRFRZNVdzeDh5OXBmMTNqbmQ5WGo0bjlxRGxHcjU5VlhkaXNXbVZLal9reEtlSGxKUQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d8a28c85e8",
+    "title": "GTA6 leaker Cyberleek shows off gas station rampage,…",
+    "reportedAt": "2026-08-22T16:03:22.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQTDN6Yjd5c3JjOWlfYlRGY3NpSUdacUFDSGc4X0szdDZscVVaZE80LVRNU3M4VTVIZFd2NDJKWDJvemhOdThmekhlbWtTa2FpVXpLM29mMC1uRVNfOHBXeEVDUk9lMzY4OTk5RllTay1MYTlENFFmZHZJSGZGYnhSN2RzVFVKQl9zMVJOSWdCSkljMHVBbF8zcFBfVjhLNEhpcmlzZ1RRUExyWXNpWF9uX0g4TU9HRzRjTjFHMGVZN2d6RXExeEZqWDBHSTU5R3ZhY0FqWE5aYXp0WFktS3YxcUF0VGFhRFhhQ1RiOWQ4aw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
