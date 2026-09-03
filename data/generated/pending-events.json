@@ -5182,5 +5182,113 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b20bba8878",
+    "title": "PlayStation 5 Pro Could Trade GTA 6 Performance For 4K Resolution, As Leaked Enhanced Guidelines Point To 30 FPS Gameplay",
+    "reportedAt": "2026-09-03T11:29:21.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcHRJTldYTUFWS25nclFKWXp2RXZmZ0ZaUEpYS1BoamlxU2lHU3V2aDkwbms5MHQ2QndiWGQ0cDBrNjhyalhBaWlfOVpMQmx0Y2V2dml2c1FIR2JlQU1nNElJUWMwaTVBUW53Z2I5bUdPSTR3MEYyT3NhWm42RWttRkZtek8xc0J1elpnaGkxRGFiMlJnSzBvLXlfc9IBoAFBVV95cUxQNlNteWJqdS1tamJmTUVJMTFhWnQwUDl3UlNNOU9IbVRYYktqM29XZVJtNkNMdnZyMzVpV1hjV3FTRmZyZjFkdk9LN2psa1ktRFp5UkhQVzFVWVJmM0V5Z19ha09CSTlfZnotVUppSEhmN0FRTzlNM2E1NTJFRVNSWmR6OEJvMldBeWsza3RKelBZVndjUElqZHRrYk5jSFlz?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-708745265f",
+    "title": "GTA 6 fans brace for huge Netflix reveal after major gameplay leaks",
+    "reportedAt": "2026-09-02T13:53:05.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOGd2X1otUDdfZTNSZHZia3ctR3JMUkdEMGI2WngwUjR4VTItZktFNTNveENaamY3Z1cyRDFJWFlLY29wQnZTNFVieW1fbEhRd3FWMU1ta2t2MDNycm1WSVZUNTdNLXc3UVRTRjdKLWc1UGZMcnJra3JyWXJFMG5WQ3ZUd2hyc1ZfXzVIekNObUo1Tkpfb3pvOHA0R1JWdzBkYXhwbU1R?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7f1baaf844",
+    "title": "GTA 6's incredible beach leak just proved Rockstar's doubters wrong in under 2 minutes",
+    "reportedAt": "2026-08-25T15:16:01.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiggFBVV95cUxQaDM4MWJRQ1BpUFRfV1ZKUlNXVi1oaVBQeS1xamdsRWtVSUt4d3NHb1dJOXp0SkxOLW1Ra1NyS0RNbXpPTmliTWpVZXI5OTRpVF9fWjk0NElRMllRd1dHdjBYeXF5NnV4OFdscnZPN1BDam0ybTBlaGViN3hqTmJmNnJB?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d2911544d0",
+    "title": "\"Calm down everybody\" Former Rockstar director says recent GTA 6 leaks are just a \"tiny blip\" ahead of launch",
+    "reportedAt": "2026-08-24T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZGY0LTg2ZDJjbG8yQThBR2x1YnJzbEtqRWZGb09oTl84VDNhY3lOSjZFakJMV2RfX2FaclBzanQxLXA0UER4bkNubHVIRWlIYTdMWlVtRktPaVF0SXBVUXBxR09SSEo2S1hFd09WWTJjWEsyMXRKODhvR0w1MzJ4TlluUTRkSHRKZ2dfVEVXUzhBVkJNOEgxdFU1bVpvZ0dUS2dYSDJ5bVktNVRndDgtQm15N2V2cWhXX19zMTFkTENzVmczTHdSQVB0OWJKVVE0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-01d5fe450f",
+    "title": "GTA 6 Leaks Have Hit Double Digits In Less Than A Week",
+    "reportedAt": "2026-08-23T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiekFVX3lxTE1PY2tEbmwtNVZ1djB5NU1PVTdibUtxQVU0RFAwNE95NTVNdUFURXFYQVFlTWk2WlZLN0RmOFRBU2NDWU9nb2hveldWM0xtcXZkeWtmU0dtaDZRdkloUmlBcTB1czkwdmtQX2dUUG1admxuaWlCYXE4VkN3?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8307b84b41",
+    "title": "GTA 6 CyberLeek Coin Crashes Nearly 60% After Major Lucia Leak",
+    "reportedAt": "2026-08-27T14:44:37.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiekFVX3lxTE1tMjRRN0hpQ05zbTQ3dkR2N1VPNmJQMnZBaGZKRlNFR2xCZml5cWEwT05RWWtHUGhzX1lmYnBjRFROa0hWMFpucmdiRGppLU5BNHNtck9yRGgxajE0RnNETVZKSnVzbnNQWXkyMUliamJyRl9pQ1ROcXF3?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-811b9938f0",
+    "title": "Who Is CyberLeek Behind GTA 6 Leaks",
+    "reportedAt": "2026-08-25T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMic0FVX3lxTFBTbTM2Q25oWUlVbFZmVUtJTUJ1QzJ3SE4ta2o4WWFhYzl2Ty1idk1VSGo1NDhRTWJwWGdxOTh5ck1yQm4xRTJZNm4yUDRDdktaVUV1OTFJVURVZDhiT0w0R1h4eFlBaXNhMVRsZFpZTy1MdE0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7e9b812449",
+    "title": "GTA 6 Prologue and Lucia Caminos Gameplay Leaked Online by Cyberleek",
+    "reportedAt": "2026-09-01T05:25:22.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiswFBVV95cUxQa3JybG56cmRwSG9JTGNjUnc2X05vWDFOOUZKcHFlX05tTWJpS0FKU3lNOWdxRzFCbWl5a21jSUNqdnA2M2VGYzZXN0VOcFl6SDRNZXZQdnF2d0tQNDB5aEdOYUhnMmNSNGV4b2xGc01WLTBjS3ByRmx3QXhfVHExNEZDMzRKNFlERklmTjAwLXZ1WU1FRTJEZEdZN20zVmtMTWtDZkd4S1FGYkZCVHZINFVxSdIBuAFBVV95cUxNSi03Nm1OTkVnbHlTMlVmaWtwQ0VsVWdtZnpNN0dvbXE5SFFrejI1YU56YVhRd3B5Q3ZINUJKdXJQOGdUQWJrT09CakVUY2FBNVVQbmJtVmNKWjMxXzRkX3NqVmVnbHg3cHp5Rk0tREhSS1pMX0NKdEs5V1AtRVROQzIzSFNVaFNUUEM1UEVnOF9tV2JrVE9RcUZjZGNHeGhPN1N6T1BlWFhVQWQtTjk0R0Zra0xRUHA1?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-ab01737884",
+    "title": "PSA: In the latest GTA 6 leak's aftermath, it's not a good idea to download files with names like totallylegitgta6leakedbuild.exe",
+    "reportedAt": "2026-08-21T02:31:41.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a99dbdfe71d426cb88bc06974258980&url=https%3a%2f%2fwww.msn.com%2fen-us%2fnews%2ftechnology%2fpsa-in-the-latest-gta-6-leaks-aftermath-its-not-a-good-idea-to-download-files-with-names-like-totallylegitgta6leakedbuildexe%2far-AA2aD8xy&c=218948107614777765&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
