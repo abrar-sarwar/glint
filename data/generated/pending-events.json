@@ -5326,5 +5326,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-69579c46f8",
+    "title": "Take Two (TTWO) Stock May Be Reasonable Following GTA 6 Leak Fallout",
+    "reportedAt": "2026-09-04T07:32:32.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSkZyZFg2SVhGc25vQUE2ckY2dEV2Uk0wOFdWVXJCSTktaWNoczRVcERITkdFTWVvOUtUbXBmZE1JQXJRVWpaU0V6X1RUaGNrZ29IY0w1MDVIcm1ZVmM4S1k0MUQ0NWVNOERiYVVnWlR1S2hWeWJyckVKcG1OVGNmVWpMWkpiLU91bVR4aFhzRFlNODZ3VkVoQmp0QmFxZGVGX2dEWm9JZjF4ZFhERzdRRmZfZFZQR1p5ZFZaRjNULTh6ckZsZktyZmpURFFGNmtQdE5lODVoVDVoVlRNbHfSAeMBQVVfeXFMUE5IdFdnNEo5RThuYzJDbGZuWGlSVHdNM2dTWE9BYnc4WmRocU9zeU0yUGs3SEpyek5rWWJkUTd2ck1vNXFjMmVOUTRyRTBoSjRpMkVHQUJ3cHFUdkY0Ym5iNVRKM3FYaEU2RjItM1E0RG5RVmhueGpYX1JnN1RHMlp6Sko1ajFTUkRFcW1rTUZOU3NXOUFmMTBkQVVmc0JZVk9TRkdQdEhlUkM2SmRzT2VTSXlKUG1XanlFbUxYZGdnYWY1UGZSd1A1Q0c0VXZsWDdOVDhZZ2F1ZXVwVXNJTGs3bjA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-a920725f39",
+    "title": "Miami-Dade police outraged by proposals to turn parts of Miami into GTA 6, saying that Rockstar's game embodies what they \"work every single day to prevent\"",
+    "reportedAt": "2026-09-04T08:55:01.000Z",
+    "category": "investigation",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMikwJBVV95cUxPM1lmZ09zU3V6QmU2bzV6RHA3QlFkNV9VUkJncGEtTXFTN2loLTJQcUNhWjFoaGNCTUt2VDU0eFBvZ2V4Tm4zNlRoSnh0cUQ4UXphVjkwZWNoV3poQ1hWTlpSSkVsUlVpSkx2dk1fdlNfWTNCOW5OMEpMWFVJcWgySzZWTXkxRzNmQTVKc2JXZlR3akgyTkoycGNmd09SbW5iNFMwWGloOGM0ckNwMDducmw1ZzRyalZYX0ZhdjZndEJQY2lXRlhGZ19zNDJqUm9aMzJVSEs4MXpWMGcxRnd1WUU0M1IyLWZ3TXNDMVE2MGdDUDl5RV9Xa2F0WVhPazZ2UnBibW5ORWUxcGtCdWxnZ1l1RQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

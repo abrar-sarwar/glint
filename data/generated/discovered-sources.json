@@ -17705,5 +17705,116 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-523fcb54ef",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mZE9rMUtEdEpXei13cjN1WHVnTkplR2hQSTVNNFVteXNaUldaLWx3Yks1QUJNSkVoYWRtVFBsYnFxZWxvZ1pELVlRMXF3eEVnVE5sRXhlcm5BUDNSWU1CbkgzY25lSEtpelJ3OGZGQTFhOUczclE?oc=5",
+    "title": "Cyberleek Crypto Crashed 60%: Why It Happened & What Comes Next",
+    "publisher": "Bleap",
+    "publishedAt": "2026-08-30T21:28:07.000Z",
+    "discoveredAt": "2026-09-04T10:54:56.229Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-69579c46f8",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNSkZyZFg2SVhGc25vQUE2ckY2dEV2Uk0wOFdWVXJCSTktaWNoczRVcERITkdFTWVvOUtUbXBmZE1JQXJRVWpaU0V6X1RUaGNrZ29IY0w1MDVIcm1ZVmM4S1k0MUQ0NWVNOERiYVVnWlR1S2hWeWJyckVKcG1OVGNmVWpMWkpiLU91bVR4aFhzRFlNODZ3VkVoQmp0QmFxZGVGX2dEWm9JZjF4ZFhERzdRRmZfZFZQR1p5ZFZaRjNULTh6ckZsZktyZmpURFFGNmtQdE5lODVoVDVoVlRNbHfSAeMBQVVfeXFMUE5IdFdnNEo5RThuYzJDbGZuWGlSVHdNM2dTWE9BYnc4WmRocU9zeU0yUGs3SEpyek5rWWJkUTd2ck1vNXFjMmVOUTRyRTBoSjRpMkVHQUJ3cHFUdkY0Ym5iNVRKM3FYaEU2RjItM1E0RG5RVmhueGpYX1JnN1RHMlp6Sko1ajFTUkRFcW1rTUZOU3NXOUFmMTBkQVVmc0JZVk9TRkdQdEhlUkM2SmRzT2VTSXlKUG1XanlFbUxYZGdnYWY1UGZSd1A1Q0c0VXZsWDdOVDhZZ2F1ZXVwVXNJTGs3bjA?oc=5",
+    "title": "Take Two (TTWO) Stock May Be Reasonable Following GTA 6 Leak Fallout",
+    "publisher": "simplywall.st",
+    "publishedAt": "2026-09-04T07:32:32.000Z",
+    "discoveredAt": "2026-09-04T10:54:56.229Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-025"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-ba894f1e3a",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTm9KWXBMeXNkWmsxc2pQSmV4YXJkQ3lhNlNkTmZCd0FXSEdKUmFGaGlYb2xiQzdpVWdkUXNLQVJ5WlpMQmU1T1hpdmdVbmhlZldLam5JX1VpaHJxdG83cUphOUNEM0RyVGFFSG0yV2E2UVJCVWVEdzhMZjJabHQ1aWlKWmNhVlFvVS0xa3RuZlNIZw?oc=5",
+    "title": "The $85 GTA VI PS5 Controller Is the Only Thing You’ll Actually Own at Launch",
+    "publisher": "Martin Cid Magazine",
+    "publishedAt": "2026-09-04T08:42:45.000Z",
+    "discoveredAt": "2026-09-04T10:54:56.229Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a920725f39",
+    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPM1lmZ09zU3V6QmU2bzV6RHA3QlFkNV9VUkJncGEtTXFTN2loLTJQcUNhWjFoaGNCTUt2VDU0eFBvZ2V4Tm4zNlRoSnh0cUQ4UXphVjkwZWNoV3poQ1hWTlpSSkVsUlVpSkx2dk1fdlNfWTNCOW5OMEpMWFVJcWgySzZWTXkxRzNmQTVKc2JXZlR3akgyTkoycGNmd09SbW5iNFMwWGloOGM0ckNwMDducmw1ZzRyalZYX0ZhdjZndEJQY2lXRlhGZ19zNDJqUm9aMzJVSEs4MXpWMGcxRnd1WUU0M1IyLWZ3TXNDMVE2MGdDUDl5RV9Xa2F0WVhPazZ2UnBibW5ORWUxcGtCdWxnZ1l1RQ?oc=5",
+    "title": "Miami-Dade police outraged by proposals to turn parts of Miami into GTA 6, saying that Rockstar's game embodies what they \"work every single day to prevent\"",
+    "publisher": "Rock Paper Shotgun",
+    "publishedAt": "2026-09-04T08:55:01.000Z",
+    "discoveredAt": "2026-09-04T10:54:56.229Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "investigation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-17a7a7834d",
+    "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQZkpQaWNqWWdQOEItdnV4SjN1dU9TVUNTb1hzZVV3UnpqbnU1ZDZkUEhBbk5sYVhwdzNLZUJmdW5yWDlkcTFXd0U4RzhTRWNwTDJKa1NuUmRoYVZPcm5idDhWLXFKQ3U5YVBLR19kVjNWZi1pdklocC14a3B0Nm4zdWRTLVZqMTBYNWxHbjJyeG8tSlNoSU9lb0o4Vl9jaFRocG9jYkNHVUdveHNyd2tMSE04RVhELWRFeVJYOWJISUx4akNTUXcxcFpXNnJISHZnWXI2TUdvakk1RkUxckdlMTJFOWZrNHl1QWF5a1F4REIxOGJWRFNLcTJ0Wm8yV1NESTNzRXNZbXJGcHFfT2swZ1oxZWFaSVZIYjRRbmk2emN4bXlQeTVB0gGsAkFVX3lxTFBxaFNrTWJaUkVDTDhWRU82bVhVMDB0eTFWd204cWVqbHpOWkd0aEZ3Z0hYa0lUQ05sbUNfLTBBbi1SQWpBN3NQMU9FUnFGUUNrcWd4NzZZYjEteGxIblhsaDc4eTA4VnQzZkpoNThVLUlDTFlMQVhGWEp3cmhreno1YmhTNnYxbHNta1BCSGpsMl9fZ0xIaTA0N3ZXTFpsLWJfODlxQUJUTklHVTBxcmJ6RnNmNGtPV3hLb3VBamtrZ0NoUHFwaGtaY29PTk1IWGkwT052dDBFenhWODZSZ2llNGFDN1h2M3VpYm10c1BmOFgtRkFDN0FwQ1pvRFdlTG82d2ZiZDl6cXBqRUpKby1BbWxhWk56SEtmMmlsT0otM3hMd1dYajhYUXp3Yg?oc=5",
+    "title": "CyberLeek threatens to leak GTA 6 Lucia’s story with bizarre demand for 10 fans to dress as leeks outside Rockstar offices: ‘This is madness’",
+    "publisher": "Indiatimes",
+    "publishedAt": "2026-08-24T18:54:50.000Z",
+    "discoveredAt": "2026-09-04T10:54:56.229Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-022",
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-007"
+    }
   }
 ]

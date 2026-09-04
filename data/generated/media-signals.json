@@ -1382,5 +1382,29 @@
     "domains": [
       "beebom.com"
     ]
+  },
+  {
+    "date": "2026-09-04",
+    "feed": "google-news:CyberLeek",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "feed": "google-news:GTA VI leak",
+    "count": 3,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-09-04",
+    "feed": "google-news:CyberLeek arrest",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
   }
 ]
