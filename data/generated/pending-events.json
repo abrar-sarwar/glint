@@ -5350,5 +5350,77 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-1333a2a536",
+    "title": "Who Is CyberLeek? Inside the GTA 6 Leaks, Crypto Coin & Investigation",
+    "reportedAt": "2026-08-23T07:00:00.000Z",
+    "category": "investigation",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMia0FVX3lxTE5FY3RXN2VwdUtrejBVVzJOR1hEUDY5M1NjNkFYWVVHX0twLUhHRGRtWEE5MjZ2blBXOGRJQm5UUkpaaTJoVUw4MXlOS3AxUi1ENXFMV3lHdF9BZzZlOFVqSXowUU4wdnhkQ3I0?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-7b3c3fe940",
+    "title": "GTA 6 Anti-Leak Blueprint: 3 Rules, 90 Videos [2026]",
+    "reportedAt": "2026-09-04T12:50:41.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMidkFVX3lxTFBzWEtIZXVoak5IaWwzZ1BScHFhcEVpVXJwSlAtSFhzVVh2dGlZbnZTemptbHhkVkpDN2pEUDRncXRBUWgtRzZ2NWRsQjVVT1VvSTl3N3ZBdW5aMEtZWnpyZ1JCNDQ1LTVyZWFfXzh4M0F3NFNkZlE?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-b9a4848890",
+    "title": "SpaceX AI Weaponized, 153K Driver's Licenses Leaked, and GTA 6 Subpoenas: This Week's Security Scandals",
+    "reportedAt": "2026-09-04T13:00:00.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPM2NiZzVqeTFQVnlIUnpVQWNaTXlBdjRIdGo4NlI4a1FoQXlKZTNzSTFuRTItNzRGekJia0FBWm1Ed0c4ZDFtSXhnQW5aMkgyY1Y5UnYxUUxLT1UxSDhMclNEREhkUVFMTXdfbklnazh3MHZia1NCUlpTRFFBNkVja2lpRWdDWm85RDZFdnNPSzhIRDdvckZmNExQcDZUTlhMYi1sal9XX0phWEJBVmxDeVJCMDJUVUoxRWVZR014LWVTS2FkbVRIS2hWOFR4NU9B?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-e224250e08",
+    "title": "French store leaks GTA 6 Switch 2 port and PS5 and Xbox Collector's Editions",
+    "reportedAt": "2026-09-04T13:58:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZ012OEVNUERPZ3VFUjMtTnVFSUVKb0o1XzJQNFhZX05kb2lWTDdpM0c0NW1Zb2pvRGlULTBUWnN6NmVGeUU4ekcyY21WR0FtVWpuNG1UczJ6aUl2WUJXaEVjQzJvSmtwXzYwVlhKclFXTTJKUDFrcmlXa2N2TlUxYWFNNjdxZnpFdnUzUVpIUkR6NmR3SjlsYnZYSElaQW42UWsybkFxbU1KQ1h4S3lLZmdqRUNMQ3dCOU15MjRR?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-529512bb04",
+    "title": "GTA 6 Leaks: Take-Two Subpoenas Discord for Thousands of Users' Data",
+    "reportedAt": "2026-09-04T15:30:00.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiekFVX3lxTE80OEQwY2ZZTXNXSmVFYnQyaG1OQVoyLXRVckVQT3Btclk5U2JsMTctWW1uNDNtR2tjUlRZU0NHdnV3RWFjRkFNVUR5akM5Ni1RcFZpYUVOY2tKV3VQUUxLUEVycy1raFRmMEtLLTlRTzBXaFpsYnl2UmFn?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-99af957c60",
+    "title": "GTA 6 Leaks: How Rockstar Responded to CyberLeek",
+    "reportedAt": "2026-08-24T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiekFVX3lxTE5sRkdRYVZVOWpGbXkyMVRtQjF2aU5qWk1iS0xQU1FMRHpMWTQtN3VEM2JKSWQyb01GbkdKU181dEJNVEEwb3pTUDhNNldjN1RxTWpBWnRvZHVlV0NsVS1pT3FNeXd1aUZ2ZERGMl9rYW1uemRZOVpKNS1B?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
