@@ -17635,5 +17635,75 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-95fd98d84e",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZlUyRXFqbmUzQVJJZVE5b3pKR1hRdjkzdmFJS2hQNWFKWmRTclAxSDVETV9SbEFYQVdGSTZmMTJaTXhzRTFPTEpTVm9fcXNuN1FGODVBeVRSeElzd2xwMGFVLXBLZnpkR0xHUzBsNnpLQmZYZmtuakFjU09NUWNXdDlLQ3VHRkhLWHd4OW9lVQ?oc=5",
+    "title": "10 new mechanics confirmed in GTA 6’s latest leak as Rockstar held to ransom",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-08-19T07:00:00.000Z",
+    "discoveredAt": "2026-09-04T03:40:19.809Z",
+    "feed": "google-news",
+    "query": "CyberLeek dead man switch",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-022"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-34e28cb054",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9a3da9e6534eb1b89969082b0b3afe&url=https%3a%2f%2fwww.polygon.com%2fgta-6-gameplay-leak-rockstar-games-netflix-august-2026%2f&c=8520212238636324911&mkt=en-us",
+    "title": "GTA 6 gets another gameplay leak ahead of Netflix's official reveal",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-18T10:45:00.000Z",
+    "discoveredAt": "2026-09-04T03:40:19.809Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Netflix"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c3a4d65ed2",
+    "url": "https://beebom.com/take-two-is-going-after-gta-6-leakers-with-two-people-already-identified/",
+    "title": "Take-Two Is Going After GTA 6 Leakers, with Two People Already Identified",
+    "publisher": "beebom.com",
+    "publishedAt": "2026-09-02T17:00:00.000Z",
+    "discoveredAt": "2026-09-04T03:40:19.809Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-023",
+        "LEEK-CLM-016"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

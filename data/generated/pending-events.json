@@ -5290,5 +5290,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-95fd98d84e",
+    "title": "10 new mechanics confirmed in GTA 6’s latest leak as Rockstar held to ransom",
+    "reportedAt": "2026-08-19T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZlUyRXFqbmUzQVJJZVE5b3pKR1hRdjkzdmFJS2hQNWFKWmRTclAxSDVETV9SbEFYQVdGSTZmMTJaTXhzRTFPTEpTVm9fcXNuN1FGODVBeVRSeElzd2xwMGFVLXBLZnpkR0xHUzBsNnpLQmZYZmtuakFjU09NUWNXdDlLQ3VHRkhLWHd4OW9lVQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-34e28cb054",
+    "title": "GTA 6 gets another gameplay leak ahead of Netflix's official reveal",
+    "reportedAt": "2026-08-18T10:45:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9a3da9e6534eb1b89969082b0b3afe&url=https%3a%2f%2fwww.polygon.com%2fgta-6-gameplay-leak-rockstar-games-netflix-august-2026%2f&c=8520212238636324911&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c3a4d65ed2",
+    "title": "Take-Two Is Going After GTA 6 Leakers, with Two People Already Identified",
+    "reportedAt": "2026-09-02T17:00:00.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://beebom.com/take-two-is-going-after-gta-6-leakers-with-two-people-already-identified/"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
