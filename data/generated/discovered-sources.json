@@ -18012,5 +18012,110 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-e6dea1a418",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOa2hDMlpFZHQwYlJRODFBRnVhWmNMaUZJWndndGszWlMwMTloVkZPZzNoTE5Eblo0OWJLTEdvLTBJLVNEQjhzV2cxdkZqZTNKQnJTXzZpdHFTMDM5ZEdmUUFQc2dDZ3BETk1rOU5nNGxiZEsyRHhJVF9sV0xKeExyZGJoS21WN0E?oc=5",
+    "title": "CYBERLEEK $0.0019 | Live CYBERLEEK Price Chart Today, Swap on USDT | MEXC",
+    "publisher": "MEXC",
+    "publishedAt": "2026-09-04T04:13:25.000Z",
+    "discoveredAt": "2026-09-05T03:37:47.456Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-2dc2ba86d8",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wbV9jTTZLOU5hNk9yNk9tSGx6UG5hZWdNcm1wWWRmU1loaXRtN2ljUkNCeWdZRTZTOTN5NHRfQWZKOEJwT2JQRXp0dFRaNE1LNGVjQUpJdXduYnNzQUlaemhrSlJ3YUxCSTlUeTVFZWx1V0g0bkhVcEZtQm4?oc=5",
+    "title": "Did CyberLeek Really Make $25M From GTA 6 Leaks? The Money Trail Explained",
+    "publisher": "Bleap",
+    "publishedAt": "2026-08-25T07:00:00.000Z",
+    "discoveredAt": "2026-09-05T03:37:47.456Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a4efd44091",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5xMmpaZElRZjY3MVktRlhHRFMzeXlORkRpQ1ljWmZQakljTFZxNlNZY3F1TkU2WjJLeGdhYzhxSEx5TWNSbmlNLTVEeTV2NDFPMlM2X2ZSd2U2cnV6eXVmZ3Z4SEE3dWZ4ZEsxWEJaX19CNzZp?oc=5",
+    "title": "How Long Could CyberLeek Go to Prison If Caught?",
+    "publisher": "Bleap",
+    "publishedAt": "2026-08-25T07:00:00.000Z",
+    "discoveredAt": "2026-09-05T03:37:47.456Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-da27f5a3bf",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFIwSkdJdzBfSlVCSkN1RXc1RkNMd2tlNkU5T0U1MlF1YmVjQ2hoNkh4ekp3TlBwR3FYVzdnT1h1VG11dEE1SkhnTl81WEY0TWstbjNGMDloVkFtVEZKOFlCWDlRWnlDM05rV2hnY2FheUVoeXBDd3llYmh6aEN0aVRBaEZjckZXUkJTSE1OSERFekRyaHNPYlVvalZRT1BobUhjTGYtQ3VQdHhwbWJCbUdIdjcxRUtUaDlUV2Fxaw?oc=5",
+    "title": "Leak hints at rushed GTA 6 PC release date because of high PS5 console prices",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-09-04T16:13:00.000Z",
+    "discoveredAt": "2026-09-05T03:37:47.456Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-014b04c879",
+    "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPXzdhdEdQQlMwYnJoR0psYTB3dk1nempQcGh5LUp2SEc2UEozMUNaRHV5NzdXYzN5Mmo1SVVfRlB1WkJqQUFGazdEWVZmc3FWaDktbm1qTDdLbmNJN3VxUGVFTUQwY3VGWEdKa1RZLTBWQVNUU1ZwQ1JCQk5PRGEyRWpldDJjRVJUa2dVbE5qbGhfZVBBUHpmZGtncjZuZzk4dGpLZ0lNNDQyT21POXZHbDNydDhIdHMtd1dfWEdWb28xQktKMFVtUDh2MWJtaXJMNGxfOXY0bnlCaFRyY2xaUkpYMG9GSnBPT0h4VDFKOFJ4eFlDWi1Ma0hBUENtczAzOXB4XzZTYkdNNDlyODctNkVibDZGbi1wbHJzLTBMTmhMc0lZekE0TjNnZ3JrT1g1aXc?oc=5",
+    "title": "GTA 6 leaks prompt Take-Two to subpoena Microsoft for…",
+    "publisher": "inkl",
+    "publishedAt": "2026-08-22T11:00:00.000Z",
+    "discoveredAt": "2026-09-05T03:37:47.456Z",
+    "feed": "google-news",
+    "query": "CyberLeek Microsoft",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Take-Two Interactive",
+        "Microsoft / GitHub"
+      ],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-019"
+    }
   }
 ]

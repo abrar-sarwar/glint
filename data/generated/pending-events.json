@@ -5422,5 +5422,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-2dc2ba86d8",
+    "title": "Did CyberLeek Really Make $25M From GTA 6 Leaks? The Money Trail Explained",
+    "reportedAt": "2026-08-25T07:00:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMifEFVX3lxTE4wbV9jTTZLOU5hNk9yNk9tSGx6UG5hZWdNcm1wWWRmU1loaXRtN2ljUkNCeWdZRTZTOTN5NHRfQWZKOEJwT2JQRXp0dFRaNE1LNGVjQUpJdXduYnNzQUlaemhrSlJ3YUxCSTlUeTVFZWx1V0g0bkhVcEZtQm4?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-da27f5a3bf",
+    "title": "Leak hints at rushed GTA 6 PC release date because of high PS5 console prices",
+    "reportedAt": "2026-09-04T16:13:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMivwFBVV95cUxOVFIwSkdJdzBfSlVCSkN1RXc1RkNMd2tlNkU5T0U1MlF1YmVjQ2hoNkh4ekp3TlBwR3FYVzdnT1h1VG11dEE1SkhnTl81WEY0TWstbjNGMDloVkFtVEZKOFlCWDlRWnlDM05rV2hnY2FheUVoeXBDd3llYmh6aEN0aVRBaEZjckZXUkJTSE1OSERFekRyaHNPYlVvalZRT1BobUhjTGYtQ3VQdHhwbWJCbUdIdjcxRUtUaDlUV2Fxaw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
