@@ -5446,5 +5446,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-4d371250ff",
+    "title": "GTA 6 Leaker CyberLeek: How much money did he actually make from the leaks?",
+    "reportedAt": "2026-09-05T09:43:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWHAzZFozcmJwZjlmSTloekFNRU1LanZvVUNPT0hNdTNLSjdUN2dpanFuR2otY0JaTVdBaUlwR2otQk5rRFJ1ckJpMzVXSGZ1X1hUMUpoeGgyYUwtc19MNmZPUThLVVA3Tjd1V0w5X1ZjS0ItbXJZMnJMQXpweTVRNzI0LTVmaFNtb2FEUUJBMkNoQ0t6WF9TLWVncEQzalNxZXlnRmtKUlZZUzRXZlJ0ajhFd01JcXNMWi1Ja2RfMWtJM3dhQjVHU0h0UnpiZGRLRmQ5X0dfRDBYeWJhSVlPYjNfRFNrSzlaaVHSAe8BQVVfeXFMUDVkSEUydWo1REJnWWpzMUFUNEtOQ2ZiY1NDOC1OemYxeDFFUmpaSGF3QlVzTFhVWmthb0lKcy1EUVFuQU52bjd5OHFuS05BZ1VDM1dIb3JDbV9VSWhJaUZ2MHdBUUVDT0drd2ZtOGF3b1JVVW93SE1mc1ZwRTBKMVJEWjE1NHBFNnNURlVGTXVkQURPOWlfMEdFUk94LUtrdjRydFdlakdkMkY5WWNfVThFRzMxMm9PYzlBVFlRUWRsbzRJV193X1hIcE4yZXQyX2F1STkwVnVTeWJwRVViWWtGejNOaURiMHBxNkVNbHM?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-5cb80c47cc",
+    "title": "Cyberleek Leaks GTA 6’s Lucia Prologue: 4.5 Min [2026]",
+    "reportedAt": "2026-08-30T22:26:19.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CUUNuYzJxS2JtMjdtY2RoU1AzT0RoSTlmMGhGRDR1NGNSbzVlUHZ5WVNkaUQwcGRXRFJfa1QzNEw2SnBpZDZZaTFicVFRUTF5QjU1SXlvV29NZFpDREdVNHRBcVdXVmllY2U0UFAzdw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

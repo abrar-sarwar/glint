@@ -18117,5 +18117,69 @@
       "model": "rules-only",
       "matchedEventId": "LEEK-EVT-019"
     }
+  },
+  {
+    "id": "DISC-4d371250ff",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWHAzZFozcmJwZjlmSTloekFNRU1LanZvVUNPT0hNdTNLSjdUN2dpanFuR2otY0JaTVdBaUlwR2otQk5rRFJ1ckJpMzVXSGZ1X1hUMUpoeGgyYUwtc19MNmZPUThLVVA3Tjd1V0w5X1ZjS0ItbXJZMnJMQXpweTVRNzI0LTVmaFNtb2FEUUJBMkNoQ0t6WF9TLWVncEQzalNxZXlnRmtKUlZZUzRXZlJ0ajhFd01JcXNMWi1Ja2RfMWtJM3dhQjVHU0h0UnpiZGRLRmQ5X0dfRDBYeWJhSVlPYjNfRFNrSzlaaVHSAe8BQVVfeXFMUDVkSEUydWo1REJnWWpzMUFUNEtOQ2ZiY1NDOC1OemYxeDFFUmpaSGF3QlVzTFhVWmthb0lKcy1EUVFuQU52bjd5OHFuS05BZ1VDM1dIb3JDbV9VSWhJaUZ2MHdBUUVDT0drd2ZtOGF3b1JVVW93SE1mc1ZwRTBKMVJEWjE1NHBFNnNURlVGTXVkQURPOWlfMEdFUk94LUtrdjRydFdlakdkMkY5WWNfVThFRzMxMm9PYzlBVFlRUWRsbzRJV193X1hIcE4yZXQyX2F1STkwVnVTeWJwRVViWWtGejNOaURiMHBxNkVNbHM?oc=5",
+    "title": "GTA 6 Leaker CyberLeek: How much money did he actually make from the leaks?",
+    "publisher": "The Times of India",
+    "publishedAt": "2026-09-05T09:43:00.000Z",
+    "discoveredAt": "2026-09-05T10:13:06.789Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-a6d9ba9916",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVG9oay1IRzVLY3AyZHMxVmlQYmd2OTVXNmlZakphTWVhTS1XU09HYTlkNHM4dzBMRGVkSkVxNkJpNHdjVUsyS09WTi1VQmVwTmZJN1d6TjFkVWN1QmpBdUNPMlp5YTRXV2s0ZXpIaUxPNmszVDQ3QlQ0U3JMOV9HMTRZaEhyNDdZbFMyVi02RQ?oc=5",
+    "title": "CYBERLEEK $0.0{4}1689 | Live CYBERLEEK Price Chart Today, Swap on USDT | MEXC",
+    "publisher": "MEXC",
+    "publishedAt": "2026-09-04T23:34:47.000Z",
+    "discoveredAt": "2026-09-05T10:13:06.789Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-5cb80c47cc",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CUUNuYzJxS2JtMjdtY2RoU1AzT0RoSTlmMGhGRDR1NGNSbzVlUHZ5WVNkaUQwcGRXRFJfa1QzNEw2SnBpZDZZaTFicVFRUTF5QjU1SXlvV29NZFpDREdVNHRBcVdXVmllY2U0UFAzdw?oc=5",
+    "title": "Cyberleek Leaks GTA 6’s Lucia Prologue: 4.5 Min [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-08-30T22:26:19.000Z",
+    "discoveredAt": "2026-09-05T10:13:06.789Z",
+    "feed": "google-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
