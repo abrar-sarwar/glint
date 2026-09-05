@@ -5470,5 +5470,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-5f1d60ce94",
+    "title": "Leaked PlayStation 5 Pro Enhanced tag requirements point to GTA 6 running at 4K 30FPS",
+    "reportedAt": "2026-09-05T12:23:13.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS1paT0ctX2drTkZGaEtaU2VEMl92R0RvZU1ObUw4d3c3NHB6N1Rad09MX2U2elZMY1VleEx0cjAwaGZhak80MC1EVGVqQmhPUnpwcUZKVlZCSWg3bmk4T0kzM1ZWSV81U0NxMnV0SWRjVlBCSHloRXNlX2Fxd1E2Mk8zenVfZ3BubUpGNEVsTmx1MFFva1M1MVIzTE02cGp5cVVoM2FyLUY0djFBa21NYUZfbUVXS0Z1ZTdDRGFRSms4azRWbTNFS3h5d0dIams?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

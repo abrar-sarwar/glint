@@ -18181,5 +18181,24 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-5f1d60ce94",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPS1paT0ctX2drTkZGaEtaU2VEMl92R0RvZU1ObUw4d3c3NHB6N1Rad09MX2U2elZMY1VleEx0cjAwaGZhak80MC1EVGVqQmhPUnpwcUZKVlZCSWg3bmk4T0kzM1ZWSV81U0NxMnV0SWRjVlBCSHloRXNlX2Fxd1E2Mk8zenVfZ3BubUpGNEVsTmx1MFFva1M1MVIzTE02cGp5cVVoM2FyLUY0djFBa21NYUZfbUVXS0Z1ZTdDRGFRSms4azRWbTNFS3h5d0dIams?oc=5",
+    "title": "Leaked PlayStation 5 Pro Enhanced tag requirements point to GTA 6 running at 4K 30FPS",
+    "publisher": "tweaktown.com",
+    "publishedAt": "2026-09-05T12:23:13.000Z",
+    "discoveredAt": "2026-09-05T14:50:18.609Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
