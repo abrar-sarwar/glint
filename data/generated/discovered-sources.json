@@ -18200,5 +18200,23 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-d469589381",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX3pnamMydm9KN1BUUjBMZ1RlRGNBaXF4TjE2aVBMS2tLSThCMVVZT3ZRdXBuYjBaTXBNUjdFRy1LV29LWUZwa1pLV0lyZzk3SUtDRjhUZzBFQmxCdFFlNnB1cV9BcjZFQWtBTzlLZGpzQm5BZzlVM2FMX0lfSE9aMlVGVXppdw?oc=5",
+    "title": "GTA 6 looks drastically different depending on where you live",
+    "publisher": "gamingbible.com",
+    "publishedAt": "2026-09-05T15:00:00.000Z",
+    "discoveredAt": "2026-09-05T20:06:12.657Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
