@@ -18282,5 +18282,66 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-3b58382e42",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNLWRKY0otWW1Yd0xjRVdDY05pQWp2VDl2cDJ0bEJoYkYwcmpDNVMzNHpuUmN4YWhXZGlpbHNaUzVsUjdwOTJjd2RyQnZlN1lUT3FDLTVYRjJxOFhJY0Y4X25aWU8tMjNzZno5dHg0VzBBYmM2S19VM0VpRDdhNENtY1pNTElWS2hzLWpkT3ZnOTktVDJVeno1MHExYkk3Nm1GWDdwUFROc1JLdWJ6TE1vUzFZOHF1UFFjU3c4?oc=5",
+    "title": "PlayStation Plus free game is a GTA 6 rival 'way ahead of its time'",
+    "publisher": "GAMINGbible",
+    "publishedAt": "2026-09-06T07:00:00.000Z",
+    "discoveredAt": "2026-09-06T10:33:33.126Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-d186ae7622",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT2pIbUFyeG1hRWtSV1huNHB1bGE4MlZyQUhwMjl6RHRMNW40dFEzOTVmVHAtN2dWaXUwSEMwWGR1cXJ3aHNVcHZSQzVud2RzVVljN09yZC1LR1RtZWFnanFjaS1IbUFNeTEtQ3lnMDFlTFIyLVR6ODI4TXBSOXd0ZXd0VUpyX1pkeS1RQi11bUl3cXVZMmJITHN2a0dndWgybmJjQmtlSQ?oc=5",
+    "title": "GTA 6 Leaker CyberLeek: How Much Money Did He Make From the Leaks?",
+    "publisher": "ascendants.in",
+    "publishedAt": "2026-09-06T05:14:28.000Z",
+    "discoveredAt": "2026-09-06T10:33:33.126Z",
+    "feed": "google-news",
+    "query": "CyberLeek $CYBERLEEK",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7c418f9cb7",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9d41818faf4c109ce4d230dfb293f6&url=https%3a%2f%2fgamerant.com%2fgta-6-lucia-story-prologue-leaks%2f&c=9439464695134267774&mkt=en-us",
+    "title": "GTA 6 Lucia Story Prologue Leaked Online",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-26T09:07:00.000Z",
+    "discoveredAt": "2026-09-06T10:33:33.126Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-029"
+      ],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-054"
+    }
   }
 ]

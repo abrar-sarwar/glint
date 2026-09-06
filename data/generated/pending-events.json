@@ -5494,5 +5494,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-d186ae7622",
+    "title": "GTA 6 Leaker CyberLeek: How Much Money Did He Make From the Leaks?",
+    "reportedAt": "2026-09-06T05:14:28.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMipwFBVV95cUxPT2pIbUFyeG1hRWtSV1huNHB1bGE4MlZyQUhwMjl6RHRMNW40dFEzOTVmVHAtN2dWaXUwSEMwWGR1cXJ3aHNVcHZSQzVud2RzVVljN09yZC1LR1RtZWFnanFjaS1IbUFNeTEtQ3lnMDFlTFIyLVR6ODI4TXBSOXd0ZXd0VUpyX1pkeS1RQi11bUl3cXVZMmJITHN2a0dndWgybmJjQmtlSQ?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
