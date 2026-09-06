@@ -18218,5 +18218,69 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-e35ebb04e7",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOR2hXRVU1M1g2LWVyR1gtclE2Y0lva2VGeE1LU2RYUHpnSWtBaDFXNVlUbHkyLUlSZ09NYVYtdW81ZnMtb2ptdGJVVmU5QmFmNDJ3YnZLUDlvMERhQWg0TkRJVzU3azFocDdIaDNIYzhYb2oyUGVKdjVSRzFBWG8zbThlX2c0UGgxTkE?oc=5",
+    "title": "GTA 6 LIVE: The staggering numbers behind the extended look",
+    "publisher": "Indy100",
+    "publishedAt": "2026-09-03T07:00:00.000Z",
+    "discoveredAt": "2026-09-06T03:39:32.973Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c77997ad76",
+    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxONDdBZlZNdkFWMTJaWTBfa3NTVmwwNXNNa1dZNkt4NWNmMXJmVjdvZWc2LXBRV3pjVXFYY1B1d2MzbHJfbjRBemZqMGF6blo0ckdkTEtjVTdpdUdkdFgxVzFKa0JQNXB2VHVhQUNjSGdOZ2NfZXU2cVJ0NFdSa1hxYkJuZkhlT0FkdU1jbzJZMExkV1p0Ykg2dmZUeUFsVTlYdVhibG5SeG56UUJOa1ZnN1ZZbWdUUnFRWUIzR01pQmFFU0NMd1dHaHIxNWpkaHQ2c1RlYjdRX2RTOFJYZTZFdHBjbHpyZ3E0NlZyRmRnRWRKOFVsa0paT1BJQ1RZQUZaRE1YTUF3V2hLWEtMbFFUSXloaVJ6MTdNTVhORg?oc=5",
+    "title": "GTA 6 leaker cashes out in $250,000 crypto rug pull…",
+    "publisher": "inkl",
+    "publishedAt": "2026-08-29T10:30:00.000Z",
+    "discoveredAt": "2026-09-06T03:39:32.973Z",
+    "feed": "google-news",
+    "query": "CyberLeek $CYBERLEEK",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e6db3ed9a6",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9ce079b46b4ce7841245c12b848969&url=https%3a%2f%2fwww.msn.com%2fen-us%2fentertainment%2fgaming%2fgta-6-leaker-cyberleek-is-now-charging-a-165000-fee-for-a-chance-to-buy-ads-on-additional-leaks%2far-AA2aFWNJ&c=10652930126240601813&mkt=en-us",
+    "title": "GTA 6 leaker Cyberleek is now charging a $165,000 fee for a chance to buy ads on additional leaks",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-21T14:00:36.000Z",
+    "discoveredAt": "2026-09-06T03:39:32.973Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "Take-Two Interactive"
+      ],
+      "claims": [
+        "LEEK-CLM-022",
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

@@ -1,5 +1,5 @@
 {
-  "ranAt": "2026-09-05T20:06:12.657Z",
+  "ranAt": "2026-09-06T03:39:32.973Z",
   "feeds": [
     {
       "name": "google-news:CyberLeek",
@@ -34,12 +34,12 @@
     {
       "name": "google-news:CyberLeek Microsoft",
       "ok": true,
-      "items": 63
+      "items": 60
     },
     {
       "name": "google-news:CyberLeek Discord",
       "ok": true,
-      "items": 54
+      "items": 51
     },
     {
       "name": "google-news:CyberLeek subpoena",
@@ -49,12 +49,12 @@
     {
       "name": "google-news:CyberLeek dead man switch",
       "ok": true,
-      "items": 55
+      "items": 52
     },
     {
       "name": "google-news:CyberLeek arrest",
       "ok": true,
-      "items": 48
+      "items": 44
     },
     {
       "name": "google-news:CyberLeek $CYBERLEEK",
@@ -85,7 +85,7 @@
       "name": "gdelt",
       "ok": false,
       "items": 0,
-      "error": "Unexpected token 'P', \"Parenthese\"... is not valid JSON"
+      "error": "HTTP 429"
     },
     {
       "name": "courtlistener",
@@ -93,8 +93,8 @@
       "items": 20
     }
   ],
-  "discovered": 835,
-  "newSinceLastRun": 1,
-  "pending": 457,
+  "discovered": 838,
+  "newSinceLastRun": 3,
+  "pending": 458,
   "analysisMode": "rules-only"
 }
