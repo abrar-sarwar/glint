@@ -18343,5 +18343,62 @@
       "model": "rules-only",
       "matchedEventId": "LEEK-EVT-054"
     }
+  },
+  {
+    "id": "DISC-fde61e4f01",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1va0EzVmxMMjVhVVZMSmk4OTBYaUlFVXEyYWVNeG9DakpYaTJwSmQ3dXlzOFJ4MTJWQU1MZm85R01WT0ZFZVZ0dEctWldMbFhxbzlVNXhBTldvYm9sOHBhbF96R2NSR29tb1lkOWZnZw?oc=5",
+    "title": "Switch 2 Leak: Smash Bros, Nintendogs Hit 6 Outlets [2026]",
+    "publisher": "shattered.io",
+    "publishedAt": "2026-09-06T03:25:23.000Z",
+    "discoveredAt": "2026-09-06T15:09:56.505Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-726b218944",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPN09OTjhZS1NVS2EzRWlCd09mTXE0NTNZQ2M5ZFpmVFdOd2UyTVllN01SRUhGdTllNVFzaDdIN2NvNHBnRW1JYmhpZl9CZk52Q0gtVG9RWDZTbzBsSFNUcnJCc2FYUjAwYkxLS1R2ZDlJdWtraEVsX3R3b080a01zb3lpbFAzZ2d1Y3QxQjhBVW9mZw?oc=5",
+    "title": "PS5 Pro sells out over GTA 6 as scalpers hit a record $1,300",
+    "publisher": "Pasquale Pillitteri",
+    "publishedAt": "2026-09-06T11:49:14.000Z",
+    "discoveredAt": "2026-09-06T15:09:56.505Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-028"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c380eb21d3",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeEJ1bV9GbVpVQXFEbWdwMUFtOHdsUVFQTjNnalB1bXlxUmR1dllNMnBINUxhdUxOUHotN3BjQ3c2Zkp2cHlWMzZoWVJrQkl3Y09GS2dmVE82MXVrQUZIbWFFdE4ycFJjdW11emxueG00MlB1OTJCaXBxeE95Q0xQTE14QzNoNERicTNYWUxFU29nazA3ZVk3aGFDVVpRakhoRGY4MUpqLXl3VlNjdGxBbGlsekhYVEJIemt0YVdCR1NjS0dPMlVzV3hvbGtFNzRxMUJZ?oc=5",
+    "title": "GTA 6 PC release to come faster than most expect, and we can thank rising hardware prices",
+    "publisher": "TweakTown",
+    "publishedAt": "2026-09-05T12:49:10.000Z",
+    "discoveredAt": "2026-09-06T15:09:56.505Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
