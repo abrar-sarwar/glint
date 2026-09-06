@@ -18400,5 +18400,27 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-c1b1725e19",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSzJ4Q0ZiOGRfVkN4VDYyc3MxcnJHUXBGb19KMC14dVA2NGgyVEl0eVZRdnhLeF91VktPMFl6MGROQ0hFbGRsM3dLV3A5RE92WXR2Ny16Zkc4M0JPbG12SXlkNUVDYjZ5MzBiemVzM2pGYkhWbFVNWEdoVnpfcVV5S2ZNc3IzUUVVOUU0N3F4OWRMckpQY1ViclQzTVdkcHZvLURBRHRXLUdfRzhw?oc=5",
+    "title": "GTA 6 Extended Look Reportedly Led To Just 100,000+ Pre-Orders Worrying Wall Street",
+    "publisher": "rockstarintel.com",
+    "publishedAt": "2026-09-02T09:59:41.000Z",
+    "discoveredAt": "2026-09-06T20:10:26.722Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-014"
+      ],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
