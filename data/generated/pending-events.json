@@ -5542,5 +5542,17 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-dc9744c465",
+    "title": "GTA 6 PC release date leak hints at earlier launch window",
+    "reportedAt": "2026-09-07T17:57:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWFFLOUJpX2NzbDJPd3ktV1FNUWhFSVM4RmktTUoxOWEzYWZ6NFV6T19YQXh3Q3F0VFdESF9COHpWSHpSLXE3ck95VFg2MXlkbWxxU1IySTVYcGR2QXBSSExUZmtRbUhxVzMzdk1JNG05a29kOTA4WVMycXBiZml2MXYxU3JhN2phQVUtWmdLcnE4Z2hXbGtmdFpFMTdjQzQ0M3Exa0ptZnY3Y3ViNVJOV0pZS0UtSEJ1d3FBUll2Zm4yNVB6QWxuUkdDT0V5dHNRbHlYTdIB2gFBVV95cUxOcEp3M0RwUEY5eEZQa2JjLXlXMlZRMm4wcHlrcmtwWkNibmNDYW1laFp3WXZfNHNPd3ZTYjRuVVRmSjBmeFRWbkhyZ2xENnd2Mkl2a0hPQUk3Z0h5bDlhLTUtN0l4Y3k0UEhBNUppY1BwbHIxX0JzT0dIdmp3OFBVemRZZUpmVW5qcS1RQmpLQng5QUluclZDYWExQkg1OWVlZFNJNUl5MGQtRDdGcW1DaF9BaktnQWlyR1VDdkhVLVVQSVowb2E3OENvVGNDN1JyeGxGNEZsTC1Xdw?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]

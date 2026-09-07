@@ -18593,5 +18593,24 @@
       "model": "rules-only",
       "matchedEventId": "LEEK-EVT-035"
     }
+  },
+  {
+    "id": "DISC-dc9744c465",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWFFLOUJpX2NzbDJPd3ktV1FNUWhFSVM4RmktTUoxOWEzYWZ6NFV6T19YQXh3Q3F0VFdESF9COHpWSHpSLXE3ck95VFg2MXlkbWxxU1IySTVYcGR2QXBSSExUZmtRbUhxVzMzdk1JNG05a29kOTA4WVMycXBiZml2MXYxU3JhN2phQVUtWmdLcnE4Z2hXbGtmdFpFMTdjQzQ0M3Exa0ptZnY3Y3ViNVJOV0pZS0UtSEJ1d3FBUll2Zm4yNVB6QWxuUkdDT0V5dHNRbHlYTdIB2gFBVV95cUxOcEp3M0RwUEY5eEZQa2JjLXlXMlZRMm4wcHlrcmtwWkNibmNDYW1laFp3WXZfNHNPd3ZTYjRuVVRmSjBmeFRWbkhyZ2xENnd2Mkl2a0hPQUk3Z0h5bDlhLTUtN0l4Y3k0UEhBNUppY1BwbHIxX0JzT0dIdmp3OFBVemRZZUpmVW5qcS1RQmpLQng5QUluclZDYWExQkg1OWVlZFNJNUl5MGQtRDdGcW1DaF9BaktnQWlyR1VDdkhVLVVQSVowb2E3OENvVGNDN1JyeGxGNEZsTC1Xdw?oc=5",
+    "title": "GTA 6 PC release date leak hints at earlier launch window",
+    "publisher": "The Times of India",
+    "publishedAt": "2026-09-07T17:57:00.000Z",
+    "discoveredAt": "2026-09-07T21:17:52.341Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
