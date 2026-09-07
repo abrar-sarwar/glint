@@ -1574,5 +1574,21 @@
     "domains": [
       "news.google.com"
     ]
+  },
+  {
+    "date": "2026-09-07",
+    "feed": "google-news:CyberLeek arrest",
+    "count": 1,
+    "domains": [
+      "news.google.com"
+    ]
+  },
+  {
+    "date": "2026-09-07",
+    "feed": "bing-news:CyberLeek",
+    "count": 1,
+    "domains": [
+      "bing.com"
+    ]
   }
 ]

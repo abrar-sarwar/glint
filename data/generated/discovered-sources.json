@@ -18502,5 +18502,53 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-67d375536a",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOQm0xN0daeXBEMGhERHB6bWVtUndnMTdGMG1wSGlVdFh5WXN2d0RHRlpXbzFvamVtc0RqbkVTU1kwY3N2N193cDM5MWpjVlZianJiT2tmUVdOUWYwVF9TbDdFYnljRmRoRHV4MG5ja0lsVnF6NE5sbVltU1lmbjJLQlVKMjFadzBpeVpuRFp3ZzZxM2R4Q09VMlgzemZIZE8tYkRSOGlSYkwyME5aUzIzbE9CSEt1S2U5UE5SVDhlLVdGZHhIWXRHOVJWX1hETmxVekJNLV9jNnJNMnI1R0RMTmJCWnlSUVZK0gHuAUFVX3lxTE81cjZ2Wm5nVDk5aUFfU1FNeGZoUkNkdWdlTkhPcEhtaXRkOFBIT3pMR3Z4Ujh1b1FITjRuSEJ4YkZxZjNZemFnWHdSWE1Dd0htTUJhLWdPb3NwaXhhRzdRZ2FUNlhJX3Fwc0xnUHpDMDZMWXhwTllPX0RERldPTkY5d0NZalRWZkpPUy1BSjkzeGpxWVZDSDhxVHpKbTUwc2t2WmlkOU10QW9pT0RFS3BYREtkRVB2NjBmcmczeUpZT3JwZERydVNLZ2tpeHpRWGZOazNnT3FoWFJvbWgwUTZubXpqRndVaURQT1hGS0E?oc=5",
+    "title": "GTA 6 Leaker CyberLeek Cashes Out up to USD 3,00,000 Using Solana Meme Coin Amid Grand Theft Auto VI Leak",
+    "publisher": "LatestLY",
+    "publishedAt": "2026-09-07T06:44:16.000Z",
+    "discoveredAt": "2026-09-07T11:57:32.136Z",
+    "feed": "google-news",
+    "query": "CyberLeek arrest",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-db2b40fce5",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9ea6b1fd6c44d5952a989ed87a2ce0&url=https%3a%2f%2fwww.latestly.com%2fgaming%2fgta-6-leaker-cyberleek-cashes-out-up-to-usd-300000-using-solana-meme-coin-amid-grand-theft-auto-vi-leak-saga-7593364.html&c=12131969146513571157&mkt=en-us",
+    "title": "GTA 6 Leaker CyberLeek Cashes Out up to USD 3,00,000 Using Solana Meme Coin Amid Grand Theft Auto VI Leak Saga",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-06T23:44:00.000Z",
+    "discoveredAt": "2026-09-07T11:57:32.136Z",
+    "feed": "bing-news",
+    "query": "CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "CyberLeek",
+        "$CYBERLEEK holders"
+      ],
+      "claims": [
+        "LEEK-CLM-015"
+      ],
+      "category": "cryptocurrency",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
