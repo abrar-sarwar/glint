@@ -18550,5 +18550,48 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-6336d1b17c",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPZWw2c0xmY0xRSDUzc2cyQ21ycnN5d2NaaldKVGh2LTk4cEl1NXhuV0thbVVLcWpzUnpkZFZFNGJTTy10UUg4RlZRZnRkUXFQYmdzakJneEJsakV6Y0RNc3U4X2tiTTRUU01wY2ZKR3ZkQU93cEhTV3dSVEoxOGZrZjhZaDlpaEQ0c3BkUnZES1p5azZBaUZsbw?oc=5",
+    "title": "Rockstar faces a fake-leak problem it can’t fully stop",
+    "publisher": "thestreet.com",
+    "publishedAt": "2026-09-07T14:17:00.000Z",
+    "discoveredAt": "2026-09-07T17:41:57.272Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [
+        "LEEK-CLM-004"
+      ],
+      "category": "misinformation",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-7a211d5ee5",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5td3d4cW50TzJnY2VtUWt6Vlg1ZGl6WFFxMnhIWF9VNWpjdHBSckx1VWhfakQ5UmtnNGFIMnVaSnUwSmVqcF9COHlCWDhxeDhtOGpyV3RsN1VOMXdrMUEzSGJxeGZHUkZsaHE1NUJpQXRVTExXXzE0eHVR?oc=5",
+    "title": "REDACTED: GTA 6 Leaker Report Concerning ‘Releasing The Build’ Has Been Removed - insider-gaming.com",
+    "publisher": "insider-gaming.com",
+    "publishedAt": "2026-08-23T07:00:00.000Z",
+    "discoveredAt": "2026-09-07T17:41:57.272Z",
+    "feed": "google-news",
+    "query": "Take-Two CyberLeek",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-035"
+    }
   }
 ]
