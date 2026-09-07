@@ -18422,5 +18422,85 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-181eab3be4",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaEFIWWxYWFRuMlJaR1hCQU9XeS1HMEJfNDdTOXoyejd0Y1RxWl9nX2hfN0ZObXdpREFJZ3R4b2k0bzlTWmluVDR0MldKWFNHeWpMcHBoaFZlZmc3SkFfVDhrdTJQQWg0VFJYMUZEb1p4YmdaRFFkRkJIdEdMOG8zYmpqOUJVdFpqbDRNQXFxOU50d0ZVTGhpWHVYQ2xHVUptVHB3U3BHakhrc01idUtVS2t1SDhkUk9HWlpsQWZHd0M?oc=5",
+    "title": "Community GTA 6 map uses Netflix trailer and leaks to accurately chart Leonida",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-09-07T00:24:00.000Z",
+    "discoveredAt": "2026-09-07T03:39:25.286Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Netflix"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-3666d38749",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ySUZKY212bk4yWjdxZXQ3b3Z6alJyZk9xRHJFcFRxWEdlUTFZQlZhb3p0SUYtbzZ5TzRKOXEyUld2dVhkWnJIaVdYNHRKbFRad2o5b1NISGUyZENmamhhYlZTT3RIQms?oc=5",
+    "title": "GTA 6 Leaked Gameplay Confirms Shows Nudist Party In Unexpected Series' First",
+    "publisher": "imdb.com",
+    "publishedAt": "2026-09-06T20:16:05.000Z",
+    "discoveredAt": "2026-09-07T03:39:25.286Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-6fe644a53d",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRFdGWGV0M3A5V3drU3ozT29tM2liSzNJQlIxX2RXc0dZSkpLWWd0a1NoZ0JhSkNoNTNWdGNXXzFOb044ZzlVSExySG4tdDY1eGgtRGlVUURTSTI4cjdkdFVWUFVtTjQ3QjFQVEJoTTZuaU8wcEsyV1hwblFTaklBd2dEd0oweU01cktldHVXLUQzamRLV0NhaGtEMUZxVWdSajZheXdBb2RCbC1sWktNak9hNTQ?oc=5",
+    "title": "‘GTA 6’ Leaker Has Now Reached A Strip Club As Rockstar Scrambles",
+    "publisher": "Forbes",
+    "publishedAt": "2026-08-22T07:00:00.000Z",
+    "discoveredAt": "2026-09-07T03:39:25.286Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only",
+      "matchedEventId": "LEEK-EVT-033"
+    }
+  },
+  {
+    "id": "DISC-4b2a8097b3",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONE0yQVNrTzB2SVhVemwyenRVNEtsRTI3czF1LTRRWUdpWTYwbTRDbkEtSkZicF83NDNjaXFtVWZkRER1Nno2emRocmphRHVtam1kbTlDR1BXenhGLWNqR3NhSGx3amMzMloyRDNNS05oRjhHRDFaRXg5RnlhZU9aek1lMmZjRTVoLWxCRjczUmZrbndPYmVxczJvOThHY0t4NUtlUU11X0VOaWV6SWc?oc=5",
+    "title": "The GTA 6 'romance' controversy is everything that's wrong with the internet",
+    "publisher": "creativebloq.com",
+    "publishedAt": "2026-09-05T07:00:00.000Z",
+    "discoveredAt": "2026-09-07T03:39:25.286Z",
+    "feed": "google-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

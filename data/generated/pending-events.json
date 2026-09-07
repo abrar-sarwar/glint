@@ -5518,5 +5518,29 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-181eab3be4",
+    "title": "Community GTA 6 map uses Netflix trailer and leaks to accurately chart Leonida",
+    "reportedAt": "2026-09-07T00:24:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaEFIWWxYWFRuMlJaR1hCQU9XeS1HMEJfNDdTOXoyejd0Y1RxWl9nX2hfN0ZObXdpREFJZ3R4b2k0bzlTWmluVDR0MldKWFNHeWpMcHBoaFZlZmc3SkFfVDhrdTJQQWg0VFJYMUZEb1p4YmdaRFFkRkJIdEdMOG8zYmpqOUJVdFpqbDRNQXFxOU50d0ZVTGhpWHVYQ2xHVUptVHB3U3BHakhrc01idUtVS2t1SDhkUk9HWlpsQWZHd0M?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-3666d38749",
+    "title": "GTA 6 Leaked Gameplay Confirms Shows Nudist Party In Unexpected Series' First",
+    "reportedAt": "2026-09-06T20:16:05.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8ySUZKY212bk4yWjdxZXQ3b3Z6alJyZk9xRHJFcFRxWEdlUTFZQlZhb3p0SUYtbzZ5TzRKOXEyUld2dVhkWnJIaVdYNHRKbFRad2o5b1NISGUyZENmamhhYlZTT3RIQms?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
