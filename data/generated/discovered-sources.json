@@ -18632,5 +18632,82 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-0c5b596e13",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcTBaQnNUYV9aU0ZJYTJ6SVcyS2ZlZllQZUZMNkZyeVBtb0ptV25EUHlranlEeDlLVVkwcVZEbGxrX25UOGwxZ0FjZWJaSkNjQkptZTFUbDRtdGxxUU05Y0xQRzRZeXJTNDFFWERPdXFFYlZ4QVVyYnJRVkdqWnJ6U0tYQ2tiOHlUZUdUUzA4M0NDUldoTjNtMFY0cGJpRFZUSUo0UjctRENSN1k3eDA2eEpTeWNmZmlISjBoUzRESFJIcnkxMnYtdXl3?oc=5",
+    "title": "GTA 6 gameplay and map leaks see DMCA strikes, as confidence grows in their legitimacy",
+    "publisher": "Notebookcheck",
+    "publishedAt": "2026-08-18T07:00:00.000Z",
+    "discoveredAt": "2026-09-08T10:53:03.757Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [
+        "LEEK-CLM-023"
+      ],
+      "category": "legal",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-c4e6853453",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc01VSVdaRlJJT0VXeGFEM1NQR09TTy1hVTl3T1JXQjRKamozQUR3NFJNTHllSkJ0WW1waTVqUmd5akRfOU9kaTQtOHdzdjN6enNlTHBQVVp3TUdEN3NrYWxWaW9YRGJJay00WlB0d3ZIWE1fdW54WktHLXFpYTYycm5NVmJaX2hTYTV0TA?oc=5",
+    "title": "“GTA VI” leaks draw more scrutiny than Epstein files",
+    "publisher": "Salon.com",
+    "publishedAt": "2026-09-08T10:30:16.000Z",
+    "discoveredAt": "2026-09-08T10:53:03.757Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-8aaf252bb9",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9fe9158c9147ee9e46e6452db14750&url=https%3a%2f%2fwww.topspeed.com%2fgta-6-leaked-footage-leonida-vehicles-identified%2f&c=13233608924959385720&mkt=en-us",
+    "title": "GTA 6 Leaked Footage Reveals The Cars Spotted Roaming Leonida — Here's Every Model We Can Identify",
+    "publisher": "bing.com",
+    "publishedAt": "2026-08-18T13:30:00.000Z",
+    "discoveredAt": "2026-09-08T10:53:03.757Z",
+    "feed": "bing-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "category": "leak",
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
+  },
+  {
+    "id": "DISC-e5e75a63a2",
+    "url": "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9fe9159344485b8adb66d1a7b9626a&url=https%3a%2f%2fwww.msn.com%2fen-xl%2fnews%2fother%2fgta-6-global-release-times-revealed-new-zealand-players-set-to-get-first-access%2far-AA2bN6au&c=10883592260821463135&mkt=en-us",
+    "title": "GTA 6 global release times revealed, New Zealand players set to get first access",
+    "publisher": "bing.com",
+    "publishedAt": "2026-09-08T02:18:13.000Z",
+    "discoveredAt": "2026-09-08T10:53:03.757Z",
+    "feed": "bing-news",
+    "query": "GTA 6 leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]

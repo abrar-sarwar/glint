@@ -5554,5 +5554,41 @@
     "suggestedStatus": "unknown",
     "reviewStatus": "needs-analyst-review",
     "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-0c5b596e13",
+    "title": "GTA 6 gameplay and map leaks see DMCA strikes, as confidence grows in their legitimacy",
+    "reportedAt": "2026-08-18T07:00:00.000Z",
+    "category": "legal",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMiygFBVV95cUxOcTBaQnNUYV9aU0ZJYTJ6SVcyS2ZlZllQZUZMNkZyeVBtb0ptV25EUHlranlEeDlLVVkwcVZEbGxrX25UOGwxZ0FjZWJaSkNjQkptZTFUbDRtdGxxUU05Y0xQRzRZeXJTNDFFWERPdXFFYlZ4QVVyYnJRVkdqWnJ6U0tYQ2tiOHlUZUdUUzA4M0NDUldoTjNtMFY0cGJpRFZUSUo0UjctRENSN1k3eDA2eEpTeWNmZmlISjBoUzRESFJIcnkxMnYtdXl3?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-c4e6853453",
+    "title": "“GTA VI” leaks draw more scrutiny than Epstein files",
+    "reportedAt": "2026-09-08T10:30:16.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "https://news.google.com/rss/articles/CBMijAFBVV95cUxPc01VSVdaRlJJT0VXeGFEM1NQR09TTy1hVTl3T1JXQjRKamozQUR3NFJNTHllSkJ0WW1waTVqUmd5akRfOU9kaTQtOHdzdjN6enNlTHBQVVp3TUdEN3NrYWxWaW9YRGJJay00WlB0d3ZIWE1fdW54WktHLXFpYTYycm5NVmJaX2hTYTV0TA?oc=5"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
+  },
+  {
+    "id": "PEND-8aaf252bb9",
+    "title": "GTA 6 Leaked Footage Reveals The Cars Spotted Roaming Leonida — Here's Every Model We Can Identify",
+    "reportedAt": "2026-08-18T13:30:00.000Z",
+    "category": "leak",
+    "sourceUrls": [
+      "http://www.bing.com/news/apiclick.aspx?ref=FexRss&aid=&tid=6a9fe9158c9147ee9e46e6452db14750&url=https%3a%2f%2fwww.topspeed.com%2fgta-6-leaked-footage-leonida-vehicles-identified%2f&c=13233608924959385720&mkt=en-us"
+    ],
+    "suggestedStatus": "unknown",
+    "reviewStatus": "needs-analyst-review",
+    "note": "Rules-only classification. Confirm the event date from the article body before promoting; the reportedAt value is the publication time, not the event time."
   }
 ]
