@@ -18612,5 +18612,25 @@
       "suggestedStatus": "unknown",
       "model": "rules-only"
     }
+  },
+  {
+    "id": "DISC-d5854f41c7",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNU3JjVlBBSDVESHJmZXNtbFRqc2FiWjJDSkxVUmpWT2U0bzdLQkFoazAxZmRRdm52XzQxYUM1S2ZnY0VFejNaUmM2akE0Wnc1YjNuRDhvM0hrSnhlWHZLVUtlOGduUk1qcmR5bkdoazFubG5jWmFyYW9YbUladUpKMHNmNEFOMm9mS3llbWpLVmktZFNWNWlvRGxvLUN3amtrVDJQVHJtYThYZERlMGZJ0gG0AUFVX3lxTE9mSzhkVjF2LW4zV3RwTklsb3JqcDB0TklxaFJTZXQ1U3ZubnNMNF9iTXZGcFB5b2JhNXJEWTRDT2p5OUhYVlE5dzUtWjZPV2RlZm9LY0U0dUViU1YxWWMzdEFtc2VSa2NJb0JsVlBDNFlyX19oSHNxU0poOXMxOFUtWHFZekRLN0tmazF2RmIwdFY2MTdQeEVJSjFIVk9VeVBtd2RDejBnVkMyVjFNWTlkUjdZeQ?oc=5",
+    "title": "Rockstar May Move GTA 6 PC Launch in Response to Expected Console Shortages",
+    "publisher": "TechPowerUp",
+    "publishedAt": "2026-09-08T02:54:43.000Z",
+    "discoveredAt": "2026-09-08T03:44:21.552Z",
+    "feed": "google-news",
+    "query": "GTA VI leak",
+    "suggestedTier": 7,
+    "reviewStatus": "needs-analyst-review",
+    "classification": {
+      "entities": [
+        "Rockstar Games"
+      ],
+      "claims": [],
+      "suggestedStatus": "unknown",
+      "model": "rules-only"
+    }
   }
 ]
